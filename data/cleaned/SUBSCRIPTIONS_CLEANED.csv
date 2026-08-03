@@ -1,0 +1,1801 @@
+subscription_id,user_id,plan_type,start_date,end_date,cancellation_reason,churn_flag,subscription_month,active_days,subscription_period
+1,769,Monthly_499,2024-03-12,,,0,3,,Pre-Update
+2,2003,Quarterly_1299,2024-05-17,,,0,5,,Post-Update
+3,579,Monthly_499,2024-05-26,,,0,5,,Post-Update
+4,253,Monthly_499,2024-05-12,,,0,5,,Post-Update
+5,726,Quarterly_1299,2024-04-01,2024-04-17,Found Better App,1,4,16.0,Post-Update
+6,790,Monthly_499,2024-04-21,,,0,4,,Post-Update
+7,777,Monthly_499,2024-03-14,2024-04-28,Hard to Cancel,1,3,45.0,Pre-Update
+8,348,Monthly_499,2024-02-27,2024-04-06,Too Expensive,1,2,39.0,Pre-Update
+9,2823,Monthly_499,2024-01-14,,,0,1,,Pre-Update
+10,2662,Annual_3999,2024-06-16,2024-07-07,Too Expensive,1,6,21.0,Post-Update
+11,192,Annual_3999,2024-02-11,2024-04-13,Found Better App,1,2,62.0,Pre-Update
+12,2337,Annual_3999,2024-01-10,,,0,1,,Pre-Update
+13,1182,Monthly_499,2024-05-03,2024-05-13,Too Expensive,1,5,10.0,Post-Update
+14,2983,Quarterly_1299,2024-01-30,,,0,1,,Pre-Update
+15,1863,Monthly_499,2024-02-16,2024-03-30,Hard to Cancel,1,2,43.0,Pre-Update
+16,331,Monthly_499,2024-03-01,,,0,3,,Pre-Update
+17,2145,Monthly_499,2024-02-26,2024-03-26,Found Better App,1,2,29.0,Pre-Update
+18,249,Monthly_499,2024-04-03,2024-06-06,Found Better App,1,4,64.0,Post-Update
+19,2429,Monthly_499,2024-01-27,2024-02-27,Too Expensive,1,1,31.0,Pre-Update
+20,1358,Monthly_499,2024-04-02,2024-05-25,Hard to Cancel,1,4,53.0,Post-Update
+21,1963,Monthly_499,2024-06-11,,,0,6,,Post-Update
+22,2853,Monthly_499,2024-01-10,,,0,1,,Pre-Update
+23,498,Monthly_499,2024-02-05,,,0,2,,Pre-Update
+24,2599,Monthly_499,2024-05-11,,,0,5,,Post-Update
+25,1876,Quarterly_1299,2024-02-26,2024-03-25,Found Better App,1,2,28.0,Pre-Update
+26,1151,Monthly_499,2024-03-24,,,0,3,,Post-Update
+27,2188,Monthly_499,2024-02-25,,,0,2,,Pre-Update
+28,182,Monthly_499,2024-05-31,,,0,5,,Post-Update
+29,2043,Quarterly_1299,2024-05-20,,,0,5,,Post-Update
+30,1965,Annual_3999,2024-05-22,2024-07-08,Found Better App,1,5,47.0,Post-Update
+31,342,Annual_3999,2024-06-05,,,0,6,,Post-Update
+32,2445,Monthly_499,2024-06-29,,,0,6,,Post-Update
+33,668,Monthly_499,2024-05-21,,,0,5,,Post-Update
+34,1085,Quarterly_1299,2024-03-09,,,0,3,,Pre-Update
+35,2942,Monthly_499,2024-02-19,,,0,2,,Pre-Update
+36,227,Quarterly_1299,2024-04-15,,,0,4,,Post-Update
+37,1488,Monthly_499,2024-03-01,,,0,3,,Pre-Update
+38,8,Monthly_499,2024-02-21,2024-04-22,Not Using App,1,2,61.0,Pre-Update
+39,1795,Monthly_499,2024-06-06,2024-07-21,Too Expensive,1,6,45.0,Post-Update
+40,1112,Monthly_499,2024-02-10,,,0,2,,Pre-Update
+41,2664,Quarterly_1299,2024-02-21,,,0,2,,Pre-Update
+42,1709,Annual_3999,2024-06-16,,,0,6,,Post-Update
+43,1136,Annual_3999,2024-03-14,2024-05-20,Not Using App,1,3,67.0,Pre-Update
+44,1359,Monthly_499,2024-01-20,,,0,1,,Pre-Update
+45,1068,Monthly_499,2024-01-08,,,0,1,,Pre-Update
+46,962,Annual_3999,2024-06-24,,,0,6,,Post-Update
+47,415,Monthly_499,2024-06-29,,,0,6,,Post-Update
+48,1221,Quarterly_1299,2024-04-15,,,0,4,,Post-Update
+49,1142,Monthly_499,2024-05-31,,,0,5,,Post-Update
+50,1663,Monthly_499,2024-04-08,,,0,4,,Post-Update
+51,721,Annual_3999,2024-01-26,,,0,1,,Pre-Update
+52,1469,Monthly_499,2024-06-27,2024-08-11,Hard to Cancel,1,6,45.0,Post-Update
+53,740,Quarterly_1299,2024-06-09,,,0,6,,Post-Update
+54,2363,Quarterly_1299,2024-04-24,2024-05-20,Too Expensive,1,4,26.0,Post-Update
+55,1734,Monthly_499,2024-06-26,,,0,6,,Post-Update
+56,14,Monthly_499,2024-02-27,,,0,2,,Pre-Update
+57,2369,Annual_3999,2024-02-14,,,0,2,,Pre-Update
+58,1283,Monthly_499,2024-02-27,2024-05-03,Found Better App,1,2,66.0,Pre-Update
+59,2256,Annual_3999,2024-06-01,2024-06-28,Hard to Cancel,1,6,27.0,Post-Update
+60,2012,Quarterly_1299,2024-06-21,,,0,6,,Post-Update
+61,980,Monthly_499,2024-06-07,,,0,6,,Post-Update
+62,1973,Annual_3999,2024-02-01,,,0,2,,Pre-Update
+63,373,Monthly_499,2024-05-12,2024-06-19,Hard to Cancel,1,5,38.0,Post-Update
+64,524,Monthly_499,2024-05-11,,,0,5,,Post-Update
+65,1644,Monthly_499,2024-04-20,2024-06-29,Hard to Cancel,1,4,70.0,Post-Update
+66,2104,Monthly_499,2024-06-16,,,0,6,,Post-Update
+67,2268,Monthly_499,2024-02-01,,,0,2,,Pre-Update
+68,1304,Annual_3999,2024-06-02,2024-08-15,Too Expensive,1,6,74.0,Post-Update
+69,2995,Quarterly_1299,2024-06-17,,,0,6,,Post-Update
+70,2399,Monthly_499,2024-02-25,,,0,2,,Pre-Update
+71,1231,Monthly_499,2024-05-17,2024-08-09,Hard to Cancel,1,5,84.0,Post-Update
+72,2174,Monthly_499,2024-02-25,,,0,2,,Pre-Update
+73,469,Quarterly_1299,2024-02-15,2024-05-02,Too Expensive,1,2,77.0,Pre-Update
+74,2147,Monthly_499,2024-02-13,,,0,2,,Pre-Update
+75,1148,Annual_3999,2024-03-14,2024-04-10,Not Using App,1,3,27.0,Pre-Update
+76,876,Monthly_499,2024-05-04,,,0,5,,Post-Update
+77,89,Monthly_499,2024-06-15,,,0,6,,Post-Update
+78,1409,Monthly_499,2024-06-19,,,0,6,,Post-Update
+79,2012,Annual_3999,2024-02-04,2024-04-26,Hard to Cancel,1,2,82.0,Pre-Update
+80,2345,Quarterly_1299,2024-04-18,,,0,4,,Post-Update
+81,1606,Monthly_499,2024-01-30,2024-03-05,Found Better App,1,1,35.0,Pre-Update
+82,298,Monthly_499,2024-01-12,,,0,1,,Pre-Update
+83,1153,Monthly_499,2024-02-17,2024-04-29,Not Using App,1,2,72.0,Pre-Update
+84,851,Monthly_499,2024-02-14,2024-03-30,Found Better App,1,2,45.0,Pre-Update
+85,249,Monthly_499,2024-05-19,,,0,5,,Post-Update
+86,1956,Annual_3999,2024-02-03,,,0,2,,Pre-Update
+87,2483,Annual_3999,2024-01-13,2024-01-27,Found Better App,1,1,14.0,Pre-Update
+88,684,Quarterly_1299,2024-04-01,,,0,4,,Post-Update
+89,2280,Annual_3999,2024-06-02,2024-06-27,Hard to Cancel,1,6,25.0,Post-Update
+90,93,Annual_3999,2024-02-05,,,0,2,,Pre-Update
+91,2279,Monthly_499,2024-01-24,,,0,1,,Pre-Update
+92,2955,Monthly_499,2024-05-04,2024-06-03,Hard to Cancel,1,5,30.0,Post-Update
+93,1663,Monthly_499,2024-06-25,2024-07-20,Hard to Cancel,1,6,25.0,Post-Update
+94,2187,Monthly_499,2024-02-16,,,0,2,,Pre-Update
+95,602,Annual_3999,2024-06-14,2024-08-21,Hard to Cancel,1,6,68.0,Post-Update
+96,532,Quarterly_1299,2024-01-11,,,0,1,,Pre-Update
+97,2167,Annual_3999,2024-05-28,2024-07-01,Found Better App,1,5,34.0,Post-Update
+98,1293,Monthly_499,2024-04-07,2024-06-25,Hard to Cancel,1,4,79.0,Post-Update
+99,2437,Quarterly_1299,2024-05-27,,,0,5,,Post-Update
+100,1695,Monthly_499,2024-05-17,2024-08-10,Found Better App,1,5,85.0,Post-Update
+101,23,Quarterly_1299,2024-01-24,,,0,1,,Pre-Update
+102,2813,Monthly_499,2024-03-11,2024-06-03,Too Expensive,1,3,84.0,Pre-Update
+103,1743,Quarterly_1299,2024-01-15,2024-02-04,Not Using App,1,1,20.0,Pre-Update
+104,2140,Monthly_499,2024-05-05,2024-07-24,Not Using App,1,5,80.0,Post-Update
+105,2545,Monthly_499,2024-01-25,2024-02-10,Too Expensive,1,1,16.0,Pre-Update
+106,435,Monthly_499,2024-02-24,,,0,2,,Pre-Update
+107,445,Monthly_499,2024-02-26,,,0,2,,Pre-Update
+108,374,Monthly_499,2024-04-03,2024-06-07,Hard to Cancel,1,4,65.0,Post-Update
+109,1357,Monthly_499,2024-06-17,,,0,6,,Post-Update
+110,2431,Quarterly_1299,2024-05-26,2024-06-24,Hard to Cancel,1,5,29.0,Post-Update
+111,284,Quarterly_1299,2024-03-10,2024-04-09,Too Expensive,1,3,30.0,Pre-Update
+112,322,Quarterly_1299,2024-01-03,,,0,1,,Pre-Update
+113,423,Annual_3999,2024-05-03,,,0,5,,Post-Update
+114,1786,Monthly_499,2024-02-11,2024-04-18,Hard to Cancel,1,2,67.0,Pre-Update
+115,745,Monthly_499,2024-01-01,2024-03-27,Not Using App,1,1,86.0,Pre-Update
+116,2022,Monthly_499,2024-02-14,2024-05-11,Found Better App,1,2,87.0,Pre-Update
+117,1350,Annual_3999,2024-04-25,2024-05-18,Not Using App,1,4,23.0,Post-Update
+118,1458,Quarterly_1299,2024-01-07,,,0,1,,Pre-Update
+119,1471,Quarterly_1299,2024-06-01,2024-08-08,Hard to Cancel,1,6,68.0,Post-Update
+120,845,Quarterly_1299,2024-01-21,2024-02-21,Too Expensive,1,1,31.0,Pre-Update
+121,1698,Monthly_499,2024-03-14,,,0,3,,Pre-Update
+122,868,Monthly_499,2024-01-13,2024-02-19,Too Expensive,1,1,37.0,Pre-Update
+123,921,Quarterly_1299,2024-05-12,2024-05-25,Found Better App,1,5,13.0,Post-Update
+124,995,Annual_3999,2024-06-25,,,0,6,,Post-Update
+125,2384,Monthly_499,2024-04-01,2024-06-03,Not Using App,1,4,63.0,Post-Update
+126,1456,Monthly_499,2024-02-27,,,0,2,,Pre-Update
+127,1096,Quarterly_1299,2024-04-09,2024-06-30,Not Using App,1,4,82.0,Post-Update
+128,1530,Monthly_499,2024-01-02,,,0,1,,Pre-Update
+129,2736,Quarterly_1299,2024-01-21,,,0,1,,Pre-Update
+130,1458,Quarterly_1299,2024-01-10,,,0,1,,Pre-Update
+131,2287,Monthly_499,2024-02-27,,,0,2,,Pre-Update
+132,371,Monthly_499,2024-05-20,2024-07-17,Hard to Cancel,1,5,58.0,Post-Update
+133,2600,Monthly_499,2024-02-29,2024-05-16,Not Using App,1,2,77.0,Pre-Update
+134,2057,Monthly_499,2024-03-31,,,0,3,,Post-Update
+135,1009,Monthly_499,2024-03-26,,,0,3,,Post-Update
+136,2248,Monthly_499,2024-04-28,2024-07-05,Hard to Cancel,1,4,68.0,Post-Update
+137,1835,Monthly_499,2024-04-14,,,0,4,,Post-Update
+138,2172,Monthly_499,2024-06-06,2024-08-14,Found Better App,1,6,69.0,Post-Update
+139,1885,Monthly_499,2024-02-10,,,0,2,,Pre-Update
+140,1664,Monthly_499,2024-03-20,2024-04-27,Too Expensive,1,3,38.0,Post-Update
+141,2819,Quarterly_1299,2024-06-09,2024-06-25,Hard to Cancel,1,6,16.0,Post-Update
+142,523,Monthly_499,2024-01-02,,,0,1,,Pre-Update
+143,1457,Monthly_499,2024-04-15,2024-05-29,Hard to Cancel,1,4,44.0,Post-Update
+144,340,Monthly_499,2024-01-21,,,0,1,,Pre-Update
+145,706,Monthly_499,2024-05-30,,,0,5,,Post-Update
+146,1434,Monthly_499,2024-01-16,,,0,1,,Pre-Update
+147,2417,Monthly_499,2024-05-12,2024-07-10,Found Better App,1,5,59.0,Post-Update
+148,1352,Annual_3999,2024-04-30,,,0,4,,Post-Update
+149,2239,Monthly_499,2024-06-12,,,0,6,,Post-Update
+150,1511,Monthly_499,2024-04-04,,,0,4,,Post-Update
+151,752,Annual_3999,2024-04-06,,,0,4,,Post-Update
+152,558,Monthly_499,2024-06-23,,,0,6,,Post-Update
+153,1462,Quarterly_1299,2024-01-11,,,0,1,,Pre-Update
+154,269,Monthly_499,2024-05-11,,,0,5,,Post-Update
+155,569,Monthly_499,2024-06-24,2024-09-01,Hard to Cancel,1,6,69.0,Post-Update
+156,1374,Monthly_499,2024-06-09,2024-08-20,Hard to Cancel,1,6,72.0,Post-Update
+157,1051,Quarterly_1299,2024-03-02,2024-04-04,Not Using App,1,3,33.0,Pre-Update
+158,2107,Quarterly_1299,2024-03-06,,,0,3,,Pre-Update
+159,2497,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+160,1526,Monthly_499,2024-06-29,2024-07-15,Too Expensive,1,6,16.0,Post-Update
+161,996,Quarterly_1299,2024-01-23,,,0,1,,Pre-Update
+162,2922,Quarterly_1299,2024-04-09,,,0,4,,Post-Update
+163,499,Quarterly_1299,2024-02-10,,,0,2,,Pre-Update
+164,196,Quarterly_1299,2024-02-04,2024-04-24,Not Using App,1,2,80.0,Pre-Update
+165,2434,Monthly_499,2024-06-28,,,0,6,,Post-Update
+166,1739,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+167,148,Annual_3999,2024-03-17,2024-06-11,Hard to Cancel,1,3,86.0,Post-Update
+168,1353,Annual_3999,2024-01-12,,,0,1,,Pre-Update
+169,459,Monthly_499,2024-06-20,,,0,6,,Post-Update
+170,2728,Quarterly_1299,2024-06-11,2024-07-25,Not Using App,1,6,44.0,Post-Update
+171,1018,Monthly_499,2024-04-02,2024-04-17,Found Better App,1,4,15.0,Post-Update
+172,1269,Monthly_499,2024-03-03,,,0,3,,Pre-Update
+173,2661,Quarterly_1299,2024-05-02,,,0,5,,Post-Update
+174,2739,Quarterly_1299,2024-05-06,,,0,5,,Post-Update
+175,660,Monthly_499,2024-06-29,,,0,6,,Post-Update
+176,1342,Monthly_499,2024-01-29,,,0,1,,Pre-Update
+177,1707,Quarterly_1299,2024-03-29,2024-06-20,Found Better App,1,3,83.0,Post-Update
+178,2539,Quarterly_1299,2024-03-25,,,0,3,,Post-Update
+179,1120,Annual_3999,2024-02-10,2024-03-23,Too Expensive,1,2,42.0,Pre-Update
+180,2790,Annual_3999,2024-06-21,,,0,6,,Post-Update
+181,2732,Quarterly_1299,2024-05-02,2024-07-27,Hard to Cancel,1,5,86.0,Post-Update
+182,1250,Monthly_499,2024-02-26,2024-03-08,Too Expensive,1,2,11.0,Pre-Update
+183,1946,Monthly_499,2024-02-09,2024-04-30,Too Expensive,1,2,81.0,Pre-Update
+184,1959,Monthly_499,2024-03-25,2024-04-29,Hard to Cancel,1,3,35.0,Post-Update
+185,1708,Annual_3999,2024-04-07,2024-05-30,Not Using App,1,4,53.0,Post-Update
+186,1204,Quarterly_1299,2024-04-17,2024-04-28,Found Better App,1,4,11.0,Post-Update
+187,984,Monthly_499,2024-01-04,,,0,1,,Pre-Update
+188,175,Monthly_499,2024-06-05,2024-07-15,Hard to Cancel,1,6,40.0,Post-Update
+189,2894,Quarterly_1299,2024-04-09,,,0,4,,Post-Update
+190,1095,Monthly_499,2024-01-16,2024-01-27,Found Better App,1,1,11.0,Pre-Update
+191,931,Quarterly_1299,2024-06-18,,,0,6,,Post-Update
+192,1648,Quarterly_1299,2024-06-04,2024-07-01,Hard to Cancel,1,6,27.0,Post-Update
+193,1330,Monthly_499,2024-04-09,,,0,4,,Post-Update
+194,404,Quarterly_1299,2024-02-10,,,0,2,,Pre-Update
+195,638,Quarterly_1299,2024-03-24,2024-04-06,Hard to Cancel,1,3,13.0,Post-Update
+196,1895,Quarterly_1299,2024-05-07,2024-06-15,Too Expensive,1,5,39.0,Post-Update
+197,622,Quarterly_1299,2024-01-11,2024-03-18,Too Expensive,1,1,67.0,Pre-Update
+198,2247,Quarterly_1299,2024-02-05,2024-03-05,Found Better App,1,2,29.0,Pre-Update
+199,2803,Monthly_499,2024-06-07,2024-08-17,Found Better App,1,6,71.0,Post-Update
+200,647,Monthly_499,2024-03-08,,,0,3,,Pre-Update
+201,969,Monthly_499,2024-04-21,,,0,4,,Post-Update
+202,741,Quarterly_1299,2024-01-15,2024-03-05,Too Expensive,1,1,50.0,Pre-Update
+203,1900,Monthly_499,2024-03-26,,,0,3,,Post-Update
+204,2662,Quarterly_1299,2024-06-10,2024-06-24,Hard to Cancel,1,6,14.0,Post-Update
+205,2500,Monthly_499,2024-06-25,,,0,6,,Post-Update
+206,1870,Monthly_499,2024-02-18,2024-03-22,Found Better App,1,2,33.0,Pre-Update
+207,1358,Annual_3999,2024-04-28,,,0,4,,Post-Update
+208,601,Quarterly_1299,2024-02-14,2024-05-13,Found Better App,1,2,89.0,Pre-Update
+209,1206,Quarterly_1299,2024-03-07,2024-04-29,Too Expensive,1,3,53.0,Pre-Update
+210,1864,Annual_3999,2024-05-15,2024-06-12,Too Expensive,1,5,28.0,Post-Update
+211,1329,Monthly_499,2024-02-29,,,0,2,,Pre-Update
+212,545,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+213,1153,Monthly_499,2024-01-26,2024-02-09,Too Expensive,1,1,14.0,Pre-Update
+214,561,Annual_3999,2024-01-21,,,0,1,,Pre-Update
+215,735,Quarterly_1299,2024-02-21,,,0,2,,Pre-Update
+216,2593,Monthly_499,2024-04-12,2024-06-09,Too Expensive,1,4,58.0,Post-Update
+217,1445,Quarterly_1299,2024-03-17,2024-04-29,Not Using App,1,3,43.0,Post-Update
+218,2635,Annual_3999,2024-06-14,,,0,6,,Post-Update
+219,2426,Annual_3999,2024-02-20,2024-03-19,Hard to Cancel,1,2,28.0,Pre-Update
+220,1768,Monthly_499,2024-05-21,2024-06-11,Not Using App,1,5,21.0,Post-Update
+221,2005,Monthly_499,2024-06-06,2024-08-14,Hard to Cancel,1,6,69.0,Post-Update
+222,2724,Monthly_499,2024-06-04,2024-07-29,Hard to Cancel,1,6,55.0,Post-Update
+223,2174,Quarterly_1299,2024-03-06,2024-05-11,Too Expensive,1,3,66.0,Pre-Update
+224,2202,Monthly_499,2024-01-27,2024-03-19,Hard to Cancel,1,1,52.0,Pre-Update
+225,1184,Quarterly_1299,2024-06-24,,,0,6,,Post-Update
+226,292,Annual_3999,2024-02-11,2024-03-20,Hard to Cancel,1,2,38.0,Pre-Update
+227,523,Monthly_499,2024-05-09,2024-06-30,Hard to Cancel,1,5,52.0,Post-Update
+228,1602,Monthly_499,2024-06-29,,,0,6,,Post-Update
+229,1288,Quarterly_1299,2024-03-13,2024-06-07,Too Expensive,1,3,86.0,Pre-Update
+230,1763,Monthly_499,2024-03-25,2024-05-23,Too Expensive,1,3,59.0,Post-Update
+231,1812,Annual_3999,2024-06-19,,,0,6,,Post-Update
+232,1914,Monthly_499,2024-02-04,,,0,2,,Pre-Update
+233,2463,Monthly_499,2024-03-05,,,0,3,,Pre-Update
+234,2738,Monthly_499,2024-05-28,,,0,5,,Post-Update
+235,1546,Quarterly_1299,2024-04-23,2024-07-07,Not Using App,1,4,75.0,Post-Update
+236,398,Monthly_499,2024-04-02,2024-05-26,Hard to Cancel,1,4,54.0,Post-Update
+237,866,Monthly_499,2024-06-05,,,0,6,,Post-Update
+238,786,Quarterly_1299,2024-01-21,,,0,1,,Pre-Update
+239,1459,Monthly_499,2024-05-12,,,0,5,,Post-Update
+240,1669,Quarterly_1299,2024-02-19,,,0,2,,Pre-Update
+241,1097,Quarterly_1299,2024-05-14,,,0,5,,Post-Update
+242,1020,Annual_3999,2024-02-05,2024-05-02,Too Expensive,1,2,87.0,Pre-Update
+243,2919,Quarterly_1299,2024-05-11,2024-07-21,Not Using App,1,5,71.0,Post-Update
+244,640,Monthly_499,2024-06-21,,,0,6,,Post-Update
+245,1359,Monthly_499,2024-06-24,,,0,6,,Post-Update
+246,241,Monthly_499,2024-06-09,2024-08-25,Hard to Cancel,1,6,77.0,Post-Update
+247,726,Monthly_499,2024-01-29,,,0,1,,Pre-Update
+248,2450,Monthly_499,2024-05-06,2024-06-18,Not Using App,1,5,43.0,Post-Update
+249,1490,Quarterly_1299,2024-02-13,,,0,2,,Pre-Update
+250,12,Quarterly_1299,2024-04-07,,,0,4,,Post-Update
+251,376,Monthly_499,2024-01-19,,,0,1,,Pre-Update
+252,1983,Monthly_499,2024-01-08,2024-02-26,Too Expensive,1,1,49.0,Pre-Update
+253,685,Annual_3999,2024-01-22,2024-02-29,Hard to Cancel,1,1,38.0,Pre-Update
+254,1744,Quarterly_1299,2024-04-02,2024-04-17,Not Using App,1,4,15.0,Post-Update
+255,2989,Monthly_499,2024-03-25,2024-05-15,Too Expensive,1,3,51.0,Post-Update
+256,2315,Annual_3999,2024-06-05,2024-06-16,Found Better App,1,6,11.0,Post-Update
+257,1249,Quarterly_1299,2024-03-12,2024-05-29,Hard to Cancel,1,3,78.0,Pre-Update
+258,2708,Monthly_499,2024-02-10,,,0,2,,Pre-Update
+259,1833,Annual_3999,2024-06-21,,,0,6,,Post-Update
+260,1031,Monthly_499,2024-02-10,,,0,2,,Pre-Update
+261,1204,Annual_3999,2024-05-29,2024-08-12,Not Using App,1,5,75.0,Post-Update
+262,1082,Monthly_499,2024-04-01,,,0,4,,Post-Update
+263,913,Quarterly_1299,2024-02-29,2024-03-21,Not Using App,1,2,21.0,Pre-Update
+264,291,Monthly_499,2024-03-08,,,0,3,,Pre-Update
+265,205,Monthly_499,2024-01-12,,,0,1,,Pre-Update
+266,1593,Monthly_499,2024-04-06,,,0,4,,Post-Update
+267,1591,Monthly_499,2024-03-14,2024-05-28,Found Better App,1,3,75.0,Pre-Update
+268,1319,Monthly_499,2024-02-17,2024-03-12,Too Expensive,1,2,24.0,Pre-Update
+269,936,Monthly_499,2024-01-10,2024-02-16,Too Expensive,1,1,37.0,Pre-Update
+270,1563,Annual_3999,2024-05-03,2024-06-21,Not Using App,1,5,49.0,Post-Update
+271,1858,Monthly_499,2024-04-26,,,0,4,,Post-Update
+272,1101,Quarterly_1299,2024-01-29,,,0,1,,Pre-Update
+273,2021,Quarterly_1299,2024-04-06,,,0,4,,Post-Update
+274,729,Quarterly_1299,2024-02-24,2024-05-06,Found Better App,1,2,72.0,Pre-Update
+275,2226,Monthly_499,2024-02-16,,,0,2,,Pre-Update
+276,2066,Monthly_499,2024-05-06,2024-05-19,Hard to Cancel,1,5,13.0,Post-Update
+277,2649,Monthly_499,2024-03-15,,,0,3,,Post-Update
+278,2190,Monthly_499,2024-02-21,2024-05-07,Too Expensive,1,2,76.0,Pre-Update
+279,2091,Quarterly_1299,2024-05-19,2024-06-15,Too Expensive,1,5,27.0,Post-Update
+280,1036,Monthly_499,2024-06-15,2024-08-15,Found Better App,1,6,61.0,Post-Update
+281,216,Quarterly_1299,2024-03-06,,,0,3,,Pre-Update
+282,2331,Monthly_499,2024-01-25,,,0,1,,Pre-Update
+283,1989,Monthly_499,2024-02-21,,,0,2,,Pre-Update
+284,1271,Monthly_499,2024-01-13,2024-03-11,Not Using App,1,1,58.0,Pre-Update
+285,2563,Quarterly_1299,2024-04-30,,,0,4,,Post-Update
+286,2718,Monthly_499,2024-01-01,2024-02-17,Found Better App,1,1,47.0,Pre-Update
+287,1023,Monthly_499,2024-06-02,,,0,6,,Post-Update
+288,2736,Monthly_499,2024-01-07,2024-01-30,Not Using App,1,1,23.0,Pre-Update
+289,374,Annual_3999,2024-01-11,2024-01-25,Too Expensive,1,1,14.0,Pre-Update
+290,2946,Monthly_499,2024-02-08,,,0,2,,Pre-Update
+291,1703,Quarterly_1299,2024-06-06,,,0,6,,Post-Update
+292,182,Monthly_499,2024-04-02,2024-06-13,Not Using App,1,4,72.0,Post-Update
+293,1016,Monthly_499,2024-03-29,2024-06-16,Hard to Cancel,1,3,79.0,Post-Update
+294,2219,Monthly_499,2024-02-22,2024-05-13,Not Using App,1,2,81.0,Pre-Update
+295,2703,Monthly_499,2024-06-20,2024-08-11,Too Expensive,1,6,52.0,Post-Update
+296,2609,Quarterly_1299,2024-02-17,,,0,2,,Pre-Update
+297,1431,Quarterly_1299,2024-02-13,2024-03-02,Too Expensive,1,2,18.0,Pre-Update
+298,692,Monthly_499,2024-02-09,2024-04-12,Too Expensive,1,2,63.0,Pre-Update
+299,2948,Quarterly_1299,2024-02-28,,,0,2,,Pre-Update
+300,2889,Monthly_499,2024-04-22,2024-06-21,Hard to Cancel,1,4,60.0,Post-Update
+301,2719,Monthly_499,2024-03-23,2024-05-17,Hard to Cancel,1,3,55.0,Post-Update
+302,2012,Quarterly_1299,2024-06-17,,,0,6,,Post-Update
+303,700,Quarterly_1299,2024-06-05,2024-08-12,Hard to Cancel,1,6,68.0,Post-Update
+304,728,Monthly_499,2024-06-21,2024-08-29,Too Expensive,1,6,69.0,Post-Update
+305,1977,Quarterly_1299,2024-04-11,2024-04-24,Too Expensive,1,4,13.0,Post-Update
+306,567,Monthly_499,2024-06-22,2024-08-23,Hard to Cancel,1,6,62.0,Post-Update
+307,1088,Monthly_499,2024-03-16,,,0,3,,Post-Update
+308,2250,Monthly_499,2024-03-31,,,0,3,,Post-Update
+309,2487,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+310,1813,Monthly_499,2024-03-15,,,0,3,,Post-Update
+311,126,Quarterly_1299,2024-03-06,,,0,3,,Pre-Update
+312,1220,Quarterly_1299,2024-02-02,,,0,2,,Pre-Update
+313,229,Monthly_499,2024-06-17,2024-07-13,Hard to Cancel,1,6,26.0,Post-Update
+314,559,Quarterly_1299,2024-03-22,2024-04-19,Found Better App,1,3,28.0,Post-Update
+315,814,Monthly_499,2024-03-09,2024-06-06,Too Expensive,1,3,89.0,Pre-Update
+316,696,Monthly_499,2024-03-18,,,0,3,,Post-Update
+317,1085,Annual_3999,2024-06-28,2024-07-28,Hard to Cancel,1,6,30.0,Post-Update
+318,2909,Monthly_499,2024-03-15,2024-04-04,Hard to Cancel,1,3,20.0,Post-Update
+319,168,Annual_3999,2024-01-04,2024-01-17,Not Using App,1,1,13.0,Pre-Update
+320,1728,Monthly_499,2024-02-15,,,0,2,,Pre-Update
+321,2203,Monthly_499,2024-01-17,,,0,1,,Pre-Update
+322,486,Quarterly_1299,2024-06-04,2024-06-18,Not Using App,1,6,14.0,Post-Update
+323,2140,Monthly_499,2024-02-13,2024-04-04,Found Better App,1,2,51.0,Pre-Update
+324,1283,Monthly_499,2024-01-27,,,0,1,,Pre-Update
+325,1799,Monthly_499,2024-04-25,2024-05-06,Found Better App,1,4,11.0,Post-Update
+326,2452,Monthly_499,2024-01-30,,,0,1,,Pre-Update
+327,2175,Monthly_499,2024-04-03,2024-05-17,Too Expensive,1,4,44.0,Post-Update
+328,1012,Monthly_499,2024-01-22,2024-04-02,Too Expensive,1,1,71.0,Pre-Update
+329,1452,Monthly_499,2024-03-03,2024-05-22,Too Expensive,1,3,80.0,Pre-Update
+330,707,Monthly_499,2024-01-10,2024-02-24,Too Expensive,1,1,45.0,Pre-Update
+331,1229,Quarterly_1299,2024-01-01,,,0,1,,Pre-Update
+332,1199,Monthly_499,2024-01-24,,,0,1,,Pre-Update
+333,2545,Monthly_499,2024-05-12,2024-07-08,Not Using App,1,5,57.0,Post-Update
+334,710,Monthly_499,2024-05-19,2024-07-15,Not Using App,1,5,57.0,Post-Update
+335,2823,Monthly_499,2024-03-27,2024-04-17,Too Expensive,1,3,21.0,Post-Update
+336,1823,Monthly_499,2024-02-10,,,0,2,,Pre-Update
+337,451,Monthly_499,2024-02-29,,,0,2,,Pre-Update
+338,906,Monthly_499,2024-04-15,2024-05-23,Found Better App,1,4,38.0,Post-Update
+339,2006,Monthly_499,2024-04-01,2024-06-29,Too Expensive,1,4,89.0,Post-Update
+340,685,Monthly_499,2024-02-07,2024-04-04,Not Using App,1,2,57.0,Pre-Update
+341,298,Monthly_499,2024-05-19,2024-07-25,Hard to Cancel,1,5,67.0,Post-Update
+342,1844,Monthly_499,2024-04-20,2024-06-12,Found Better App,1,4,53.0,Post-Update
+343,1037,Quarterly_1299,2024-05-15,2024-06-10,Hard to Cancel,1,5,26.0,Post-Update
+344,1681,Quarterly_1299,2024-01-18,,,0,1,,Pre-Update
+345,1043,Monthly_499,2024-03-26,2024-06-14,Found Better App,1,3,80.0,Post-Update
+346,2515,Monthly_499,2024-04-01,2024-06-18,Too Expensive,1,4,78.0,Post-Update
+347,120,Monthly_499,2024-04-25,2024-07-18,Hard to Cancel,1,4,84.0,Post-Update
+348,457,Monthly_499,2024-04-16,,,0,4,,Post-Update
+349,2155,Monthly_499,2024-05-06,,,0,5,,Post-Update
+350,2959,Quarterly_1299,2024-01-24,2024-02-13,Not Using App,1,1,20.0,Pre-Update
+351,1310,Monthly_499,2024-03-26,,,0,3,,Post-Update
+352,644,Monthly_499,2024-03-19,2024-04-17,Hard to Cancel,1,3,29.0,Post-Update
+353,2206,Quarterly_1299,2024-03-14,,,0,3,,Pre-Update
+354,2462,Monthly_499,2024-04-09,,,0,4,,Post-Update
+355,2651,Monthly_499,2024-02-04,,,0,2,,Pre-Update
+356,1661,Annual_3999,2024-01-21,2024-02-27,Hard to Cancel,1,1,37.0,Pre-Update
+357,865,Monthly_499,2024-02-15,2024-02-25,Too Expensive,1,2,10.0,Pre-Update
+358,1861,Quarterly_1299,2024-01-20,2024-02-21,Too Expensive,1,1,32.0,Pre-Update
+359,765,Monthly_499,2024-04-21,,,0,4,,Post-Update
+360,1558,Monthly_499,2024-04-06,,,0,4,,Post-Update
+361,1344,Monthly_499,2024-03-07,2024-04-29,Not Using App,1,3,53.0,Pre-Update
+362,2593,Monthly_499,2024-05-27,2024-07-19,Not Using App,1,5,53.0,Post-Update
+363,2880,Monthly_499,2024-04-25,,,0,4,,Post-Update
+364,1271,Monthly_499,2024-01-17,,,0,1,,Pre-Update
+365,1667,Annual_3999,2024-06-16,2024-07-17,Hard to Cancel,1,6,31.0,Post-Update
+366,1067,Monthly_499,2024-01-17,,,0,1,,Pre-Update
+367,374,Annual_3999,2024-04-28,2024-07-21,Hard to Cancel,1,4,84.0,Post-Update
+368,1571,Quarterly_1299,2024-03-19,,,0,3,,Post-Update
+369,2637,Monthly_499,2024-01-31,,,0,1,,Pre-Update
+370,74,Quarterly_1299,2024-04-06,2024-05-05,Hard to Cancel,1,4,29.0,Post-Update
+371,930,Quarterly_1299,2024-04-03,,,0,4,,Post-Update
+372,1163,Monthly_499,2024-06-21,2024-09-07,Found Better App,1,6,78.0,Post-Update
+373,2462,Annual_3999,2024-03-27,2024-04-10,Not Using App,1,3,14.0,Post-Update
+374,2342,Monthly_499,2024-04-06,2024-05-15,Too Expensive,1,4,39.0,Post-Update
+375,2790,Monthly_499,2024-05-30,,,0,5,,Post-Update
+376,2198,Monthly_499,2024-04-09,2024-06-28,Hard to Cancel,1,4,80.0,Post-Update
+377,2247,Monthly_499,2024-04-02,2024-05-02,Hard to Cancel,1,4,30.0,Post-Update
+378,294,Monthly_499,2024-06-23,,,0,6,,Post-Update
+379,13,Monthly_499,2024-06-08,2024-07-31,Too Expensive,1,6,53.0,Post-Update
+380,2422,Monthly_499,2024-06-23,2024-08-12,Hard to Cancel,1,6,50.0,Post-Update
+381,2547,Quarterly_1299,2024-01-06,,,0,1,,Pre-Update
+382,220,Quarterly_1299,2024-03-15,,,0,3,,Post-Update
+383,1077,Monthly_499,2024-06-04,,,0,6,,Post-Update
+384,557,Monthly_499,2024-02-05,2024-04-03,Too Expensive,1,2,58.0,Pre-Update
+385,1912,Quarterly_1299,2024-02-25,,,0,2,,Pre-Update
+386,845,Quarterly_1299,2024-05-06,2024-08-01,Hard to Cancel,1,5,87.0,Post-Update
+387,1395,Monthly_499,2024-04-01,2024-04-22,Hard to Cancel,1,4,21.0,Post-Update
+388,1710,Monthly_499,2024-04-28,,,0,4,,Post-Update
+389,1603,Monthly_499,2024-01-26,2024-02-11,Too Expensive,1,1,16.0,Pre-Update
+390,2080,Monthly_499,2024-06-11,2024-08-11,Hard to Cancel,1,6,61.0,Post-Update
+391,1559,Monthly_499,2024-02-28,,,0,2,,Pre-Update
+392,1907,Monthly_499,2024-01-14,2024-04-04,Too Expensive,1,1,81.0,Pre-Update
+393,2417,Monthly_499,2024-01-27,2024-03-28,Found Better App,1,1,61.0,Pre-Update
+394,1300,Monthly_499,2024-04-09,,,0,4,,Post-Update
+395,1288,Monthly_499,2024-03-31,2024-04-18,Found Better App,1,3,18.0,Post-Update
+396,721,Monthly_499,2024-03-23,2024-05-07,Found Better App,1,3,45.0,Post-Update
+397,1526,Quarterly_1299,2024-04-23,2024-05-21,Hard to Cancel,1,4,28.0,Post-Update
+398,2203,Annual_3999,2024-02-09,,,0,2,,Pre-Update
+399,1492,Monthly_499,2024-06-24,,,0,6,,Post-Update
+400,217,Monthly_499,2024-06-11,2024-07-30,Hard to Cancel,1,6,49.0,Post-Update
+401,2745,Annual_3999,2024-01-26,2024-04-14,Too Expensive,1,1,79.0,Pre-Update
+402,2505,Monthly_499,2024-02-27,,,0,2,,Pre-Update
+403,489,Monthly_499,2024-03-05,,,0,3,,Pre-Update
+404,627,Monthly_499,2024-05-21,2024-07-09,Hard to Cancel,1,5,49.0,Post-Update
+405,2669,Monthly_499,2024-04-22,2024-05-11,Not Using App,1,4,19.0,Post-Update
+406,1143,Monthly_499,2024-04-30,,,0,4,,Post-Update
+407,14,Monthly_499,2024-02-23,2024-05-01,Too Expensive,1,2,68.0,Pre-Update
+408,2212,Monthly_499,2024-04-05,,,0,4,,Post-Update
+409,1298,Monthly_499,2024-04-07,2024-06-06,Hard to Cancel,1,4,60.0,Post-Update
+410,1057,Monthly_499,2024-04-22,,,0,4,,Post-Update
+411,2247,Quarterly_1299,2024-04-19,2024-05-20,Found Better App,1,4,31.0,Post-Update
+412,224,Annual_3999,2024-03-20,2024-05-16,Too Expensive,1,3,57.0,Post-Update
+413,2194,Monthly_499,2024-01-26,2024-04-14,Hard to Cancel,1,1,79.0,Pre-Update
+414,355,Monthly_499,2024-01-27,,,0,1,,Pre-Update
+415,858,Annual_3999,2024-06-23,,,0,6,,Post-Update
+416,1409,Monthly_499,2024-05-16,,,0,5,,Post-Update
+417,2608,Monthly_499,2024-04-09,2024-04-26,Hard to Cancel,1,4,17.0,Post-Update
+418,1314,Monthly_499,2024-05-16,2024-07-21,Hard to Cancel,1,5,66.0,Post-Update
+419,813,Quarterly_1299,2024-06-16,2024-06-27,Hard to Cancel,1,6,11.0,Post-Update
+420,2827,Quarterly_1299,2024-01-22,2024-02-20,Not Using App,1,1,29.0,Pre-Update
+421,1802,Monthly_499,2024-01-02,2024-01-26,Too Expensive,1,1,24.0,Pre-Update
+422,735,Monthly_499,2024-01-28,,,0,1,,Pre-Update
+423,1366,Monthly_499,2024-01-26,2024-02-25,Not Using App,1,1,30.0,Pre-Update
+424,2373,Quarterly_1299,2024-03-17,,,0,3,,Post-Update
+425,614,Monthly_499,2024-04-08,,,0,4,,Post-Update
+426,351,Monthly_499,2024-06-17,,,0,6,,Post-Update
+427,1644,Quarterly_1299,2024-05-03,,,0,5,,Post-Update
+428,1236,Monthly_499,2024-06-03,,,0,6,,Post-Update
+429,2560,Annual_3999,2024-03-31,2024-05-01,Too Expensive,1,3,31.0,Post-Update
+430,1547,Monthly_499,2024-04-17,2024-05-22,Too Expensive,1,4,35.0,Post-Update
+431,1145,Monthly_499,2024-06-11,,,0,6,,Post-Update
+432,2706,Monthly_499,2024-04-12,,,0,4,,Post-Update
+433,1236,Quarterly_1299,2024-02-01,,,0,2,,Pre-Update
+434,552,Annual_3999,2024-01-15,2024-03-22,Too Expensive,1,1,67.0,Pre-Update
+435,2785,Monthly_499,2024-03-11,,,0,3,,Pre-Update
+436,1740,Quarterly_1299,2024-01-14,,,0,1,,Pre-Update
+437,1962,Quarterly_1299,2024-04-09,2024-05-13,Too Expensive,1,4,34.0,Post-Update
+438,2150,Quarterly_1299,2024-06-28,2024-09-22,Too Expensive,1,6,86.0,Post-Update
+439,2759,Quarterly_1299,2024-06-15,,,0,6,,Post-Update
+440,1987,Monthly_499,2024-01-01,2024-03-04,Found Better App,1,1,63.0,Pre-Update
+441,971,Monthly_499,2024-01-06,,,0,1,,Pre-Update
+442,974,Quarterly_1299,2024-02-28,2024-03-20,Hard to Cancel,1,2,21.0,Pre-Update
+443,2901,Monthly_499,2024-04-18,2024-05-13,Found Better App,1,4,25.0,Post-Update
+444,2409,Monthly_499,2024-03-09,2024-04-06,Hard to Cancel,1,3,28.0,Pre-Update
+445,2823,Quarterly_1299,2024-02-27,,,0,2,,Pre-Update
+446,1050,Quarterly_1299,2024-06-18,2024-08-28,Found Better App,1,6,71.0,Post-Update
+447,2992,Monthly_499,2024-03-13,,,0,3,,Pre-Update
+448,805,Annual_3999,2024-05-16,,,0,5,,Post-Update
+449,489,Monthly_499,2024-06-22,,,0,6,,Post-Update
+450,444,Monthly_499,2024-06-15,,,0,6,,Post-Update
+451,1386,Monthly_499,2024-03-07,2024-04-21,Not Using App,1,3,45.0,Pre-Update
+452,1054,Quarterly_1299,2024-04-08,,,0,4,,Post-Update
+453,2283,Monthly_499,2024-04-04,2024-05-25,Hard to Cancel,1,4,51.0,Post-Update
+454,2552,Monthly_499,2024-03-14,2024-05-05,Hard to Cancel,1,3,52.0,Pre-Update
+455,1930,Monthly_499,2024-01-16,2024-03-06,Found Better App,1,1,50.0,Pre-Update
+456,308,Monthly_499,2024-05-15,,,0,5,,Post-Update
+457,1742,Monthly_499,2024-06-20,2024-09-04,Too Expensive,1,6,76.0,Post-Update
+458,2135,Monthly_499,2024-04-25,2024-07-05,Too Expensive,1,4,71.0,Post-Update
+459,264,Quarterly_1299,2024-03-13,,,0,3,,Pre-Update
+460,263,Monthly_499,2024-01-13,2024-04-04,Found Better App,1,1,82.0,Pre-Update
+461,988,Monthly_499,2024-02-10,2024-04-20,Not Using App,1,2,70.0,Pre-Update
+462,320,Monthly_499,2024-04-01,2024-06-20,Found Better App,1,4,80.0,Post-Update
+463,2481,Quarterly_1299,2024-03-24,,,0,3,,Post-Update
+464,929,Monthly_499,2024-02-18,2024-03-09,Found Better App,1,2,20.0,Pre-Update
+465,2529,Quarterly_1299,2024-04-29,,,0,4,,Post-Update
+466,957,Monthly_499,2024-05-23,,,0,5,,Post-Update
+467,434,Quarterly_1299,2024-05-30,2024-08-01,Not Using App,1,5,63.0,Post-Update
+468,523,Monthly_499,2024-03-05,2024-03-28,Too Expensive,1,3,23.0,Pre-Update
+469,71,Annual_3999,2024-02-04,,,0,2,,Pre-Update
+470,2474,Monthly_499,2024-03-15,,,0,3,,Post-Update
+471,2714,Quarterly_1299,2024-02-25,2024-04-10,Not Using App,1,2,45.0,Pre-Update
+472,18,Monthly_499,2024-01-06,2024-02-27,Found Better App,1,1,52.0,Pre-Update
+473,2466,Annual_3999,2024-03-24,,,0,3,,Post-Update
+474,2545,Monthly_499,2024-04-17,2024-05-23,Not Using App,1,4,36.0,Post-Update
+475,1866,Quarterly_1299,2024-06-17,2024-07-19,Hard to Cancel,1,6,32.0,Post-Update
+476,669,Quarterly_1299,2024-01-15,2024-01-31,Hard to Cancel,1,1,16.0,Pre-Update
+477,2370,Monthly_499,2024-06-18,,,0,6,,Post-Update
+478,2561,Monthly_499,2024-06-28,,,0,6,,Post-Update
+479,2368,Monthly_499,2024-06-23,2024-08-16,Too Expensive,1,6,54.0,Post-Update
+480,1703,Quarterly_1299,2024-06-09,,,0,6,,Post-Update
+481,2223,Monthly_499,2024-05-15,2024-06-04,Too Expensive,1,5,20.0,Post-Update
+482,2882,Monthly_499,2024-05-20,,,0,5,,Post-Update
+483,1793,Monthly_499,2024-05-25,,,0,5,,Post-Update
+484,401,Monthly_499,2024-03-06,,,0,3,,Pre-Update
+485,1222,Monthly_499,2024-02-19,,,0,2,,Pre-Update
+486,2564,Monthly_499,2024-05-10,2024-05-29,Hard to Cancel,1,5,19.0,Post-Update
+487,2714,Monthly_499,2024-01-30,2024-04-08,Not Using App,1,1,69.0,Pre-Update
+488,923,Monthly_499,2024-03-14,2024-04-24,Found Better App,1,3,41.0,Pre-Update
+489,1354,Monthly_499,2024-03-27,,,0,3,,Post-Update
+490,1785,Annual_3999,2024-05-16,,,0,5,,Post-Update
+491,1435,Monthly_499,2024-02-27,,,0,2,,Pre-Update
+492,2602,Annual_3999,2024-05-09,,,0,5,,Post-Update
+493,2264,Monthly_499,2024-04-11,2024-06-01,Too Expensive,1,4,51.0,Post-Update
+494,133,Monthly_499,2024-04-28,,,0,4,,Post-Update
+495,547,Monthly_499,2024-05-17,,,0,5,,Post-Update
+496,2803,Monthly_499,2024-06-07,2024-08-12,Too Expensive,1,6,66.0,Post-Update
+497,329,Quarterly_1299,2024-04-21,,,0,4,,Post-Update
+498,433,Monthly_499,2024-01-18,,,0,1,,Pre-Update
+499,1627,Annual_3999,2024-06-13,,,0,6,,Post-Update
+500,1052,Monthly_499,2024-02-26,,,0,2,,Pre-Update
+501,1024,Annual_3999,2024-01-01,,,0,1,,Pre-Update
+502,2002,Quarterly_1299,2024-04-11,2024-05-02,Not Using App,1,4,21.0,Post-Update
+503,1768,Annual_3999,2024-04-06,,,0,4,,Post-Update
+504,1678,Quarterly_1299,2024-02-17,,,0,2,,Pre-Update
+505,255,Annual_3999,2024-02-10,,,0,2,,Pre-Update
+506,2243,Monthly_499,2024-05-11,,,0,5,,Post-Update
+507,1553,Monthly_499,2024-03-11,,,0,3,,Pre-Update
+508,2769,Annual_3999,2024-01-26,2024-03-25,Too Expensive,1,1,59.0,Pre-Update
+509,955,Monthly_499,2024-06-08,,,0,6,,Post-Update
+510,2251,Monthly_499,2024-06-09,2024-08-03,Hard to Cancel,1,6,55.0,Post-Update
+511,887,Monthly_499,2024-06-06,,,0,6,,Post-Update
+512,605,Quarterly_1299,2024-06-02,2024-06-22,Found Better App,1,6,20.0,Post-Update
+513,2844,Quarterly_1299,2024-01-23,,,0,1,,Pre-Update
+514,608,Annual_3999,2024-03-30,,,0,3,,Post-Update
+515,2041,Monthly_499,2024-05-30,2024-08-21,Hard to Cancel,1,5,83.0,Post-Update
+516,1670,Monthly_499,2024-03-11,2024-03-29,Hard to Cancel,1,3,18.0,Pre-Update
+517,2094,Monthly_499,2024-03-26,,,0,3,,Post-Update
+518,1669,Monthly_499,2024-02-04,,,0,2,,Pre-Update
+519,632,Monthly_499,2024-04-24,,,0,4,,Post-Update
+520,573,Annual_3999,2024-05-03,2024-06-17,Too Expensive,1,5,45.0,Post-Update
+521,2035,Annual_3999,2024-04-17,,,0,4,,Post-Update
+522,2199,Monthly_499,2024-06-18,2024-08-01,Hard to Cancel,1,6,44.0,Post-Update
+523,2542,Monthly_499,2024-06-22,,,0,6,,Post-Update
+524,300,Quarterly_1299,2024-03-11,2024-05-09,Not Using App,1,3,59.0,Pre-Update
+525,2821,Monthly_499,2024-03-15,,,0,3,,Post-Update
+526,408,Monthly_499,2024-05-17,2024-06-26,Not Using App,1,5,40.0,Post-Update
+527,2272,Annual_3999,2024-03-19,2024-04-23,Found Better App,1,3,35.0,Post-Update
+528,2487,Annual_3999,2024-02-21,,,0,2,,Pre-Update
+529,887,Monthly_499,2024-01-04,,,0,1,,Pre-Update
+530,506,Monthly_499,2024-06-26,,,0,6,,Post-Update
+531,2497,Monthly_499,2024-01-30,2024-04-08,Too Expensive,1,1,69.0,Pre-Update
+532,378,Quarterly_1299,2024-05-28,2024-07-25,Too Expensive,1,5,58.0,Post-Update
+533,196,Quarterly_1299,2024-04-16,2024-06-24,Not Using App,1,4,69.0,Post-Update
+534,985,Monthly_499,2024-04-01,2024-05-22,Found Better App,1,4,51.0,Post-Update
+535,2790,Annual_3999,2024-06-21,2024-07-21,Hard to Cancel,1,6,30.0,Post-Update
+536,464,Monthly_499,2024-02-07,2024-04-03,Hard to Cancel,1,2,56.0,Pre-Update
+537,2741,Monthly_499,2024-01-31,,,0,1,,Pre-Update
+538,1626,Monthly_499,2024-05-27,,,0,5,,Post-Update
+539,2561,Monthly_499,2024-05-11,2024-08-01,Found Better App,1,5,82.0,Post-Update
+540,1677,Monthly_499,2024-02-09,2024-04-30,Too Expensive,1,2,81.0,Pre-Update
+541,552,Monthly_499,2024-03-14,2024-04-19,Too Expensive,1,3,36.0,Pre-Update
+542,2889,Monthly_499,2024-02-14,2024-02-24,Hard to Cancel,1,2,10.0,Pre-Update
+543,10,Annual_3999,2024-06-29,,,0,6,,Post-Update
+544,1835,Quarterly_1299,2024-02-28,,,0,2,,Pre-Update
+545,1557,Quarterly_1299,2024-04-29,,,0,4,,Post-Update
+546,1324,Quarterly_1299,2024-01-01,,,0,1,,Pre-Update
+547,984,Annual_3999,2024-02-03,2024-04-10,Too Expensive,1,2,67.0,Pre-Update
+548,985,Quarterly_1299,2024-05-15,,,0,5,,Post-Update
+549,823,Monthly_499,2024-06-04,,,0,6,,Post-Update
+550,1410,Quarterly_1299,2024-01-04,2024-03-28,Too Expensive,1,1,84.0,Pre-Update
+551,1224,Monthly_499,2024-05-10,,,0,5,,Post-Update
+552,2341,Monthly_499,2024-04-05,,,0,4,,Post-Update
+553,1610,Monthly_499,2024-01-07,,,0,1,,Pre-Update
+554,2645,Quarterly_1299,2024-02-17,,,0,2,,Pre-Update
+555,2660,Quarterly_1299,2024-05-04,,,0,5,,Post-Update
+556,2010,Quarterly_1299,2024-06-22,2024-09-11,Hard to Cancel,1,6,81.0,Post-Update
+557,2712,Monthly_499,2024-04-12,,,0,4,,Post-Update
+558,1191,Monthly_499,2024-01-20,,,0,1,,Pre-Update
+559,2703,Monthly_499,2024-03-04,2024-05-22,Not Using App,1,3,79.0,Pre-Update
+560,388,Monthly_499,2024-03-12,,,0,3,,Pre-Update
+561,485,Quarterly_1299,2024-03-20,2024-06-16,Hard to Cancel,1,3,88.0,Post-Update
+562,577,Annual_3999,2024-02-22,2024-04-27,Hard to Cancel,1,2,65.0,Pre-Update
+563,1257,Quarterly_1299,2024-05-23,2024-07-26,Found Better App,1,5,64.0,Post-Update
+564,1875,Quarterly_1299,2024-02-27,,,0,2,,Pre-Update
+565,2986,Monthly_499,2024-01-16,2024-03-22,Too Expensive,1,1,66.0,Pre-Update
+566,697,Monthly_499,2024-05-17,2024-07-26,Hard to Cancel,1,5,70.0,Post-Update
+567,1684,Quarterly_1299,2024-02-24,2024-04-18,Too Expensive,1,2,54.0,Pre-Update
+568,297,Annual_3999,2024-01-08,,,0,1,,Pre-Update
+569,1156,Monthly_499,2024-04-29,,,0,4,,Post-Update
+570,427,Monthly_499,2024-04-14,2024-06-03,Not Using App,1,4,50.0,Post-Update
+571,1609,Monthly_499,2024-02-13,2024-03-27,Too Expensive,1,2,43.0,Pre-Update
+572,2149,Quarterly_1299,2024-03-11,,,0,3,,Pre-Update
+573,2213,Quarterly_1299,2024-02-07,,,0,2,,Pre-Update
+574,2756,Monthly_499,2024-01-31,,,0,1,,Pre-Update
+575,968,Monthly_499,2024-06-06,2024-07-01,Hard to Cancel,1,6,25.0,Post-Update
+576,686,Quarterly_1299,2024-04-30,2024-05-24,Hard to Cancel,1,4,24.0,Post-Update
+577,1667,Annual_3999,2024-01-23,,,0,1,,Pre-Update
+578,1030,Quarterly_1299,2024-03-08,2024-05-18,Not Using App,1,3,71.0,Pre-Update
+579,313,Monthly_499,2024-03-26,,,0,3,,Post-Update
+580,292,Monthly_499,2024-06-17,2024-09-10,Too Expensive,1,6,85.0,Post-Update
+581,1953,Annual_3999,2024-01-31,,,0,1,,Pre-Update
+582,693,Monthly_499,2024-02-05,,,0,2,,Pre-Update
+583,1421,Monthly_499,2024-05-16,,,0,5,,Post-Update
+584,1956,Monthly_499,2024-04-20,,,0,4,,Post-Update
+585,654,Monthly_499,2024-06-22,,,0,6,,Post-Update
+586,2806,Monthly_499,2024-01-08,,,0,1,,Pre-Update
+587,460,Monthly_499,2024-01-29,2024-04-11,Not Using App,1,1,73.0,Pre-Update
+588,802,Annual_3999,2024-05-13,2024-06-14,Not Using App,1,5,32.0,Post-Update
+589,1202,Monthly_499,2024-03-24,2024-04-26,Hard to Cancel,1,3,33.0,Post-Update
+590,2149,Annual_3999,2024-02-09,2024-04-05,Not Using App,1,2,56.0,Pre-Update
+591,1453,Annual_3999,2024-03-28,2024-04-24,Not Using App,1,3,27.0,Post-Update
+592,930,Annual_3999,2024-02-01,2024-02-19,Found Better App,1,2,18.0,Pre-Update
+593,1806,Monthly_499,2024-01-10,2024-01-29,Too Expensive,1,1,19.0,Pre-Update
+594,811,Monthly_499,2024-03-07,2024-04-08,Hard to Cancel,1,3,32.0,Pre-Update
+595,2675,Monthly_499,2024-01-05,2024-03-13,Found Better App,1,1,68.0,Pre-Update
+596,1945,Quarterly_1299,2024-03-03,,,0,3,,Pre-Update
+597,2936,Monthly_499,2024-02-24,,,0,2,,Pre-Update
+598,565,Monthly_499,2024-06-27,,,0,6,,Post-Update
+599,771,Monthly_499,2024-05-01,,,0,5,,Post-Update
+600,2610,Monthly_499,2024-04-12,,,0,4,,Post-Update
+601,1744,Annual_3999,2024-04-07,2024-06-27,Hard to Cancel,1,4,81.0,Post-Update
+602,1384,Quarterly_1299,2024-02-08,,,0,2,,Pre-Update
+603,2770,Monthly_499,2024-02-10,2024-03-10,Hard to Cancel,1,2,29.0,Pre-Update
+604,1922,Annual_3999,2024-06-24,,,0,6,,Post-Update
+605,2367,Quarterly_1299,2024-05-26,,,0,5,,Post-Update
+606,2102,Monthly_499,2024-05-01,2024-06-12,Hard to Cancel,1,5,42.0,Post-Update
+607,1471,Quarterly_1299,2024-03-17,,,0,3,,Post-Update
+608,74,Monthly_499,2024-01-24,2024-03-31,Hard to Cancel,1,1,67.0,Pre-Update
+609,1425,Monthly_499,2024-06-29,,,0,6,,Post-Update
+610,847,Monthly_499,2024-01-08,,,0,1,,Pre-Update
+611,871,Monthly_499,2024-03-18,2024-05-21,Hard to Cancel,1,3,64.0,Post-Update
+612,1511,Monthly_499,2024-02-03,,,0,2,,Pre-Update
+613,489,Monthly_499,2024-03-11,2024-03-28,Too Expensive,1,3,17.0,Pre-Update
+614,2509,Annual_3999,2024-03-31,2024-05-05,Hard to Cancel,1,3,35.0,Post-Update
+615,53,Monthly_499,2024-04-02,2024-06-02,Hard to Cancel,1,4,61.0,Post-Update
+616,1889,Monthly_499,2024-05-26,,,0,5,,Post-Update
+617,291,Monthly_499,2024-04-12,,,0,4,,Post-Update
+618,713,Quarterly_1299,2024-02-22,,,0,2,,Pre-Update
+619,2019,Monthly_499,2024-01-10,2024-02-28,Too Expensive,1,1,49.0,Pre-Update
+620,611,Monthly_499,2024-01-02,2024-02-15,Not Using App,1,1,44.0,Pre-Update
+621,1172,Monthly_499,2024-05-12,2024-07-15,Not Using App,1,5,64.0,Post-Update
+622,2008,Monthly_499,2024-01-21,,,0,1,,Pre-Update
+623,1080,Annual_3999,2024-04-18,,,0,4,,Post-Update
+624,657,Annual_3999,2024-05-08,2024-07-31,Too Expensive,1,5,84.0,Post-Update
+625,2006,Monthly_499,2024-02-18,,,0,2,,Pre-Update
+626,798,Monthly_499,2024-05-20,2024-05-31,Found Better App,1,5,11.0,Post-Update
+627,2402,Annual_3999,2024-01-15,,,0,1,,Pre-Update
+628,1565,Monthly_499,2024-04-04,,,0,4,,Post-Update
+629,14,Quarterly_1299,2024-01-28,2024-02-28,Too Expensive,1,1,31.0,Pre-Update
+630,708,Monthly_499,2024-06-23,,,0,6,,Post-Update
+631,2803,Quarterly_1299,2024-05-09,,,0,5,,Post-Update
+632,993,Monthly_499,2024-03-24,2024-06-07,Too Expensive,1,3,75.0,Post-Update
+633,2206,Quarterly_1299,2024-05-19,,,0,5,,Post-Update
+634,1436,Monthly_499,2024-05-17,2024-07-07,Hard to Cancel,1,5,51.0,Post-Update
+635,1971,Quarterly_1299,2024-01-28,2024-02-19,Too Expensive,1,1,22.0,Pre-Update
+636,2792,Monthly_499,2024-05-25,,,0,5,,Post-Update
+637,2560,Monthly_499,2024-01-28,,,0,1,,Pre-Update
+638,878,Quarterly_1299,2024-05-08,2024-06-04,Hard to Cancel,1,5,27.0,Post-Update
+639,285,Quarterly_1299,2024-03-17,,,0,3,,Post-Update
+640,2132,Monthly_499,2024-01-10,,,0,1,,Pre-Update
+641,40,Monthly_499,2024-04-24,2024-07-22,Found Better App,1,4,89.0,Post-Update
+642,2422,Monthly_499,2024-01-31,,,0,1,,Pre-Update
+643,2510,Monthly_499,2024-02-26,2024-04-15,Too Expensive,1,2,49.0,Pre-Update
+644,2746,Annual_3999,2024-01-25,2024-03-16,Found Better App,1,1,51.0,Pre-Update
+645,1294,Monthly_499,2024-05-18,,,0,5,,Post-Update
+646,623,Monthly_499,2024-06-22,,,0,6,,Post-Update
+647,668,Quarterly_1299,2024-02-21,,,0,2,,Pre-Update
+648,1547,Annual_3999,2024-05-05,,,0,5,,Post-Update
+649,2358,Quarterly_1299,2024-03-14,2024-05-21,Too Expensive,1,3,68.0,Pre-Update
+650,2459,Annual_3999,2024-03-29,2024-05-22,Hard to Cancel,1,3,54.0,Post-Update
+651,1706,Quarterly_1299,2024-01-19,,,0,1,,Pre-Update
+652,798,Quarterly_1299,2024-01-21,2024-02-09,Hard to Cancel,1,1,19.0,Pre-Update
+653,1107,Annual_3999,2024-03-15,,,0,3,,Post-Update
+654,1870,Monthly_499,2024-04-26,,,0,4,,Post-Update
+655,2677,Annual_3999,2024-01-20,2024-03-12,Not Using App,1,1,52.0,Pre-Update
+656,465,Monthly_499,2024-01-25,,,0,1,,Pre-Update
+657,1548,Annual_3999,2024-05-06,2024-06-18,Hard to Cancel,1,5,43.0,Post-Update
+658,892,Annual_3999,2024-01-30,2024-04-27,Too Expensive,1,1,88.0,Pre-Update
+659,663,Monthly_499,2024-05-26,2024-07-14,Not Using App,1,5,49.0,Post-Update
+660,2260,Annual_3999,2024-02-12,,,0,2,,Pre-Update
+661,1386,Quarterly_1299,2024-05-24,2024-07-05,Hard to Cancel,1,5,42.0,Post-Update
+662,955,Monthly_499,2024-02-17,,,0,2,,Pre-Update
+663,2412,Monthly_499,2024-01-19,2024-04-11,Found Better App,1,1,83.0,Pre-Update
+664,1039,Monthly_499,2024-02-20,,,0,2,,Pre-Update
+665,1800,Monthly_499,2024-02-06,,,0,2,,Pre-Update
+666,2216,Monthly_499,2024-02-16,,,0,2,,Pre-Update
+667,2108,Quarterly_1299,2024-05-18,2024-06-06,Not Using App,1,5,19.0,Post-Update
+668,2553,Monthly_499,2024-05-12,2024-07-09,Not Using App,1,5,58.0,Post-Update
+669,1121,Quarterly_1299,2024-03-05,,,0,3,,Pre-Update
+670,1349,Monthly_499,2024-03-06,2024-05-27,Not Using App,1,3,82.0,Pre-Update
+671,95,Monthly_499,2024-06-12,2024-08-16,Hard to Cancel,1,6,65.0,Post-Update
+672,878,Monthly_499,2024-04-27,,,0,4,,Post-Update
+673,857,Monthly_499,2024-05-24,2024-06-18,Hard to Cancel,1,5,25.0,Post-Update
+674,1278,Monthly_499,2024-01-22,2024-02-21,Not Using App,1,1,30.0,Pre-Update
+675,106,Monthly_499,2024-03-29,2024-04-13,Too Expensive,1,3,15.0,Post-Update
+676,805,Monthly_499,2024-02-16,,,0,2,,Pre-Update
+677,2376,Quarterly_1299,2024-01-03,,,0,1,,Pre-Update
+678,2686,Quarterly_1299,2024-02-25,2024-05-13,Too Expensive,1,2,78.0,Pre-Update
+679,2006,Monthly_499,2024-01-02,2024-02-16,Found Better App,1,1,45.0,Pre-Update
+680,875,Monthly_499,2024-05-02,,,0,5,,Post-Update
+681,2898,Quarterly_1299,2024-03-02,2024-05-02,Too Expensive,1,3,61.0,Pre-Update
+682,2948,Annual_3999,2024-03-06,2024-05-02,Too Expensive,1,3,57.0,Pre-Update
+683,1252,Quarterly_1299,2024-03-08,,,0,3,,Pre-Update
+684,70,Annual_3999,2024-02-03,,,0,2,,Pre-Update
+685,485,Monthly_499,2024-04-11,,,0,4,,Post-Update
+686,1464,Monthly_499,2024-05-21,,,0,5,,Post-Update
+687,893,Monthly_499,2024-05-04,,,0,5,,Post-Update
+688,1707,Annual_3999,2024-06-17,,,0,6,,Post-Update
+689,2937,Monthly_499,2024-06-28,2024-08-26,Too Expensive,1,6,59.0,Post-Update
+690,1482,Quarterly_1299,2024-03-25,,,0,3,,Post-Update
+691,1692,Monthly_499,2024-03-06,,,0,3,,Pre-Update
+692,1127,Annual_3999,2024-02-09,2024-02-29,Hard to Cancel,1,2,20.0,Pre-Update
+693,2432,Monthly_499,2024-06-15,2024-06-26,Not Using App,1,6,11.0,Post-Update
+694,2576,Monthly_499,2024-06-18,,,0,6,,Post-Update
+695,972,Monthly_499,2024-03-18,2024-05-07,Not Using App,1,3,50.0,Post-Update
+696,149,Monthly_499,2024-01-19,,,0,1,,Pre-Update
+697,1220,Monthly_499,2024-04-07,,,0,4,,Post-Update
+698,1161,Monthly_499,2024-04-26,2024-07-08,Not Using App,1,4,73.0,Post-Update
+699,1727,Quarterly_1299,2024-03-30,2024-06-19,Not Using App,1,3,81.0,Post-Update
+700,1224,Quarterly_1299,2024-04-14,,,0,4,,Post-Update
+701,2590,Monthly_499,2024-04-20,2024-05-03,Not Using App,1,4,13.0,Post-Update
+702,1810,Monthly_499,2024-05-21,2024-06-30,Hard to Cancel,1,5,40.0,Post-Update
+703,830,Annual_3999,2024-06-19,,,0,6,,Post-Update
+704,365,Monthly_499,2024-06-22,2024-07-20,Hard to Cancel,1,6,28.0,Post-Update
+705,1444,Monthly_499,2024-05-06,2024-06-28,Hard to Cancel,1,5,53.0,Post-Update
+706,2451,Quarterly_1299,2024-02-10,,,0,2,,Pre-Update
+707,1299,Monthly_499,2024-01-17,,,0,1,,Pre-Update
+708,875,Monthly_499,2024-05-21,,,0,5,,Post-Update
+709,2618,Monthly_499,2024-06-28,,,0,6,,Post-Update
+710,1929,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+711,2426,Monthly_499,2024-01-21,2024-02-20,Too Expensive,1,1,30.0,Pre-Update
+712,2081,Annual_3999,2024-04-16,,,0,4,,Post-Update
+713,62,Quarterly_1299,2024-04-09,,,0,4,,Post-Update
+714,2735,Monthly_499,2024-01-31,2024-04-26,Not Using App,1,1,86.0,Pre-Update
+715,403,Annual_3999,2024-06-06,2024-08-21,Not Using App,1,6,76.0,Post-Update
+716,1048,Monthly_499,2024-03-18,2024-06-02,Hard to Cancel,1,3,76.0,Post-Update
+717,2752,Annual_3999,2024-01-25,2024-02-20,Too Expensive,1,1,26.0,Pre-Update
+718,2059,Monthly_499,2024-01-09,,,0,1,,Pre-Update
+719,2772,Monthly_499,2024-04-13,,,0,4,,Post-Update
+720,841,Monthly_499,2024-02-21,2024-03-26,Not Using App,1,2,34.0,Pre-Update
+721,1868,Monthly_499,2024-04-17,,,0,4,,Post-Update
+722,1094,Annual_3999,2024-04-21,2024-06-15,Too Expensive,1,4,55.0,Post-Update
+723,2846,Annual_3999,2024-01-26,,,0,1,,Pre-Update
+724,2822,Monthly_499,2024-06-25,2024-09-02,Too Expensive,1,6,69.0,Post-Update
+725,1558,Monthly_499,2024-06-20,2024-09-08,Hard to Cancel,1,6,80.0,Post-Update
+726,392,Monthly_499,2024-02-02,2024-03-27,Not Using App,1,2,54.0,Pre-Update
+727,2590,Monthly_499,2024-02-07,2024-04-09,Not Using App,1,2,62.0,Pre-Update
+728,1650,Monthly_499,2024-02-11,,,0,2,,Pre-Update
+729,1900,Monthly_499,2024-05-02,2024-07-05,Hard to Cancel,1,5,64.0,Post-Update
+730,1378,Quarterly_1299,2024-06-29,2024-08-15,Hard to Cancel,1,6,47.0,Post-Update
+731,998,Monthly_499,2024-02-10,,,0,2,,Pre-Update
+732,1698,Monthly_499,2024-06-02,2024-06-20,Hard to Cancel,1,6,18.0,Post-Update
+733,607,Annual_3999,2024-05-06,2024-07-21,Hard to Cancel,1,5,76.0,Post-Update
+734,2484,Monthly_499,2024-03-05,2024-06-01,Found Better App,1,3,88.0,Pre-Update
+735,270,Annual_3999,2024-01-05,2024-03-07,Not Using App,1,1,62.0,Pre-Update
+736,1801,Monthly_499,2024-03-25,2024-05-28,Too Expensive,1,3,64.0,Post-Update
+737,782,Quarterly_1299,2024-02-26,,,0,2,,Pre-Update
+738,1063,Quarterly_1299,2024-06-23,,,0,6,,Post-Update
+739,1069,Annual_3999,2024-06-28,,,0,6,,Post-Update
+740,1446,Monthly_499,2024-01-26,,,0,1,,Pre-Update
+741,1166,Monthly_499,2024-03-24,2024-04-23,Hard to Cancel,1,3,30.0,Post-Update
+742,1751,Quarterly_1299,2024-01-19,,,0,1,,Pre-Update
+743,1169,Monthly_499,2024-02-29,2024-04-08,Not Using App,1,2,39.0,Pre-Update
+744,2365,Quarterly_1299,2024-04-19,,,0,4,,Post-Update
+745,1381,Quarterly_1299,2024-05-31,,,0,5,,Post-Update
+746,32,Monthly_499,2024-04-20,2024-05-28,Found Better App,1,4,38.0,Post-Update
+747,1976,Monthly_499,2024-03-21,,,0,3,,Post-Update
+748,2657,Monthly_499,2024-04-25,,,0,4,,Post-Update
+749,1251,Annual_3999,2024-04-27,2024-05-23,Found Better App,1,4,26.0,Post-Update
+750,2739,Monthly_499,2024-06-02,,,0,6,,Post-Update
+751,750,Monthly_499,2024-03-13,2024-05-23,Not Using App,1,3,71.0,Pre-Update
+752,756,Annual_3999,2024-05-10,2024-05-22,Not Using App,1,5,12.0,Post-Update
+753,2914,Monthly_499,2024-03-14,,,0,3,,Pre-Update
+754,1641,Monthly_499,2024-04-16,,,0,4,,Post-Update
+755,2881,Monthly_499,2024-03-25,,,0,3,,Post-Update
+756,221,Monthly_499,2024-05-06,2024-06-15,Hard to Cancel,1,5,40.0,Post-Update
+757,2875,Quarterly_1299,2024-01-22,2024-02-12,Found Better App,1,1,21.0,Pre-Update
+758,525,Monthly_499,2024-01-21,,,0,1,,Pre-Update
+759,901,Monthly_499,2024-05-31,,,0,5,,Post-Update
+760,2325,Monthly_499,2024-01-17,2024-02-28,Found Better App,1,1,42.0,Pre-Update
+761,2031,Monthly_499,2024-03-20,2024-06-13,Hard to Cancel,1,3,85.0,Post-Update
+762,1388,Monthly_499,2024-04-07,,,0,4,,Post-Update
+763,2233,Monthly_499,2024-06-14,,,0,6,,Post-Update
+764,2373,Annual_3999,2024-01-12,,,0,1,,Pre-Update
+765,2803,Monthly_499,2024-06-29,,,0,6,,Post-Update
+766,983,Monthly_499,2024-05-04,2024-07-03,Too Expensive,1,5,60.0,Post-Update
+767,2856,Monthly_499,2024-01-09,,,0,1,,Pre-Update
+768,2702,Monthly_499,2024-01-10,,,0,1,,Pre-Update
+769,2210,Annual_3999,2024-04-21,2024-06-27,Hard to Cancel,1,4,67.0,Post-Update
+770,41,Quarterly_1299,2024-03-05,2024-05-29,Found Better App,1,3,85.0,Pre-Update
+771,459,Monthly_499,2024-03-10,2024-04-28,Found Better App,1,3,49.0,Pre-Update
+772,232,Monthly_499,2024-04-29,2024-06-29,Hard to Cancel,1,4,61.0,Post-Update
+773,2088,Monthly_499,2024-01-17,,,0,1,,Pre-Update
+774,2709,Quarterly_1299,2024-05-05,,,0,5,,Post-Update
+775,963,Monthly_499,2024-03-21,,,0,3,,Post-Update
+776,2805,Monthly_499,2024-06-03,,,0,6,,Post-Update
+777,1803,Monthly_499,2024-04-16,,,0,4,,Post-Update
+778,1110,Quarterly_1299,2024-06-23,,,0,6,,Post-Update
+779,501,Quarterly_1299,2024-06-03,2024-07-06,Hard to Cancel,1,6,33.0,Post-Update
+780,1628,Quarterly_1299,2024-02-17,,,0,2,,Pre-Update
+781,40,Monthly_499,2024-02-12,2024-04-09,Found Better App,1,2,57.0,Pre-Update
+782,182,Quarterly_1299,2024-03-11,,,0,3,,Pre-Update
+783,361,Monthly_499,2024-04-07,2024-05-15,Too Expensive,1,4,38.0,Post-Update
+784,2011,Monthly_499,2024-05-08,2024-06-17,Hard to Cancel,1,5,40.0,Post-Update
+785,1062,Monthly_499,2024-03-25,,,0,3,,Post-Update
+786,2775,Monthly_499,2024-05-22,,,0,5,,Post-Update
+787,1631,Annual_3999,2024-04-04,2024-05-26,Not Using App,1,4,52.0,Post-Update
+788,1352,Quarterly_1299,2024-05-27,2024-08-18,Found Better App,1,5,83.0,Post-Update
+789,2319,Monthly_499,2024-01-28,,,0,1,,Pre-Update
+790,1489,Monthly_499,2024-02-03,,,0,2,,Pre-Update
+791,1822,Quarterly_1299,2024-02-25,,,0,2,,Pre-Update
+792,203,Annual_3999,2024-03-16,2024-06-13,Too Expensive,1,3,89.0,Post-Update
+793,2732,Monthly_499,2024-05-29,,,0,5,,Post-Update
+794,1773,Monthly_499,2024-02-17,,,0,2,,Pre-Update
+795,2754,Monthly_499,2024-06-06,2024-08-30,Too Expensive,1,6,85.0,Post-Update
+796,1822,Monthly_499,2024-06-25,2024-08-16,Too Expensive,1,6,52.0,Post-Update
+797,1635,Quarterly_1299,2024-06-02,,,0,6,,Post-Update
+798,1907,Quarterly_1299,2024-05-07,,,0,5,,Post-Update
+799,2665,Monthly_499,2024-04-20,2024-05-10,Too Expensive,1,4,20.0,Post-Update
+800,515,Monthly_499,2024-02-26,2024-04-11,Too Expensive,1,2,45.0,Pre-Update
+801,194,Monthly_499,2024-03-27,,,0,3,,Post-Update
+802,2652,Monthly_499,2024-06-22,,,0,6,,Post-Update
+803,2876,Quarterly_1299,2024-01-26,,,0,1,,Pre-Update
+804,504,Quarterly_1299,2024-04-26,,,0,4,,Post-Update
+805,2796,Monthly_499,2024-05-29,2024-06-08,Hard to Cancel,1,5,10.0,Post-Update
+806,2998,Annual_3999,2024-05-23,,,0,5,,Post-Update
+807,1519,Annual_3999,2024-01-14,2024-03-17,Too Expensive,1,1,63.0,Pre-Update
+808,209,Monthly_499,2024-05-06,2024-07-08,Hard to Cancel,1,5,63.0,Post-Update
+809,388,Monthly_499,2024-03-08,2024-05-18,Too Expensive,1,3,71.0,Pre-Update
+810,1408,Annual_3999,2024-06-06,2024-08-18,Too Expensive,1,6,73.0,Post-Update
+811,1298,Monthly_499,2024-03-28,2024-05-19,Hard to Cancel,1,3,52.0,Post-Update
+812,2762,Quarterly_1299,2024-02-23,,,0,2,,Pre-Update
+813,1376,Monthly_499,2024-01-21,,,0,1,,Pre-Update
+814,1996,Quarterly_1299,2024-03-07,2024-03-18,Found Better App,1,3,11.0,Pre-Update
+815,2614,Monthly_499,2024-06-28,2024-08-25,Found Better App,1,6,58.0,Post-Update
+816,1358,Monthly_499,2024-05-06,,,0,5,,Post-Update
+817,2298,Monthly_499,2024-06-12,2024-06-23,Hard to Cancel,1,6,11.0,Post-Update
+818,1634,Monthly_499,2024-03-05,,,0,3,,Pre-Update
+819,110,Monthly_499,2024-01-15,2024-02-24,Hard to Cancel,1,1,40.0,Pre-Update
+820,1280,Quarterly_1299,2024-05-25,2024-06-06,Hard to Cancel,1,5,12.0,Post-Update
+821,360,Annual_3999,2024-02-17,,,0,2,,Pre-Update
+822,2796,Monthly_499,2024-05-23,,,0,5,,Post-Update
+823,2678,Monthly_499,2024-01-04,,,0,1,,Pre-Update
+824,2030,Monthly_499,2024-03-21,2024-05-31,Not Using App,1,3,71.0,Post-Update
+825,2317,Quarterly_1299,2024-03-16,2024-04-30,Too Expensive,1,3,45.0,Post-Update
+826,2145,Monthly_499,2024-05-13,,,0,5,,Post-Update
+827,2555,Monthly_499,2024-05-19,2024-06-07,Found Better App,1,5,19.0,Post-Update
+828,1545,Quarterly_1299,2024-04-27,2024-07-18,Not Using App,1,4,82.0,Post-Update
+829,2589,Monthly_499,2024-01-29,,,0,1,,Pre-Update
+830,601,Annual_3999,2024-02-25,,,0,2,,Pre-Update
+831,2300,Monthly_499,2024-05-08,2024-07-08,Hard to Cancel,1,5,61.0,Post-Update
+832,401,Quarterly_1299,2024-04-22,,,0,4,,Post-Update
+833,1361,Monthly_499,2024-01-19,2024-03-31,Not Using App,1,1,72.0,Pre-Update
+834,1675,Monthly_499,2024-01-08,,,0,1,,Pre-Update
+835,764,Annual_3999,2024-04-08,2024-04-27,Found Better App,1,4,19.0,Post-Update
+836,1265,Annual_3999,2024-02-15,2024-03-08,Hard to Cancel,1,2,22.0,Pre-Update
+837,190,Quarterly_1299,2024-06-28,,,0,6,,Post-Update
+838,2407,Monthly_499,2024-04-12,,,0,4,,Post-Update
+839,223,Monthly_499,2024-06-19,2024-08-06,Too Expensive,1,6,48.0,Post-Update
+840,2702,Quarterly_1299,2024-03-29,2024-06-10,Hard to Cancel,1,3,73.0,Post-Update
+841,1593,Annual_3999,2024-04-01,2024-06-18,Found Better App,1,4,78.0,Post-Update
+842,2876,Monthly_499,2024-01-13,2024-03-05,Hard to Cancel,1,1,52.0,Pre-Update
+843,2526,Monthly_499,2024-06-18,2024-08-20,Hard to Cancel,1,6,63.0,Post-Update
+844,541,Monthly_499,2024-02-03,2024-04-26,Too Expensive,1,2,83.0,Pre-Update
+845,2335,Monthly_499,2024-06-26,,,0,6,,Post-Update
+846,2429,Monthly_499,2024-03-02,2024-05-04,Too Expensive,1,3,63.0,Pre-Update
+847,1259,Annual_3999,2024-04-25,,,0,4,,Post-Update
+848,2275,Monthly_499,2024-05-02,2024-05-19,Hard to Cancel,1,5,17.0,Post-Update
+849,2349,Monthly_499,2024-06-09,,,0,6,,Post-Update
+850,1061,Monthly_499,2024-04-22,2024-07-04,Not Using App,1,4,73.0,Post-Update
+851,1574,Annual_3999,2024-02-22,2024-05-02,Too Expensive,1,2,70.0,Pre-Update
+852,1796,Monthly_499,2024-06-06,2024-06-18,Not Using App,1,6,12.0,Post-Update
+853,1665,Monthly_499,2024-04-17,,,0,4,,Post-Update
+854,2619,Quarterly_1299,2024-01-16,,,0,1,,Pre-Update
+855,1273,Quarterly_1299,2024-05-28,2024-08-11,Hard to Cancel,1,5,75.0,Post-Update
+856,453,Monthly_499,2024-03-11,2024-03-26,Too Expensive,1,3,15.0,Pre-Update
+857,2333,Monthly_499,2024-05-07,,,0,5,,Post-Update
+858,1521,Annual_3999,2024-01-18,,,0,1,,Pre-Update
+859,2561,Monthly_499,2024-04-20,,,0,4,,Post-Update
+860,2109,Annual_3999,2024-04-19,,,0,4,,Post-Update
+861,2660,Quarterly_1299,2024-02-18,2024-03-07,Not Using App,1,2,18.0,Pre-Update
+862,2641,Quarterly_1299,2024-03-27,2024-04-17,Found Better App,1,3,21.0,Post-Update
+863,329,Quarterly_1299,2024-05-28,,,0,5,,Post-Update
+864,1801,Monthly_499,2024-06-04,,,0,6,,Post-Update
+865,2991,Monthly_499,2024-02-23,,,0,2,,Pre-Update
+866,801,Quarterly_1299,2024-05-06,,,0,5,,Post-Update
+867,2454,Monthly_499,2024-06-20,2024-09-07,Not Using App,1,6,79.0,Post-Update
+868,2801,Annual_3999,2024-04-10,2024-06-29,Found Better App,1,4,80.0,Post-Update
+869,474,Monthly_499,2024-06-12,,,0,6,,Post-Update
+870,574,Monthly_499,2024-04-15,,,0,4,,Post-Update
+871,2215,Annual_3999,2024-05-31,2024-08-05,Too Expensive,1,5,66.0,Post-Update
+872,2201,Monthly_499,2024-06-21,2024-07-26,Too Expensive,1,6,35.0,Post-Update
+873,2431,Monthly_499,2024-03-13,2024-04-19,Found Better App,1,3,37.0,Pre-Update
+874,1486,Monthly_499,2024-05-17,2024-07-07,Not Using App,1,5,51.0,Post-Update
+875,387,Quarterly_1299,2024-03-17,2024-05-23,Hard to Cancel,1,3,67.0,Post-Update
+876,12,Quarterly_1299,2024-05-12,2024-06-06,Found Better App,1,5,25.0,Post-Update
+877,2745,Quarterly_1299,2024-06-07,2024-08-05,Too Expensive,1,6,59.0,Post-Update
+878,246,Monthly_499,2024-04-27,2024-06-17,Hard to Cancel,1,4,51.0,Post-Update
+879,2458,Annual_3999,2024-02-17,,,0,2,,Pre-Update
+880,2447,Quarterly_1299,2024-04-28,2024-06-09,Hard to Cancel,1,4,42.0,Post-Update
+881,570,Annual_3999,2024-04-02,,,0,4,,Post-Update
+882,164,Monthly_499,2024-01-12,,,0,1,,Pre-Update
+883,763,Monthly_499,2024-04-29,,,0,4,,Post-Update
+884,2248,Monthly_499,2024-05-14,2024-06-23,Hard to Cancel,1,5,40.0,Post-Update
+885,2879,Quarterly_1299,2024-04-06,2024-05-05,Hard to Cancel,1,4,29.0,Post-Update
+886,1524,Monthly_499,2024-05-25,2024-08-06,Not Using App,1,5,73.0,Post-Update
+887,1742,Annual_3999,2024-04-06,,,0,4,,Post-Update
+888,710,Monthly_499,2024-02-03,2024-02-20,Found Better App,1,2,17.0,Pre-Update
+889,2048,Monthly_499,2024-01-08,,,0,1,,Pre-Update
+890,424,Monthly_499,2024-04-02,2024-04-24,Hard to Cancel,1,4,22.0,Post-Update
+891,2440,Monthly_499,2024-05-06,2024-06-29,Hard to Cancel,1,5,54.0,Post-Update
+892,279,Quarterly_1299,2024-03-15,,,0,3,,Post-Update
+893,248,Monthly_499,2024-03-04,2024-05-17,Not Using App,1,3,74.0,Pre-Update
+894,2600,Monthly_499,2024-03-05,,,0,3,,Pre-Update
+895,1385,Monthly_499,2024-06-15,2024-07-01,Hard to Cancel,1,6,16.0,Post-Update
+896,1513,Annual_3999,2024-03-27,,,0,3,,Post-Update
+897,2721,Monthly_499,2024-05-30,,,0,5,,Post-Update
+898,718,Monthly_499,2024-01-11,,,0,1,,Pre-Update
+899,1853,Quarterly_1299,2024-01-18,,,0,1,,Pre-Update
+900,1111,Monthly_499,2024-02-24,2024-05-20,Not Using App,1,2,86.0,Pre-Update
+901,2190,Monthly_499,2024-03-29,,,0,3,,Post-Update
+902,706,Monthly_499,2024-05-21,,,0,5,,Post-Update
+903,1654,Quarterly_1299,2024-06-07,2024-08-31,Too Expensive,1,6,85.0,Post-Update
+904,1098,Monthly_499,2024-06-13,2024-07-07,Hard to Cancel,1,6,24.0,Post-Update
+905,1594,Monthly_499,2024-03-13,,,0,3,,Pre-Update
+906,261,Annual_3999,2024-05-31,2024-08-10,Too Expensive,1,5,71.0,Post-Update
+907,824,Monthly_499,2024-05-29,2024-07-01,Hard to Cancel,1,5,33.0,Post-Update
+908,2840,Monthly_499,2024-04-23,2024-05-03,Hard to Cancel,1,4,10.0,Post-Update
+909,1651,Monthly_499,2024-05-25,2024-06-19,Too Expensive,1,5,25.0,Post-Update
+910,851,Quarterly_1299,2024-05-06,2024-07-15,Hard to Cancel,1,5,70.0,Post-Update
+911,1573,Monthly_499,2024-04-08,2024-05-14,Hard to Cancel,1,4,36.0,Post-Update
+912,2511,Annual_3999,2024-05-04,,,0,5,,Post-Update
+913,76,Monthly_499,2024-03-22,2024-06-09,Found Better App,1,3,79.0,Post-Update
+914,241,Quarterly_1299,2024-04-15,,,0,4,,Post-Update
+915,1002,Monthly_499,2024-04-24,,,0,4,,Post-Update
+916,2890,Annual_3999,2024-01-29,2024-03-06,Not Using App,1,1,37.0,Pre-Update
+917,1194,Monthly_499,2024-06-19,,,0,6,,Post-Update
+918,2992,Monthly_499,2024-06-08,2024-08-16,Too Expensive,1,6,69.0,Post-Update
+919,1748,Monthly_499,2024-02-08,,,0,2,,Pre-Update
+920,2543,Monthly_499,2024-03-04,2024-04-21,Too Expensive,1,3,48.0,Pre-Update
+921,403,Monthly_499,2024-05-12,2024-07-03,Hard to Cancel,1,5,52.0,Post-Update
+922,2345,Monthly_499,2024-03-29,2024-06-13,Hard to Cancel,1,3,76.0,Post-Update
+923,69,Annual_3999,2024-05-23,2024-08-13,Hard to Cancel,1,5,82.0,Post-Update
+924,302,Quarterly_1299,2024-01-03,,,0,1,,Pre-Update
+925,1578,Monthly_499,2024-03-03,,,0,3,,Pre-Update
+926,799,Quarterly_1299,2024-01-16,,,0,1,,Pre-Update
+927,1947,Quarterly_1299,2024-04-03,2024-04-16,Hard to Cancel,1,4,13.0,Post-Update
+928,725,Monthly_499,2024-05-21,,,0,5,,Post-Update
+929,411,Monthly_499,2024-01-16,,,0,1,,Pre-Update
+930,996,Monthly_499,2024-01-02,2024-03-09,Hard to Cancel,1,1,67.0,Pre-Update
+931,691,Annual_3999,2024-06-16,,,0,6,,Post-Update
+932,2878,Quarterly_1299,2024-06-14,2024-07-25,Found Better App,1,6,41.0,Post-Update
+933,1066,Monthly_499,2024-01-09,,,0,1,,Pre-Update
+934,723,Annual_3999,2024-06-18,,,0,6,,Post-Update
+935,2451,Monthly_499,2024-02-22,2024-04-24,Found Better App,1,2,62.0,Pre-Update
+936,1331,Monthly_499,2024-04-13,,,0,4,,Post-Update
+937,315,Monthly_499,2024-05-07,,,0,5,,Post-Update
+938,165,Monthly_499,2024-03-24,2024-05-01,Too Expensive,1,3,38.0,Post-Update
+939,1104,Quarterly_1299,2024-05-21,,,0,5,,Post-Update
+940,2904,Monthly_499,2024-05-26,2024-06-23,Hard to Cancel,1,5,28.0,Post-Update
+941,133,Quarterly_1299,2024-05-20,2024-07-19,Hard to Cancel,1,5,60.0,Post-Update
+942,1368,Annual_3999,2024-01-11,,,0,1,,Pre-Update
+943,1541,Monthly_499,2024-02-04,,,0,2,,Pre-Update
+944,504,Monthly_499,2024-03-13,2024-06-08,Found Better App,1,3,87.0,Pre-Update
+945,2998,Monthly_499,2024-01-09,,,0,1,,Pre-Update
+946,839,Monthly_499,2024-03-17,2024-06-07,Hard to Cancel,1,3,82.0,Post-Update
+947,2197,Quarterly_1299,2024-03-10,,,0,3,,Pre-Update
+948,182,Quarterly_1299,2024-06-25,2024-08-06,Too Expensive,1,6,42.0,Post-Update
+949,1777,Monthly_499,2024-02-19,2024-05-10,Hard to Cancel,1,2,81.0,Pre-Update
+950,2301,Monthly_499,2024-04-10,,,0,4,,Post-Update
+951,506,Annual_3999,2024-05-03,2024-07-06,Found Better App,1,5,64.0,Post-Update
+952,2714,Monthly_499,2024-04-08,2024-07-02,Too Expensive,1,4,85.0,Post-Update
+953,2731,Quarterly_1299,2024-06-12,2024-08-22,Hard to Cancel,1,6,71.0,Post-Update
+954,1679,Quarterly_1299,2024-02-19,,,0,2,,Pre-Update
+955,221,Monthly_499,2024-03-28,2024-06-18,Hard to Cancel,1,3,82.0,Post-Update
+956,1643,Monthly_499,2024-04-14,,,0,4,,Post-Update
+957,1691,Monthly_499,2024-03-23,2024-06-17,Hard to Cancel,1,3,86.0,Post-Update
+958,2979,Monthly_499,2024-03-21,,,0,3,,Post-Update
+959,1517,Monthly_499,2024-01-01,,,0,1,,Pre-Update
+960,2927,Monthly_499,2024-03-11,,,0,3,,Pre-Update
+961,1917,Annual_3999,2024-03-08,,,0,3,,Pre-Update
+962,209,Annual_3999,2024-04-21,,,0,4,,Post-Update
+963,302,Annual_3999,2024-06-04,2024-08-20,Hard to Cancel,1,6,77.0,Post-Update
+964,544,Quarterly_1299,2024-03-26,,,0,3,,Post-Update
+965,551,Annual_3999,2024-05-08,,,0,5,,Post-Update
+966,680,Monthly_499,2024-04-20,,,0,4,,Post-Update
+967,2402,Annual_3999,2024-01-14,,,0,1,,Pre-Update
+968,796,Monthly_499,2024-03-16,2024-04-01,Not Using App,1,3,16.0,Post-Update
+969,2521,Monthly_499,2024-05-17,2024-08-04,Found Better App,1,5,79.0,Post-Update
+970,2959,Annual_3999,2024-01-31,,,0,1,,Pre-Update
+971,136,Quarterly_1299,2024-03-12,2024-05-08,Found Better App,1,3,57.0,Pre-Update
+972,2311,Monthly_499,2024-01-21,,,0,1,,Pre-Update
+973,2828,Monthly_499,2024-06-09,2024-08-28,Hard to Cancel,1,6,80.0,Post-Update
+974,1164,Monthly_499,2024-05-09,,,0,5,,Post-Update
+975,1616,Monthly_499,2024-05-26,,,0,5,,Post-Update
+976,1044,Quarterly_1299,2024-04-10,,,0,4,,Post-Update
+977,2068,Monthly_499,2024-04-04,2024-04-29,Hard to Cancel,1,4,25.0,Post-Update
+978,2236,Monthly_499,2024-02-29,2024-04-02,Hard to Cancel,1,2,33.0,Pre-Update
+979,2339,Monthly_499,2024-03-31,,,0,3,,Post-Update
+980,719,Monthly_499,2024-01-27,,,0,1,,Pre-Update
+981,204,Monthly_499,2024-03-27,,,0,3,,Post-Update
+982,2422,Quarterly_1299,2024-04-23,,,0,4,,Post-Update
+983,996,Annual_3999,2024-04-13,,,0,4,,Post-Update
+984,1282,Monthly_499,2024-02-28,,,0,2,,Pre-Update
+985,1990,Monthly_499,2024-01-19,,,0,1,,Pre-Update
+986,2438,Quarterly_1299,2024-02-14,2024-05-08,Found Better App,1,2,84.0,Pre-Update
+987,1256,Monthly_499,2024-04-13,2024-06-05,Found Better App,1,4,53.0,Post-Update
+988,2695,Monthly_499,2024-05-21,,,0,5,,Post-Update
+989,2673,Monthly_499,2024-03-03,2024-05-16,Too Expensive,1,3,74.0,Pre-Update
+990,2816,Monthly_499,2024-02-20,2024-03-28,Not Using App,1,2,37.0,Pre-Update
+991,952,Annual_3999,2024-04-16,2024-06-26,Hard to Cancel,1,4,71.0,Post-Update
+992,2014,Annual_3999,2024-02-02,,,0,2,,Pre-Update
+993,2627,Quarterly_1299,2024-04-27,2024-07-20,Hard to Cancel,1,4,84.0,Post-Update
+994,591,Monthly_499,2024-03-09,,,0,3,,Pre-Update
+995,453,Monthly_499,2024-04-01,,,0,4,,Post-Update
+996,2454,Annual_3999,2024-05-04,,,0,5,,Post-Update
+997,1035,Quarterly_1299,2024-01-27,2024-04-23,Found Better App,1,1,87.0,Pre-Update
+998,882,Quarterly_1299,2024-06-19,,,0,6,,Post-Update
+999,186,Quarterly_1299,2024-03-10,,,0,3,,Pre-Update
+1000,1042,Monthly_499,2024-02-08,2024-02-28,Too Expensive,1,2,20.0,Pre-Update
+1001,1345,Monthly_499,2024-01-24,2024-03-20,Not Using App,1,1,56.0,Pre-Update
+1002,1287,Annual_3999,2024-02-12,,,0,2,,Pre-Update
+1003,350,Monthly_499,2024-02-24,,,0,2,,Pre-Update
+1004,546,Annual_3999,2024-01-18,,,0,1,,Pre-Update
+1005,2859,Quarterly_1299,2024-05-11,,,0,5,,Post-Update
+1006,247,Quarterly_1299,2024-03-08,,,0,3,,Pre-Update
+1007,2886,Quarterly_1299,2024-06-16,,,0,6,,Post-Update
+1008,784,Monthly_499,2024-04-24,,,0,4,,Post-Update
+1009,2117,Monthly_499,2024-04-25,2024-07-08,Not Using App,1,4,74.0,Post-Update
+1010,2415,Monthly_499,2024-03-29,,,0,3,,Post-Update
+1011,544,Monthly_499,2024-06-22,2024-09-13,Too Expensive,1,6,83.0,Post-Update
+1012,871,Monthly_499,2024-04-23,2024-05-17,Not Using App,1,4,24.0,Post-Update
+1013,452,Monthly_499,2024-04-07,,,0,4,,Post-Update
+1014,468,Quarterly_1299,2024-01-11,,,0,1,,Pre-Update
+1015,680,Annual_3999,2024-02-27,,,0,2,,Pre-Update
+1016,227,Monthly_499,2024-05-08,2024-06-30,Hard to Cancel,1,5,53.0,Post-Update
+1017,1397,Annual_3999,2024-04-29,,,0,4,,Post-Update
+1018,452,Quarterly_1299,2024-01-04,2024-03-28,Hard to Cancel,1,1,84.0,Pre-Update
+1019,2550,Quarterly_1299,2024-06-05,2024-06-25,Not Using App,1,6,20.0,Post-Update
+1020,1615,Monthly_499,2024-02-29,2024-04-25,Not Using App,1,2,56.0,Pre-Update
+1021,2342,Quarterly_1299,2024-03-12,,,0,3,,Pre-Update
+1022,2744,Quarterly_1299,2024-05-05,,,0,5,,Post-Update
+1023,1276,Quarterly_1299,2024-04-14,2024-06-23,Not Using App,1,4,70.0,Post-Update
+1024,2830,Monthly_499,2024-02-02,,,0,2,,Pre-Update
+1025,231,Quarterly_1299,2024-05-22,2024-08-13,Found Better App,1,5,83.0,Post-Update
+1026,2945,Monthly_499,2024-01-13,,,0,1,,Pre-Update
+1027,1895,Monthly_499,2024-06-06,2024-06-27,Too Expensive,1,6,21.0,Post-Update
+1028,1397,Monthly_499,2024-04-18,2024-05-05,Found Better App,1,4,17.0,Post-Update
+1029,1369,Quarterly_1299,2024-03-19,,,0,3,,Post-Update
+1030,914,Monthly_499,2024-02-20,,,0,2,,Pre-Update
+1031,1576,Monthly_499,2024-05-30,2024-07-20,Hard to Cancel,1,5,51.0,Post-Update
+1032,1602,Monthly_499,2024-01-03,2024-01-22,Not Using App,1,1,19.0,Pre-Update
+1033,2881,Monthly_499,2024-05-27,2024-06-30,Not Using App,1,5,34.0,Post-Update
+1034,2529,Monthly_499,2024-06-24,,,0,6,,Post-Update
+1035,722,Quarterly_1299,2024-02-25,2024-03-24,Found Better App,1,2,28.0,Pre-Update
+1036,619,Quarterly_1299,2024-05-03,,,0,5,,Post-Update
+1037,32,Monthly_499,2024-03-20,,,0,3,,Post-Update
+1038,2821,Monthly_499,2024-02-15,,,0,2,,Pre-Update
+1039,1805,Quarterly_1299,2024-06-08,2024-06-26,Hard to Cancel,1,6,18.0,Post-Update
+1040,1895,Monthly_499,2024-06-26,2024-08-10,Found Better App,1,6,45.0,Post-Update
+1041,1332,Monthly_499,2024-03-03,,,0,3,,Pre-Update
+1042,2024,Monthly_499,2024-03-20,,,0,3,,Post-Update
+1043,1205,Annual_3999,2024-02-12,2024-02-27,Not Using App,1,2,15.0,Pre-Update
+1044,1083,Monthly_499,2024-05-01,,,0,5,,Post-Update
+1045,325,Monthly_499,2024-03-07,,,0,3,,Pre-Update
+1046,2740,Quarterly_1299,2024-01-15,2024-02-29,Found Better App,1,1,45.0,Pre-Update
+1047,1195,Monthly_499,2024-01-29,,,0,1,,Pre-Update
+1048,1825,Monthly_499,2024-04-21,,,0,4,,Post-Update
+1049,989,Annual_3999,2024-03-12,,,0,3,,Pre-Update
+1050,2250,Monthly_499,2024-04-05,2024-05-28,Too Expensive,1,4,53.0,Post-Update
+1051,2501,Annual_3999,2024-01-17,,,0,1,,Pre-Update
+1052,2436,Quarterly_1299,2024-03-20,,,0,3,,Post-Update
+1053,2831,Monthly_499,2024-03-13,,,0,3,,Pre-Update
+1054,2481,Monthly_499,2024-01-23,2024-02-19,Hard to Cancel,1,1,27.0,Pre-Update
+1055,2997,Annual_3999,2024-04-17,2024-05-19,Hard to Cancel,1,4,32.0,Post-Update
+1056,1995,Monthly_499,2024-03-17,2024-04-06,Not Using App,1,3,20.0,Post-Update
+1057,1144,Monthly_499,2024-04-28,2024-07-09,Hard to Cancel,1,4,72.0,Post-Update
+1058,2429,Monthly_499,2024-06-21,,,0,6,,Post-Update
+1059,556,Monthly_499,2024-03-13,2024-06-05,Not Using App,1,3,84.0,Pre-Update
+1060,2207,Monthly_499,2024-01-28,2024-03-30,Too Expensive,1,1,62.0,Pre-Update
+1061,1620,Monthly_499,2024-02-06,,,0,2,,Pre-Update
+1062,1207,Monthly_499,2024-01-15,,,0,1,,Pre-Update
+1063,583,Annual_3999,2024-05-05,2024-05-15,Hard to Cancel,1,5,10.0,Post-Update
+1064,722,Monthly_499,2024-01-08,2024-01-20,Too Expensive,1,1,12.0,Pre-Update
+1065,456,Quarterly_1299,2024-01-04,2024-03-25,Found Better App,1,1,81.0,Pre-Update
+1066,385,Monthly_499,2024-05-17,,,0,5,,Post-Update
+1067,2073,Monthly_499,2024-01-18,,,0,1,,Pre-Update
+1068,1647,Quarterly_1299,2024-03-27,2024-05-03,Not Using App,1,3,37.0,Post-Update
+1069,2495,Quarterly_1299,2024-05-30,,,0,5,,Post-Update
+1070,817,Monthly_499,2024-05-22,2024-06-04,Hard to Cancel,1,5,13.0,Post-Update
+1071,2255,Quarterly_1299,2024-04-21,2024-05-06,Hard to Cancel,1,4,15.0,Post-Update
+1072,2446,Annual_3999,2024-06-05,,,0,6,,Post-Update
+1073,341,Monthly_499,2024-03-02,,,0,3,,Pre-Update
+1074,2583,Monthly_499,2024-06-18,,,0,6,,Post-Update
+1075,284,Annual_3999,2024-03-20,2024-05-26,Not Using App,1,3,67.0,Post-Update
+1076,1298,Quarterly_1299,2024-01-01,,,0,1,,Pre-Update
+1077,1349,Monthly_499,2024-05-09,,,0,5,,Post-Update
+1078,345,Monthly_499,2024-05-08,,,0,5,,Post-Update
+1079,54,Monthly_499,2024-02-23,2024-05-05,Too Expensive,1,2,72.0,Pre-Update
+1080,567,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+1081,2502,Monthly_499,2024-05-18,2024-07-22,Hard to Cancel,1,5,65.0,Post-Update
+1082,470,Quarterly_1299,2024-03-22,2024-04-18,Too Expensive,1,3,27.0,Post-Update
+1083,933,Annual_3999,2024-05-18,2024-06-14,Too Expensive,1,5,27.0,Post-Update
+1084,255,Quarterly_1299,2024-05-21,,,0,5,,Post-Update
+1085,1772,Monthly_499,2024-02-11,2024-04-12,Not Using App,1,2,61.0,Pre-Update
+1086,2645,Annual_3999,2024-01-23,,,0,1,,Pre-Update
+1087,2107,Monthly_499,2024-06-16,,,0,6,,Post-Update
+1088,1373,Monthly_499,2024-06-09,2024-06-19,Hard to Cancel,1,6,10.0,Post-Update
+1089,1873,Quarterly_1299,2024-05-12,,,0,5,,Post-Update
+1090,714,Monthly_499,2024-01-07,2024-04-04,Hard to Cancel,1,1,88.0,Pre-Update
+1091,868,Quarterly_1299,2024-02-26,,,0,2,,Pre-Update
+1092,1053,Monthly_499,2024-02-27,,,0,2,,Pre-Update
+1093,2580,Monthly_499,2024-02-12,,,0,2,,Pre-Update
+1094,1704,Monthly_499,2024-01-05,2024-01-21,Too Expensive,1,1,16.0,Pre-Update
+1095,1784,Monthly_499,2024-03-27,,,0,3,,Post-Update
+1096,104,Monthly_499,2024-03-26,,,0,3,,Post-Update
+1097,1963,Monthly_499,2024-04-20,,,0,4,,Post-Update
+1098,1728,Monthly_499,2024-02-05,,,0,2,,Pre-Update
+1099,1621,Monthly_499,2024-05-12,,,0,5,,Post-Update
+1100,2008,Monthly_499,2024-03-30,,,0,3,,Post-Update
+1101,2121,Monthly_499,2024-01-16,2024-02-19,Found Better App,1,1,34.0,Pre-Update
+1102,420,Annual_3999,2024-02-17,,,0,2,,Pre-Update
+1103,2518,Quarterly_1299,2024-01-14,,,0,1,,Pre-Update
+1104,1400,Monthly_499,2024-03-01,2024-03-16,Too Expensive,1,3,15.0,Pre-Update
+1105,2672,Monthly_499,2024-05-22,,,0,5,,Post-Update
+1106,55,Annual_3999,2024-02-06,2024-02-25,Found Better App,1,2,19.0,Pre-Update
+1107,1486,Monthly_499,2024-04-14,2024-07-06,Found Better App,1,4,83.0,Post-Update
+1108,2982,Monthly_499,2024-01-22,,,0,1,,Pre-Update
+1109,1294,Quarterly_1299,2024-02-09,,,0,2,,Pre-Update
+1110,1140,Annual_3999,2024-05-29,2024-07-07,Hard to Cancel,1,5,39.0,Post-Update
+1111,394,Monthly_499,2024-02-26,,,0,2,,Pre-Update
+1112,2559,Quarterly_1299,2024-04-30,,,0,4,,Post-Update
+1113,2836,Monthly_499,2024-02-01,,,0,2,,Pre-Update
+1114,423,Monthly_499,2024-05-17,,,0,5,,Post-Update
+1115,2088,Annual_3999,2024-05-25,2024-06-27,Not Using App,1,5,33.0,Post-Update
+1116,730,Annual_3999,2024-05-14,2024-07-03,Hard to Cancel,1,5,50.0,Post-Update
+1117,2635,Monthly_499,2024-06-19,,,0,6,,Post-Update
+1118,1548,Monthly_499,2024-06-18,,,0,6,,Post-Update
+1119,2308,Monthly_499,2024-03-05,2024-03-21,Not Using App,1,3,16.0,Pre-Update
+1120,1066,Annual_3999,2024-02-07,2024-03-23,Too Expensive,1,2,45.0,Pre-Update
+1121,1952,Monthly_499,2024-01-11,,,0,1,,Pre-Update
+1122,2058,Annual_3999,2024-05-24,2024-07-15,Found Better App,1,5,52.0,Post-Update
+1123,2065,Monthly_499,2024-06-07,,,0,6,,Post-Update
+1124,1672,Annual_3999,2024-01-20,,,0,1,,Pre-Update
+1125,1141,Monthly_499,2024-06-15,2024-07-15,Not Using App,1,6,30.0,Post-Update
+1126,2297,Monthly_499,2024-05-07,2024-06-27,Hard to Cancel,1,5,51.0,Post-Update
+1127,2623,Annual_3999,2024-06-12,,,0,6,,Post-Update
+1128,74,Monthly_499,2024-06-13,2024-08-08,Hard to Cancel,1,6,56.0,Post-Update
+1129,2752,Monthly_499,2024-02-03,,,0,2,,Pre-Update
+1130,297,Monthly_499,2024-04-03,,,0,4,,Post-Update
+1131,1752,Monthly_499,2024-02-15,,,0,2,,Pre-Update
+1132,760,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+1133,1661,Quarterly_1299,2024-02-21,,,0,2,,Pre-Update
+1134,978,Monthly_499,2024-06-07,2024-08-31,Hard to Cancel,1,6,85.0,Post-Update
+1135,505,Quarterly_1299,2024-04-26,,,0,4,,Post-Update
+1136,370,Annual_3999,2024-04-27,,,0,4,,Post-Update
+1137,1780,Monthly_499,2024-04-23,,,0,4,,Post-Update
+1138,1360,Monthly_499,2024-04-09,2024-05-23,Hard to Cancel,1,4,44.0,Post-Update
+1139,2197,Annual_3999,2024-01-07,,,0,1,,Pre-Update
+1140,105,Quarterly_1299,2024-05-22,,,0,5,,Post-Update
+1141,1803,Annual_3999,2024-04-07,,,0,4,,Post-Update
+1142,836,Monthly_499,2024-01-09,,,0,1,,Pre-Update
+1143,2557,Quarterly_1299,2024-06-03,,,0,6,,Post-Update
+1144,2279,Monthly_499,2024-06-06,,,0,6,,Post-Update
+1145,1586,Monthly_499,2024-03-12,,,0,3,,Pre-Update
+1146,2328,Monthly_499,2024-03-31,2024-04-30,Hard to Cancel,1,3,30.0,Post-Update
+1147,819,Annual_3999,2024-05-15,2024-07-31,Hard to Cancel,1,5,77.0,Post-Update
+1148,2851,Monthly_499,2024-06-03,2024-06-23,Hard to Cancel,1,6,20.0,Post-Update
+1149,2603,Monthly_499,2024-04-14,,,0,4,,Post-Update
+1150,2518,Monthly_499,2024-06-22,2024-08-18,Too Expensive,1,6,57.0,Post-Update
+1151,2657,Monthly_499,2024-05-29,,,0,5,,Post-Update
+1152,2436,Monthly_499,2024-04-07,,,0,4,,Post-Update
+1153,2295,Monthly_499,2024-05-03,2024-06-27,Hard to Cancel,1,5,55.0,Post-Update
+1154,2105,Monthly_499,2024-02-16,2024-03-11,Too Expensive,1,2,24.0,Pre-Update
+1155,2076,Monthly_499,2024-01-23,,,0,1,,Pre-Update
+1156,1229,Quarterly_1299,2024-05-23,2024-07-05,Hard to Cancel,1,5,43.0,Post-Update
+1157,876,Quarterly_1299,2024-01-24,2024-04-20,Too Expensive,1,1,87.0,Pre-Update
+1158,1533,Annual_3999,2024-01-19,,,0,1,,Pre-Update
+1159,2875,Monthly_499,2024-01-11,,,0,1,,Pre-Update
+1160,765,Monthly_499,2024-04-14,,,0,4,,Post-Update
+1161,2348,Annual_3999,2024-03-21,2024-05-28,Hard to Cancel,1,3,68.0,Post-Update
+1162,2560,Quarterly_1299,2024-01-09,2024-01-27,Found Better App,1,1,18.0,Pre-Update
+1163,147,Annual_3999,2024-04-21,,,0,4,,Post-Update
+1164,765,Monthly_499,2024-06-01,,,0,6,,Post-Update
+1165,1202,Monthly_499,2024-05-13,2024-07-20,Found Better App,1,5,68.0,Post-Update
+1166,1306,Quarterly_1299,2024-03-13,2024-05-02,Not Using App,1,3,50.0,Pre-Update
+1167,532,Annual_3999,2024-02-20,,,0,2,,Pre-Update
+1168,1789,Quarterly_1299,2024-05-04,2024-05-24,Found Better App,1,5,20.0,Post-Update
+1169,1708,Quarterly_1299,2024-06-06,2024-08-30,Found Better App,1,6,85.0,Post-Update
+1170,433,Monthly_499,2024-05-14,2024-05-27,Too Expensive,1,5,13.0,Post-Update
+1171,717,Monthly_499,2024-02-02,2024-02-21,Not Using App,1,2,19.0,Pre-Update
+1172,2312,Monthly_499,2024-06-24,,,0,6,,Post-Update
+1173,1044,Quarterly_1299,2024-03-05,,,0,3,,Pre-Update
+1174,2552,Monthly_499,2024-03-16,2024-05-05,Hard to Cancel,1,3,50.0,Post-Update
+1175,2743,Quarterly_1299,2024-05-06,,,0,5,,Post-Update
+1176,530,Monthly_499,2024-05-26,2024-07-13,Not Using App,1,5,48.0,Post-Update
+1177,1451,Quarterly_1299,2024-01-10,,,0,1,,Pre-Update
+1178,2741,Monthly_499,2024-06-25,,,0,6,,Post-Update
+1179,580,Monthly_499,2024-05-28,2024-06-27,Not Using App,1,5,30.0,Post-Update
+1180,391,Monthly_499,2024-02-26,,,0,2,,Pre-Update
+1181,2949,Monthly_499,2024-02-10,2024-04-08,Too Expensive,1,2,58.0,Pre-Update
+1182,2904,Annual_3999,2024-05-17,2024-06-14,Too Expensive,1,5,28.0,Post-Update
+1183,794,Annual_3999,2024-04-10,2024-06-01,Not Using App,1,4,52.0,Post-Update
+1184,177,Monthly_499,2024-01-20,,,0,1,,Pre-Update
+1185,1719,Monthly_499,2024-02-14,,,0,2,,Pre-Update
+1186,2094,Monthly_499,2024-06-18,2024-09-11,Hard to Cancel,1,6,85.0,Post-Update
+1187,1507,Monthly_499,2024-05-10,,,0,5,,Post-Update
+1188,1284,Monthly_499,2024-01-18,,,0,1,,Pre-Update
+1189,368,Monthly_499,2024-03-06,2024-04-15,Too Expensive,1,3,40.0,Pre-Update
+1190,359,Annual_3999,2024-02-15,,,0,2,,Pre-Update
+1191,2461,Monthly_499,2024-01-02,,,0,1,,Pre-Update
+1192,1913,Annual_3999,2024-04-11,,,0,4,,Post-Update
+1193,605,Quarterly_1299,2024-05-03,,,0,5,,Post-Update
+1194,1555,Monthly_499,2024-04-23,2024-06-08,Hard to Cancel,1,4,46.0,Post-Update
+1195,1091,Quarterly_1299,2024-03-10,,,0,3,,Pre-Update
+1196,835,Annual_3999,2024-04-09,,,0,4,,Post-Update
+1197,2854,Quarterly_1299,2024-06-17,2024-08-24,Found Better App,1,6,68.0,Post-Update
+1198,1982,Annual_3999,2024-03-11,,,0,3,,Pre-Update
+1199,967,Monthly_499,2024-05-04,2024-07-30,Hard to Cancel,1,5,87.0,Post-Update
+1200,755,Monthly_499,2024-01-29,,,0,1,,Pre-Update
+1201,1290,Quarterly_1299,2024-01-05,2024-01-19,Found Better App,1,1,14.0,Pre-Update
+1202,1310,Quarterly_1299,2024-03-18,,,0,3,,Post-Update
+1203,2696,Monthly_499,2024-06-03,2024-08-20,Hard to Cancel,1,6,78.0,Post-Update
+1204,147,Monthly_499,2024-02-20,2024-03-13,Not Using App,1,2,22.0,Pre-Update
+1205,2290,Monthly_499,2024-06-08,,,0,6,,Post-Update
+1206,388,Monthly_499,2024-06-26,2024-08-11,Hard to Cancel,1,6,46.0,Post-Update
+1207,154,Annual_3999,2024-05-26,2024-07-17,Too Expensive,1,5,52.0,Post-Update
+1208,95,Quarterly_1299,2024-04-15,2024-05-20,Too Expensive,1,4,35.0,Post-Update
+1209,1947,Monthly_499,2024-05-03,2024-05-16,Hard to Cancel,1,5,13.0,Post-Update
+1210,1607,Quarterly_1299,2024-05-04,2024-07-17,Found Better App,1,5,74.0,Post-Update
+1211,2861,Quarterly_1299,2024-01-26,,,0,1,,Pre-Update
+1212,1136,Quarterly_1299,2024-04-10,2024-06-08,Too Expensive,1,4,59.0,Post-Update
+1213,2910,Annual_3999,2024-01-30,2024-03-15,Hard to Cancel,1,1,45.0,Pre-Update
+1214,668,Monthly_499,2024-05-22,,,0,5,,Post-Update
+1215,451,Monthly_499,2024-05-19,,,0,5,,Post-Update
+1216,1272,Monthly_499,2024-06-16,2024-07-12,Not Using App,1,6,26.0,Post-Update
+1217,1734,Monthly_499,2024-03-08,,,0,3,,Pre-Update
+1218,952,Quarterly_1299,2024-06-22,2024-09-19,Hard to Cancel,1,6,89.0,Post-Update
+1219,1103,Monthly_499,2024-04-23,2024-06-11,Too Expensive,1,4,49.0,Post-Update
+1220,283,Monthly_499,2024-06-14,,,0,6,,Post-Update
+1221,2696,Monthly_499,2024-02-07,2024-03-30,Too Expensive,1,2,52.0,Pre-Update
+1222,169,Monthly_499,2024-02-21,,,0,2,,Pre-Update
+1223,205,Monthly_499,2024-02-18,,,0,2,,Pre-Update
+1224,2384,Annual_3999,2024-03-25,2024-06-19,Not Using App,1,3,86.0,Post-Update
+1225,2073,Monthly_499,2024-02-25,2024-05-08,Not Using App,1,2,73.0,Pre-Update
+1226,2116,Monthly_499,2024-05-04,2024-06-25,Hard to Cancel,1,5,52.0,Post-Update
+1227,951,Monthly_499,2024-01-07,2024-03-01,Not Using App,1,1,54.0,Pre-Update
+1228,1432,Monthly_499,2024-03-31,,,0,3,,Post-Update
+1229,2719,Quarterly_1299,2024-01-14,2024-02-03,Not Using App,1,1,20.0,Pre-Update
+1230,2297,Monthly_499,2024-06-16,,,0,6,,Post-Update
+1231,550,Quarterly_1299,2024-03-18,,,0,3,,Post-Update
+1232,2371,Monthly_499,2024-05-23,,,0,5,,Post-Update
+1233,760,Monthly_499,2024-03-20,,,0,3,,Post-Update
+1234,2556,Monthly_499,2024-05-20,2024-07-22,Hard to Cancel,1,5,63.0,Post-Update
+1235,2344,Quarterly_1299,2024-05-29,,,0,5,,Post-Update
+1236,2741,Monthly_499,2024-02-06,,,0,2,,Pre-Update
+1237,233,Annual_3999,2024-01-07,,,0,1,,Pre-Update
+1238,1649,Quarterly_1299,2024-05-04,,,0,5,,Post-Update
+1239,461,Quarterly_1299,2024-01-09,,,0,1,,Pre-Update
+1240,559,Quarterly_1299,2024-05-31,,,0,5,,Post-Update
+1241,1409,Monthly_499,2024-02-27,,,0,2,,Pre-Update
+1242,2868,Quarterly_1299,2024-01-19,,,0,1,,Pre-Update
+1243,2493,Annual_3999,2024-02-20,,,0,2,,Pre-Update
+1244,1691,Quarterly_1299,2024-06-05,2024-08-28,Found Better App,1,6,84.0,Post-Update
+1245,2826,Monthly_499,2024-06-07,2024-08-30,Hard to Cancel,1,6,84.0,Post-Update
+1246,2221,Quarterly_1299,2024-05-21,2024-07-12,Hard to Cancel,1,5,52.0,Post-Update
+1247,2771,Quarterly_1299,2024-05-06,,,0,5,,Post-Update
+1248,1608,Quarterly_1299,2024-01-09,,,0,1,,Pre-Update
+1249,2835,Monthly_499,2024-06-01,2024-08-07,Hard to Cancel,1,6,67.0,Post-Update
+1250,771,Monthly_499,2024-05-31,2024-07-08,Hard to Cancel,1,5,38.0,Post-Update
+1251,126,Quarterly_1299,2024-04-10,,,0,4,,Post-Update
+1252,2153,Annual_3999,2024-01-02,,,0,1,,Pre-Update
+1253,1995,Monthly_499,2024-06-12,,,0,6,,Post-Update
+1254,2787,Annual_3999,2024-06-20,,,0,6,,Post-Update
+1255,2081,Quarterly_1299,2024-05-14,,,0,5,,Post-Update
+1256,1800,Quarterly_1299,2024-02-27,,,0,2,,Pre-Update
+1257,1799,Monthly_499,2024-01-04,,,0,1,,Pre-Update
+1258,157,Monthly_499,2024-01-21,,,0,1,,Pre-Update
+1259,908,Monthly_499,2024-03-12,2024-05-04,Too Expensive,1,3,53.0,Pre-Update
+1260,2319,Quarterly_1299,2024-01-04,,,0,1,,Pre-Update
+1261,2007,Quarterly_1299,2024-06-22,2024-08-31,Not Using App,1,6,70.0,Post-Update
+1262,1176,Quarterly_1299,2024-05-17,,,0,5,,Post-Update
+1263,1228,Monthly_499,2024-03-26,2024-05-26,Too Expensive,1,3,61.0,Post-Update
+1264,649,Monthly_499,2024-02-03,,,0,2,,Pre-Update
+1265,492,Quarterly_1299,2024-03-20,2024-05-27,Hard to Cancel,1,3,68.0,Post-Update
+1266,2256,Quarterly_1299,2024-02-02,,,0,2,,Pre-Update
+1267,1751,Monthly_499,2024-05-24,,,0,5,,Post-Update
+1268,807,Annual_3999,2024-06-21,,,0,6,,Post-Update
+1269,2810,Monthly_499,2024-05-21,2024-07-05,Not Using App,1,5,45.0,Post-Update
+1270,1367,Quarterly_1299,2024-01-03,,,0,1,,Pre-Update
+1271,804,Quarterly_1299,2024-06-14,2024-06-24,Not Using App,1,6,10.0,Post-Update
+1272,576,Quarterly_1299,2024-03-21,,,0,3,,Post-Update
+1273,1031,Quarterly_1299,2024-01-31,,,0,1,,Pre-Update
+1274,747,Monthly_499,2024-04-26,2024-06-20,Too Expensive,1,4,55.0,Post-Update
+1275,2026,Quarterly_1299,2024-03-03,,,0,3,,Pre-Update
+1276,87,Monthly_499,2024-06-09,2024-07-01,Too Expensive,1,6,22.0,Post-Update
+1277,2801,Monthly_499,2024-04-23,,,0,4,,Post-Update
+1278,2556,Monthly_499,2024-06-21,2024-08-13,Hard to Cancel,1,6,53.0,Post-Update
+1279,1198,Quarterly_1299,2024-06-24,2024-09-20,Not Using App,1,6,88.0,Post-Update
+1280,2097,Monthly_499,2024-02-25,2024-03-15,Not Using App,1,2,19.0,Pre-Update
+1281,1113,Annual_3999,2024-04-20,,,0,4,,Post-Update
+1282,855,Monthly_499,2024-06-26,2024-08-24,Hard to Cancel,1,6,59.0,Post-Update
+1283,700,Quarterly_1299,2024-01-20,,,0,1,,Pre-Update
+1284,2680,Monthly_499,2024-05-27,2024-07-14,Not Using App,1,5,48.0,Post-Update
+1285,1501,Monthly_499,2024-01-26,2024-03-13,Not Using App,1,1,47.0,Pre-Update
+1286,420,Monthly_499,2024-01-29,,,0,1,,Pre-Update
+1287,2907,Annual_3999,2024-04-14,2024-04-24,Hard to Cancel,1,4,10.0,Post-Update
+1288,950,Annual_3999,2024-02-01,2024-04-07,Too Expensive,1,2,66.0,Pre-Update
+1289,2984,Monthly_499,2024-02-27,2024-04-03,Not Using App,1,2,36.0,Pre-Update
+1290,2922,Monthly_499,2024-01-16,2024-04-12,Found Better App,1,1,87.0,Pre-Update
+1291,2560,Monthly_499,2024-03-14,2024-04-01,Too Expensive,1,3,18.0,Pre-Update
+1292,2456,Quarterly_1299,2024-03-15,,,0,3,,Post-Update
+1293,770,Monthly_499,2024-05-29,2024-08-01,Hard to Cancel,1,5,64.0,Post-Update
+1294,1554,Quarterly_1299,2024-04-30,,,0,4,,Post-Update
+1295,2619,Quarterly_1299,2024-06-05,,,0,6,,Post-Update
+1296,1243,Monthly_499,2024-03-07,,,0,3,,Pre-Update
+1297,1023,Monthly_499,2024-02-15,,,0,2,,Pre-Update
+1298,1125,Monthly_499,2024-04-23,2024-07-20,Hard to Cancel,1,4,88.0,Post-Update
+1299,1440,Monthly_499,2024-04-08,,,0,4,,Post-Update
+1300,184,Quarterly_1299,2024-06-22,2024-07-08,Found Better App,1,6,16.0,Post-Update
+1301,154,Monthly_499,2024-05-02,2024-07-27,Hard to Cancel,1,5,86.0,Post-Update
+1302,573,Annual_3999,2024-05-08,,,0,5,,Post-Update
+1303,1876,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+1304,2823,Monthly_499,2024-01-01,,,0,1,,Pre-Update
+1305,380,Quarterly_1299,2024-05-27,2024-06-19,Too Expensive,1,5,23.0,Post-Update
+1306,2554,Quarterly_1299,2024-02-14,,,0,2,,Pre-Update
+1307,585,Quarterly_1299,2024-01-08,,,0,1,,Pre-Update
+1308,2809,Monthly_499,2024-05-26,,,0,5,,Post-Update
+1309,936,Quarterly_1299,2024-01-23,2024-02-15,Not Using App,1,1,23.0,Pre-Update
+1310,70,Annual_3999,2024-01-01,,,0,1,,Pre-Update
+1311,1848,Monthly_499,2024-01-04,2024-02-09,Found Better App,1,1,36.0,Pre-Update
+1312,2903,Monthly_499,2024-06-05,,,0,6,,Post-Update
+1313,109,Monthly_499,2024-05-29,,,0,5,,Post-Update
+1314,167,Annual_3999,2024-03-14,2024-04-05,Too Expensive,1,3,22.0,Pre-Update
+1315,140,Monthly_499,2024-02-29,,,0,2,,Pre-Update
+1316,2951,Monthly_499,2024-03-19,,,0,3,,Post-Update
+1317,1660,Monthly_499,2024-02-09,2024-02-29,Too Expensive,1,2,20.0,Pre-Update
+1318,1988,Monthly_499,2024-05-02,,,0,5,,Post-Update
+1319,1882,Monthly_499,2024-02-13,,,0,2,,Pre-Update
+1320,1261,Monthly_499,2024-03-26,2024-04-30,Hard to Cancel,1,3,35.0,Post-Update
+1321,527,Monthly_499,2024-02-04,,,0,2,,Pre-Update
+1322,785,Monthly_499,2024-05-26,,,0,5,,Post-Update
+1323,1261,Quarterly_1299,2024-04-17,,,0,4,,Post-Update
+1324,2765,Monthly_499,2024-01-29,,,0,1,,Pre-Update
+1325,2987,Quarterly_1299,2024-01-28,2024-04-17,Hard to Cancel,1,1,80.0,Pre-Update
+1326,2283,Monthly_499,2024-04-10,,,0,4,,Post-Update
+1327,2198,Monthly_499,2024-01-21,2024-03-18,Too Expensive,1,1,57.0,Pre-Update
+1328,2632,Monthly_499,2024-03-11,,,0,3,,Pre-Update
+1329,687,Monthly_499,2024-05-29,,,0,5,,Post-Update
+1330,1331,Monthly_499,2024-06-20,2024-08-12,Hard to Cancel,1,6,53.0,Post-Update
+1331,2017,Annual_3999,2024-04-16,,,0,4,,Post-Update
+1332,1376,Monthly_499,2024-05-17,,,0,5,,Post-Update
+1333,2413,Monthly_499,2024-04-16,,,0,4,,Post-Update
+1334,2042,Monthly_499,2024-06-03,,,0,6,,Post-Update
+1335,725,Monthly_499,2024-03-22,2024-05-24,Too Expensive,1,3,63.0,Post-Update
+1336,305,Annual_3999,2024-04-25,,,0,4,,Post-Update
+1337,2713,Monthly_499,2024-06-27,2024-09-17,Hard to Cancel,1,6,82.0,Post-Update
+1338,741,Monthly_499,2024-04-29,,,0,4,,Post-Update
+1339,1258,Annual_3999,2024-04-25,,,0,4,,Post-Update
+1340,2345,Monthly_499,2024-05-20,2024-06-11,Not Using App,1,5,22.0,Post-Update
+1341,290,Monthly_499,2024-03-03,2024-05-01,Too Expensive,1,3,59.0,Pre-Update
+1342,1928,Quarterly_1299,2024-05-10,2024-06-10,Too Expensive,1,5,31.0,Post-Update
+1343,2864,Quarterly_1299,2024-01-21,2024-03-29,Too Expensive,1,1,68.0,Pre-Update
+1344,1873,Monthly_499,2024-04-23,,,0,4,,Post-Update
+1345,819,Annual_3999,2024-01-25,,,0,1,,Pre-Update
+1346,105,Annual_3999,2024-03-11,2024-05-30,Hard to Cancel,1,3,80.0,Pre-Update
+1347,2933,Quarterly_1299,2024-04-04,,,0,4,,Post-Update
+1348,814,Annual_3999,2024-05-16,,,0,5,,Post-Update
+1349,2466,Annual_3999,2024-03-29,2024-06-23,Too Expensive,1,3,86.0,Post-Update
+1350,1405,Monthly_499,2024-03-02,,,0,3,,Pre-Update
+1351,1056,Monthly_499,2024-03-17,,,0,3,,Post-Update
+1352,2255,Quarterly_1299,2024-05-28,,,0,5,,Post-Update
+1353,768,Monthly_499,2024-01-02,2024-03-20,Too Expensive,1,1,78.0,Pre-Update
+1354,2390,Monthly_499,2024-01-31,,,0,1,,Pre-Update
+1355,665,Monthly_499,2024-06-26,2024-08-09,Too Expensive,1,6,44.0,Post-Update
+1356,593,Quarterly_1299,2024-03-28,,,0,3,,Post-Update
+1357,2659,Monthly_499,2024-03-16,,,0,3,,Post-Update
+1358,2924,Quarterly_1299,2024-03-01,,,0,3,,Pre-Update
+1359,1295,Monthly_499,2024-06-21,,,0,6,,Post-Update
+1360,148,Quarterly_1299,2024-05-19,2024-08-10,Found Better App,1,5,83.0,Post-Update
+1361,106,Monthly_499,2024-02-26,2024-03-13,Not Using App,1,2,16.0,Pre-Update
+1362,1700,Monthly_499,2024-01-27,,,0,1,,Pre-Update
+1363,1426,Quarterly_1299,2024-02-12,2024-03-01,Too Expensive,1,2,18.0,Pre-Update
+1364,522,Monthly_499,2024-06-25,,,0,6,,Post-Update
+1365,881,Monthly_499,2024-06-01,2024-07-30,Not Using App,1,6,59.0,Post-Update
+1366,2557,Monthly_499,2024-01-06,,,0,1,,Pre-Update
+1367,1872,Monthly_499,2024-03-26,2024-06-15,Hard to Cancel,1,3,81.0,Post-Update
+1368,1610,Monthly_499,2024-06-20,,,0,6,,Post-Update
+1369,1426,Annual_3999,2024-01-14,,,0,1,,Pre-Update
+1370,1455,Quarterly_1299,2024-01-10,,,0,1,,Pre-Update
+1371,2330,Monthly_499,2024-03-10,,,0,3,,Pre-Update
+1372,102,Monthly_499,2024-06-12,2024-08-14,Hard to Cancel,1,6,63.0,Post-Update
+1373,2800,Quarterly_1299,2024-01-19,2024-02-01,Not Using App,1,1,13.0,Pre-Update
+1374,1610,Quarterly_1299,2024-01-14,,,0,1,,Pre-Update
+1375,2239,Monthly_499,2024-06-12,,,0,6,,Post-Update
+1376,1336,Monthly_499,2024-02-18,2024-03-15,Too Expensive,1,2,26.0,Pre-Update
+1377,2256,Monthly_499,2024-06-19,,,0,6,,Post-Update
+1378,2948,Monthly_499,2024-03-30,2024-04-19,Hard to Cancel,1,3,20.0,Post-Update
+1379,2368,Quarterly_1299,2024-02-12,2024-03-01,Not Using App,1,2,18.0,Pre-Update
+1380,2153,Quarterly_1299,2024-05-20,2024-06-24,Not Using App,1,5,35.0,Post-Update
+1381,1908,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+1382,877,Monthly_499,2024-02-06,2024-04-11,Too Expensive,1,2,65.0,Pre-Update
+1383,117,Monthly_499,2024-06-16,,,0,6,,Post-Update
+1384,1227,Monthly_499,2024-05-02,,,0,5,,Post-Update
+1385,185,Annual_3999,2024-02-08,,,0,2,,Pre-Update
+1386,2997,Monthly_499,2024-05-29,2024-07-23,Hard to Cancel,1,5,55.0,Post-Update
+1387,2007,Monthly_499,2024-04-02,2024-05-23,Found Better App,1,4,51.0,Post-Update
+1388,2353,Monthly_499,2024-02-28,,,0,2,,Pre-Update
+1389,219,Annual_3999,2024-02-12,2024-03-30,Too Expensive,1,2,47.0,Pre-Update
+1390,1168,Monthly_499,2024-03-24,2024-04-19,Hard to Cancel,1,3,26.0,Post-Update
+1391,1871,Annual_3999,2024-06-25,2024-07-30,Hard to Cancel,1,6,35.0,Post-Update
+1392,61,Monthly_499,2024-06-15,,,0,6,,Post-Update
+1393,736,Quarterly_1299,2024-02-22,,,0,2,,Pre-Update
+1394,1489,Annual_3999,2024-02-21,,,0,2,,Pre-Update
+1395,966,Quarterly_1299,2024-01-24,2024-02-18,Found Better App,1,1,25.0,Pre-Update
+1396,1170,Quarterly_1299,2024-04-14,,,0,4,,Post-Update
+1397,2626,Monthly_499,2024-06-26,,,0,6,,Post-Update
+1398,1958,Quarterly_1299,2024-05-15,,,0,5,,Post-Update
+1399,2808,Quarterly_1299,2024-05-09,,,0,5,,Post-Update
+1400,434,Quarterly_1299,2024-04-28,2024-07-06,Found Better App,1,4,69.0,Post-Update
+1401,1348,Annual_3999,2024-03-21,2024-05-26,Hard to Cancel,1,3,66.0,Post-Update
+1402,1621,Annual_3999,2024-05-06,2024-07-22,Hard to Cancel,1,5,77.0,Post-Update
+1403,442,Monthly_499,2024-05-11,,,0,5,,Post-Update
+1404,830,Monthly_499,2024-01-14,,,0,1,,Pre-Update
+1405,2788,Quarterly_1299,2024-01-19,2024-02-22,Not Using App,1,1,34.0,Pre-Update
+1406,1259,Monthly_499,2024-01-16,,,0,1,,Pre-Update
+1407,1803,Quarterly_1299,2024-01-23,,,0,1,,Pre-Update
+1408,231,Monthly_499,2024-02-18,,,0,2,,Pre-Update
+1409,1956,Monthly_499,2024-06-02,,,0,6,,Post-Update
+1410,990,Quarterly_1299,2024-01-29,2024-03-03,Found Better App,1,1,34.0,Pre-Update
+1411,1496,Quarterly_1299,2024-06-02,2024-08-24,Found Better App,1,6,83.0,Post-Update
+1412,1778,Monthly_499,2024-03-05,,,0,3,,Pre-Update
+1413,2637,Monthly_499,2024-03-21,,,0,3,,Post-Update
+1414,1248,Monthly_499,2024-01-29,2024-03-12,Not Using App,1,1,43.0,Pre-Update
+1415,692,Monthly_499,2024-04-28,,,0,4,,Post-Update
+1416,2202,Quarterly_1299,2024-01-02,2024-01-18,Hard to Cancel,1,1,16.0,Pre-Update
+1417,408,Quarterly_1299,2024-03-22,,,0,3,,Post-Update
+1418,2029,Monthly_499,2024-06-06,,,0,6,,Post-Update
+1419,2851,Monthly_499,2024-05-26,,,0,5,,Post-Update
+1420,366,Monthly_499,2024-06-27,,,0,6,,Post-Update
+1421,2478,Monthly_499,2024-03-13,2024-04-22,Not Using App,1,3,40.0,Pre-Update
+1422,1712,Monthly_499,2024-04-23,2024-07-09,Too Expensive,1,4,77.0,Post-Update
+1423,937,Monthly_499,2024-06-02,2024-06-20,Hard to Cancel,1,6,18.0,Post-Update
+1424,330,Monthly_499,2024-01-19,,,0,1,,Pre-Update
+1425,1535,Monthly_499,2024-05-10,2024-07-01,Hard to Cancel,1,5,52.0,Post-Update
+1426,1802,Quarterly_1299,2024-02-21,2024-03-16,Too Expensive,1,2,24.0,Pre-Update
+1427,2852,Monthly_499,2024-06-04,2024-08-06,Too Expensive,1,6,63.0,Post-Update
+1428,2173,Quarterly_1299,2024-06-28,,,0,6,,Post-Update
+1429,924,Quarterly_1299,2024-05-15,,,0,5,,Post-Update
+1430,2916,Monthly_499,2024-02-03,,,0,2,,Pre-Update
+1431,1283,Monthly_499,2024-04-30,2024-07-17,Not Using App,1,4,78.0,Post-Update
+1432,2976,Monthly_499,2024-05-27,2024-06-17,Hard to Cancel,1,5,21.0,Post-Update
+1433,2204,Quarterly_1299,2024-03-08,2024-03-28,Found Better App,1,3,20.0,Pre-Update
+1434,1201,Monthly_499,2024-01-24,,,0,1,,Pre-Update
+1435,2761,Monthly_499,2024-01-08,2024-01-30,Not Using App,1,1,22.0,Pre-Update
+1436,232,Monthly_499,2024-06-02,,,0,6,,Post-Update
+1437,1301,Monthly_499,2024-05-05,,,0,5,,Post-Update
+1438,1285,Monthly_499,2024-05-19,,,0,5,,Post-Update
+1439,2400,Monthly_499,2024-04-02,2024-06-05,Not Using App,1,4,64.0,Post-Update
+1440,1470,Monthly_499,2024-03-02,2024-05-15,Not Using App,1,3,74.0,Pre-Update
+1441,1046,Monthly_499,2024-03-27,2024-05-20,Not Using App,1,3,54.0,Post-Update
+1442,1438,Monthly_499,2024-06-11,2024-08-27,Hard to Cancel,1,6,77.0,Post-Update
+1443,1422,Monthly_499,2024-01-31,,,0,1,,Pre-Update
+1444,1609,Monthly_499,2024-01-04,,,0,1,,Pre-Update
+1445,1522,Monthly_499,2024-03-04,2024-04-29,Found Better App,1,3,56.0,Pre-Update
+1446,570,Monthly_499,2024-04-14,,,0,4,,Post-Update
+1447,1261,Monthly_499,2024-03-25,2024-06-04,Found Better App,1,3,71.0,Post-Update
+1448,2815,Annual_3999,2024-01-25,,,0,1,,Pre-Update
+1449,564,Quarterly_1299,2024-01-10,2024-02-27,Too Expensive,1,1,48.0,Pre-Update
+1450,2463,Monthly_499,2024-05-16,2024-07-01,Hard to Cancel,1,5,46.0,Post-Update
+1451,2927,Monthly_499,2024-03-24,2024-05-27,Not Using App,1,3,64.0,Post-Update
+1452,1575,Quarterly_1299,2024-03-26,2024-04-20,Hard to Cancel,1,3,25.0,Post-Update
+1453,1892,Monthly_499,2024-05-29,,,0,5,,Post-Update
+1454,2104,Monthly_499,2024-03-26,,,0,3,,Post-Update
+1455,1288,Annual_3999,2024-04-25,,,0,4,,Post-Update
+1456,1350,Monthly_499,2024-03-02,,,0,3,,Pre-Update
+1457,1560,Quarterly_1299,2024-03-25,,,0,3,,Post-Update
+1458,2537,Monthly_499,2024-06-19,2024-09-09,Hard to Cancel,1,6,82.0,Post-Update
+1459,1650,Monthly_499,2024-06-27,2024-08-20,Hard to Cancel,1,6,54.0,Post-Update
+1460,2897,Monthly_499,2024-06-02,2024-08-06,Hard to Cancel,1,6,65.0,Post-Update
+1461,629,Quarterly_1299,2024-06-06,,,0,6,,Post-Update
+1462,1920,Quarterly_1299,2024-03-01,,,0,3,,Pre-Update
+1463,1515,Quarterly_1299,2024-02-18,,,0,2,,Pre-Update
+1464,845,Annual_3999,2024-03-02,2024-05-08,Found Better App,1,3,67.0,Pre-Update
+1465,2613,Monthly_499,2024-06-20,,,0,6,,Post-Update
+1466,1365,Monthly_499,2024-06-27,,,0,6,,Post-Update
+1467,1349,Monthly_499,2024-05-20,2024-06-25,Hard to Cancel,1,5,36.0,Post-Update
+1468,1268,Monthly_499,2024-04-29,2024-06-27,Too Expensive,1,4,59.0,Post-Update
+1469,1887,Monthly_499,2024-01-09,,,0,1,,Pre-Update
+1470,2700,Annual_3999,2024-05-13,2024-07-15,Hard to Cancel,1,5,63.0,Post-Update
+1471,2325,Quarterly_1299,2024-03-15,2024-05-27,Not Using App,1,3,73.0,Post-Update
+1472,1409,Quarterly_1299,2024-01-09,,,0,1,,Pre-Update
+1473,1089,Monthly_499,2024-06-15,,,0,6,,Post-Update
+1474,1367,Monthly_499,2024-06-08,,,0,6,,Post-Update
+1475,2617,Monthly_499,2024-04-08,,,0,4,,Post-Update
+1476,668,Monthly_499,2024-03-10,2024-05-16,Too Expensive,1,3,67.0,Pre-Update
+1477,1353,Monthly_499,2024-02-21,,,0,2,,Pre-Update
+1478,1319,Quarterly_1299,2024-04-17,2024-05-15,Found Better App,1,4,28.0,Post-Update
+1479,1938,Monthly_499,2024-04-22,2024-06-12,Too Expensive,1,4,51.0,Post-Update
+1480,741,Monthly_499,2024-04-10,,,0,4,,Post-Update
+1481,1354,Monthly_499,2024-05-10,2024-07-21,Too Expensive,1,5,72.0,Post-Update
+1482,1648,Monthly_499,2024-01-02,,,0,1,,Pre-Update
+1483,2252,Quarterly_1299,2024-05-19,,,0,5,,Post-Update
+1484,2744,Quarterly_1299,2024-02-27,2024-05-17,Not Using App,1,2,80.0,Pre-Update
+1485,243,Quarterly_1299,2024-05-19,,,0,5,,Post-Update
+1486,167,Monthly_499,2024-06-17,,,0,6,,Post-Update
+1487,1552,Monthly_499,2024-05-28,2024-08-12,Hard to Cancel,1,5,76.0,Post-Update
+1488,2334,Monthly_499,2024-01-24,2024-02-13,Found Better App,1,1,20.0,Pre-Update
+1489,1483,Monthly_499,2024-04-09,,,0,4,,Post-Update
+1490,1305,Annual_3999,2024-02-15,,,0,2,,Pre-Update
+1491,277,Monthly_499,2024-03-31,,,0,3,,Post-Update
+1492,1330,Monthly_499,2024-03-03,,,0,3,,Pre-Update
+1493,1446,Quarterly_1299,2024-04-20,2024-05-26,Found Better App,1,4,36.0,Post-Update
+1494,2247,Monthly_499,2024-06-11,,,0,6,,Post-Update
+1495,330,Quarterly_1299,2024-05-29,,,0,5,,Post-Update
+1496,2940,Monthly_499,2024-03-30,2024-04-26,Too Expensive,1,3,27.0,Post-Update
+1497,1433,Monthly_499,2024-03-31,,,0,3,,Post-Update
+1498,2973,Monthly_499,2024-03-20,,,0,3,,Post-Update
+1499,368,Monthly_499,2024-03-05,2024-05-19,Hard to Cancel,1,3,75.0,Pre-Update
+1500,2323,Monthly_499,2024-05-13,,,0,5,,Post-Update
+1501,2357,Quarterly_1299,2024-02-09,,,0,2,,Pre-Update
+1502,2297,Annual_3999,2024-06-04,2024-08-26,Hard to Cancel,1,6,83.0,Post-Update
+1503,1531,Monthly_499,2024-02-05,,,0,2,,Pre-Update
+1504,2391,Monthly_499,2024-01-21,2024-02-01,Not Using App,1,1,11.0,Pre-Update
+1505,2719,Monthly_499,2024-05-15,,,0,5,,Post-Update
+1506,557,Monthly_499,2024-03-10,,,0,3,,Pre-Update
+1507,852,Monthly_499,2024-03-11,,,0,3,,Pre-Update
+1508,989,Monthly_499,2024-05-01,,,0,5,,Post-Update
+1509,36,Annual_3999,2024-04-16,,,0,4,,Post-Update
+1510,960,Quarterly_1299,2024-01-29,,,0,1,,Pre-Update
+1511,2305,Monthly_499,2024-06-11,2024-08-03,Hard to Cancel,1,6,53.0,Post-Update
+1512,1806,Monthly_499,2024-06-08,2024-08-16,Not Using App,1,6,69.0,Post-Update
+1513,2415,Quarterly_1299,2024-04-19,2024-06-04,Hard to Cancel,1,4,46.0,Post-Update
+1514,107,Quarterly_1299,2024-05-14,,,0,5,,Post-Update
+1515,895,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+1516,1213,Monthly_499,2024-05-04,2024-06-23,Hard to Cancel,1,5,50.0,Post-Update
+1517,2086,Quarterly_1299,2024-01-27,,,0,1,,Pre-Update
+1518,2337,Monthly_499,2024-05-04,2024-07-16,Not Using App,1,5,73.0,Post-Update
+1519,760,Quarterly_1299,2024-01-15,2024-02-04,Not Using App,1,1,20.0,Pre-Update
+1520,1792,Monthly_499,2024-02-04,2024-04-26,Not Using App,1,2,82.0,Pre-Update
+1521,2138,Monthly_499,2024-03-31,2024-05-12,Hard to Cancel,1,3,42.0,Post-Update
+1522,1670,Annual_3999,2024-02-26,2024-05-13,Not Using App,1,2,77.0,Pre-Update
+1523,2978,Monthly_499,2024-06-03,,,0,6,,Post-Update
+1524,1821,Annual_3999,2024-03-03,2024-05-15,Too Expensive,1,3,73.0,Pre-Update
+1525,2394,Monthly_499,2024-05-05,2024-05-20,Too Expensive,1,5,15.0,Post-Update
+1526,2120,Quarterly_1299,2024-05-22,,,0,5,,Post-Update
+1527,2897,Monthly_499,2024-05-24,2024-08-20,Not Using App,1,5,88.0,Post-Update
+1528,2719,Monthly_499,2024-02-09,2024-04-14,Found Better App,1,2,65.0,Pre-Update
+1529,2592,Monthly_499,2024-03-06,,,0,3,,Pre-Update
+1530,448,Annual_3999,2024-06-09,2024-06-30,Hard to Cancel,1,6,21.0,Post-Update
+1531,2809,Monthly_499,2024-03-24,2024-04-25,Found Better App,1,3,32.0,Post-Update
+1532,2173,Monthly_499,2024-06-08,,,0,6,,Post-Update
+1533,190,Monthly_499,2024-04-26,2024-07-24,Hard to Cancel,1,4,89.0,Post-Update
+1534,1673,Quarterly_1299,2024-06-06,,,0,6,,Post-Update
+1535,2673,Quarterly_1299,2024-01-18,,,0,1,,Pre-Update
+1536,1321,Monthly_499,2024-06-06,,,0,6,,Post-Update
+1537,2320,Monthly_499,2024-01-24,,,0,1,,Pre-Update
+1538,1507,Monthly_499,2024-04-18,,,0,4,,Post-Update
+1539,2009,Monthly_499,2024-03-26,2024-06-18,Hard to Cancel,1,3,84.0,Post-Update
+1540,1175,Monthly_499,2024-04-27,2024-06-24,Found Better App,1,4,58.0,Post-Update
+1541,2995,Monthly_499,2024-01-18,2024-03-11,Hard to Cancel,1,1,53.0,Pre-Update
+1542,2711,Monthly_499,2024-02-03,2024-03-01,Too Expensive,1,2,27.0,Pre-Update
+1543,2959,Quarterly_1299,2024-06-21,2024-08-26,Not Using App,1,6,66.0,Post-Update
+1544,2834,Quarterly_1299,2024-02-23,2024-04-22,Too Expensive,1,2,59.0,Pre-Update
+1545,63,Quarterly_1299,2024-04-14,,,0,4,,Post-Update
+1546,1479,Annual_3999,2024-02-21,,,0,2,,Pre-Update
+1547,1095,Monthly_499,2024-02-27,2024-03-28,Not Using App,1,2,30.0,Pre-Update
+1548,1177,Monthly_499,2024-01-11,2024-03-24,Not Using App,1,1,73.0,Pre-Update
+1549,233,Monthly_499,2024-02-24,2024-04-28,Found Better App,1,2,64.0,Pre-Update
+1550,1189,Monthly_499,2024-02-27,2024-03-08,Found Better App,1,2,10.0,Pre-Update
+1551,1625,Monthly_499,2024-06-24,2024-08-09,Too Expensive,1,6,46.0,Post-Update
+1552,2142,Monthly_499,2024-05-08,,,0,5,,Post-Update
+1553,977,Monthly_499,2024-06-11,,,0,6,,Post-Update
+1554,2529,Monthly_499,2024-04-15,2024-06-22,Hard to Cancel,1,4,68.0,Post-Update
+1555,1538,Monthly_499,2024-01-24,2024-03-24,Not Using App,1,1,60.0,Pre-Update
+1556,2599,Quarterly_1299,2024-05-03,,,0,5,,Post-Update
+1557,1648,Monthly_499,2024-05-18,2024-06-15,Hard to Cancel,1,5,28.0,Post-Update
+1558,2384,Monthly_499,2024-03-29,,,0,3,,Post-Update
+1559,2952,Monthly_499,2024-03-17,,,0,3,,Post-Update
+1560,186,Quarterly_1299,2024-05-23,,,0,5,,Post-Update
+1561,1440,Annual_3999,2024-05-04,,,0,5,,Post-Update
+1562,1858,Quarterly_1299,2024-02-29,,,0,2,,Pre-Update
+1563,1563,Quarterly_1299,2024-04-29,,,0,4,,Post-Update
+1564,1483,Quarterly_1299,2024-02-11,,,0,2,,Pre-Update
+1565,900,Quarterly_1299,2024-04-02,,,0,4,,Post-Update
+1566,2489,Quarterly_1299,2024-06-05,2024-07-04,Too Expensive,1,6,29.0,Post-Update
+1567,309,Quarterly_1299,2024-05-28,,,0,5,,Post-Update
+1568,1065,Monthly_499,2024-01-21,2024-02-28,Too Expensive,1,1,38.0,Pre-Update
+1569,863,Monthly_499,2024-04-22,2024-07-10,Hard to Cancel,1,4,79.0,Post-Update
+1570,1412,Monthly_499,2024-01-18,2024-02-21,Too Expensive,1,1,34.0,Pre-Update
+1571,590,Annual_3999,2024-02-24,,,0,2,,Pre-Update
+1572,2512,Monthly_499,2024-01-03,,,0,1,,Pre-Update
+1573,542,Monthly_499,2024-04-14,2024-05-04,Too Expensive,1,4,20.0,Post-Update
+1574,1135,Annual_3999,2024-02-09,2024-05-03,Hard to Cancel,1,2,84.0,Pre-Update
+1575,2816,Monthly_499,2024-02-17,,,0,2,,Pre-Update
+1576,2378,Quarterly_1299,2024-01-03,2024-03-17,Found Better App,1,1,74.0,Pre-Update
+1577,338,Annual_3999,2024-06-03,2024-07-18,Hard to Cancel,1,6,45.0,Post-Update
+1578,264,Quarterly_1299,2024-02-05,,,0,2,,Pre-Update
+1579,2197,Monthly_499,2024-05-13,2024-08-09,Hard to Cancel,1,5,88.0,Post-Update
+1580,552,Quarterly_1299,2024-05-31,,,0,5,,Post-Update
+1581,784,Monthly_499,2024-03-16,2024-05-15,Hard to Cancel,1,3,60.0,Post-Update
+1582,384,Quarterly_1299,2024-01-06,,,0,1,,Pre-Update
+1583,1022,Quarterly_1299,2024-04-05,,,0,4,,Post-Update
+1584,1478,Annual_3999,2024-01-13,2024-02-14,Found Better App,1,1,32.0,Pre-Update
+1585,1623,Quarterly_1299,2024-01-12,2024-02-07,Too Expensive,1,1,26.0,Pre-Update
+1586,1899,Monthly_499,2024-03-17,,,0,3,,Post-Update
+1587,1166,Monthly_499,2024-04-04,,,0,4,,Post-Update
+1588,63,Monthly_499,2024-01-16,,,0,1,,Pre-Update
+1589,1938,Monthly_499,2024-04-17,2024-06-29,Not Using App,1,4,73.0,Post-Update
+1590,2169,Quarterly_1299,2024-01-29,,,0,1,,Pre-Update
+1591,1032,Annual_3999,2024-05-22,2024-06-28,Hard to Cancel,1,5,37.0,Post-Update
+1592,492,Monthly_499,2024-05-08,2024-07-28,Not Using App,1,5,81.0,Post-Update
+1593,697,Monthly_499,2024-05-28,,,0,5,,Post-Update
+1594,2601,Quarterly_1299,2024-03-24,2024-05-10,Hard to Cancel,1,3,47.0,Post-Update
+1595,1935,Monthly_499,2024-02-04,,,0,2,,Pre-Update
+1596,1727,Quarterly_1299,2024-02-23,,,0,2,,Pre-Update
+1597,576,Quarterly_1299,2024-02-21,2024-03-19,Hard to Cancel,1,2,27.0,Pre-Update
+1598,1552,Annual_3999,2024-03-29,2024-05-11,Hard to Cancel,1,3,43.0,Post-Update
+1599,2455,Quarterly_1299,2024-01-10,,,0,1,,Pre-Update
+1600,2700,Annual_3999,2024-06-14,2024-07-23,Hard to Cancel,1,6,39.0,Post-Update
+1601,901,Monthly_499,2024-02-14,,,0,2,,Pre-Update
+1602,2191,Quarterly_1299,2024-05-25,2024-06-17,Too Expensive,1,5,23.0,Post-Update
+1603,2122,Annual_3999,2024-04-20,,,0,4,,Post-Update
+1604,1271,Quarterly_1299,2024-04-14,2024-04-26,Hard to Cancel,1,4,12.0,Post-Update
+1605,137,Monthly_499,2024-01-25,,,0,1,,Pre-Update
+1606,294,Annual_3999,2024-03-19,2024-06-04,Found Better App,1,3,77.0,Post-Update
+1607,325,Monthly_499,2024-05-17,2024-07-31,Found Better App,1,5,75.0,Post-Update
+1608,1133,Quarterly_1299,2024-06-27,2024-07-08,Not Using App,1,6,11.0,Post-Update
+1609,373,Monthly_499,2024-01-20,,,0,1,,Pre-Update
+1610,2697,Quarterly_1299,2024-01-13,2024-02-10,Hard to Cancel,1,1,28.0,Pre-Update
+1611,1896,Annual_3999,2024-06-22,2024-07-14,Hard to Cancel,1,6,22.0,Post-Update
+1612,2887,Annual_3999,2024-04-10,,,0,4,,Post-Update
+1613,728,Monthly_499,2024-06-05,2024-07-02,Found Better App,1,6,27.0,Post-Update
+1614,2123,Monthly_499,2024-06-16,,,0,6,,Post-Update
+1615,120,Monthly_499,2024-01-16,2024-02-21,Found Better App,1,1,36.0,Pre-Update
+1616,2130,Monthly_499,2024-05-09,2024-06-04,Not Using App,1,5,26.0,Post-Update
+1617,2818,Annual_3999,2024-04-10,2024-06-01,Hard to Cancel,1,4,52.0,Post-Update
+1618,1418,Monthly_499,2024-01-24,,,0,1,,Pre-Update
+1619,1146,Monthly_499,2024-03-20,,,0,3,,Post-Update
+1620,2108,Quarterly_1299,2024-04-15,2024-07-12,Hard to Cancel,1,4,88.0,Post-Update
+1621,1476,Monthly_499,2024-02-04,,,0,2,,Pre-Update
+1622,1347,Monthly_499,2024-06-17,,,0,6,,Post-Update
+1623,221,Monthly_499,2024-06-20,,,0,6,,Post-Update
+1624,2753,Annual_3999,2024-04-05,,,0,4,,Post-Update
+1625,2175,Quarterly_1299,2024-06-26,,,0,6,,Post-Update
+1626,887,Monthly_499,2024-03-11,2024-05-09,Not Using App,1,3,59.0,Pre-Update
+1627,641,Monthly_499,2024-02-09,,,0,2,,Pre-Update
+1628,2138,Monthly_499,2024-05-09,2024-05-27,Hard to Cancel,1,5,18.0,Post-Update
+1629,46,Monthly_499,2024-02-19,,,0,2,,Pre-Update
+1630,2582,Monthly_499,2024-01-04,2024-03-28,Too Expensive,1,1,84.0,Pre-Update
+1631,32,Annual_3999,2024-04-14,,,0,4,,Post-Update
+1632,1049,Annual_3999,2024-06-26,2024-07-13,Hard to Cancel,1,6,17.0,Post-Update
+1633,2973,Monthly_499,2024-04-18,2024-06-15,Hard to Cancel,1,4,58.0,Post-Update
+1634,1029,Monthly_499,2024-04-20,2024-05-28,Found Better App,1,4,38.0,Post-Update
+1635,1882,Quarterly_1299,2024-02-26,,,0,2,,Pre-Update
+1636,771,Quarterly_1299,2024-06-13,2024-07-19,Hard to Cancel,1,6,36.0,Post-Update
+1637,1261,Annual_3999,2024-02-14,2024-04-14,Found Better App,1,2,60.0,Pre-Update
+1638,946,Monthly_499,2024-01-09,2024-03-10,Too Expensive,1,1,61.0,Pre-Update
+1639,1626,Monthly_499,2024-05-30,2024-07-15,Too Expensive,1,5,46.0,Post-Update
+1640,2130,Monthly_499,2024-05-08,,,0,5,,Post-Update
+1641,1203,Annual_3999,2024-02-10,,,0,2,,Pre-Update
+1642,2856,Quarterly_1299,2024-06-16,2024-06-28,Found Better App,1,6,12.0,Post-Update
+1643,2027,Monthly_499,2024-04-03,2024-05-22,Not Using App,1,4,49.0,Post-Update
+1644,1261,Monthly_499,2024-05-16,2024-08-12,Found Better App,1,5,88.0,Post-Update
+1645,2950,Annual_3999,2024-06-23,2024-08-19,Too Expensive,1,6,57.0,Post-Update
+1646,1193,Monthly_499,2024-01-17,,,0,1,,Pre-Update
+1647,711,Monthly_499,2024-02-03,,,0,2,,Pre-Update
+1648,234,Monthly_499,2024-05-14,2024-07-04,Found Better App,1,5,51.0,Post-Update
+1649,1183,Annual_3999,2024-01-02,2024-03-24,Not Using App,1,1,82.0,Pre-Update
+1650,1069,Quarterly_1299,2024-06-19,,,0,6,,Post-Update
+1651,2979,Monthly_499,2024-05-27,,,0,5,,Post-Update
+1652,2012,Annual_3999,2024-03-13,,,0,3,,Pre-Update
+1653,1843,Quarterly_1299,2024-06-18,2024-07-22,Hard to Cancel,1,6,34.0,Post-Update
+1654,1151,Monthly_499,2024-04-05,,,0,4,,Post-Update
+1655,24,Quarterly_1299,2024-03-02,2024-05-02,Too Expensive,1,3,61.0,Pre-Update
+1656,818,Monthly_499,2024-04-24,,,0,4,,Post-Update
+1657,737,Monthly_499,2024-04-26,,,0,4,,Post-Update
+1658,351,Quarterly_1299,2024-01-06,,,0,1,,Pre-Update
+1659,571,Monthly_499,2024-02-04,,,0,2,,Pre-Update
+1660,2200,Monthly_499,2024-04-04,,,0,4,,Post-Update
+1661,183,Monthly_499,2024-06-19,,,0,6,,Post-Update
+1662,1565,Monthly_499,2024-01-26,2024-04-21,Found Better App,1,1,86.0,Pre-Update
+1663,2402,Quarterly_1299,2024-02-08,,,0,2,,Pre-Update
+1664,950,Monthly_499,2024-04-19,,,0,4,,Post-Update
+1665,1987,Annual_3999,2024-04-13,,,0,4,,Post-Update
+1666,1443,Monthly_499,2024-04-10,2024-05-09,Hard to Cancel,1,4,29.0,Post-Update
+1667,1779,Monthly_499,2024-05-17,,,0,5,,Post-Update
+1668,885,Monthly_499,2024-05-31,2024-06-23,Not Using App,1,5,23.0,Post-Update
+1669,1324,Annual_3999,2024-05-31,,,0,5,,Post-Update
+1670,1565,Monthly_499,2024-01-24,2024-02-09,Too Expensive,1,1,16.0,Pre-Update
+1671,2066,Monthly_499,2024-06-09,2024-08-07,Too Expensive,1,6,59.0,Post-Update
+1672,1243,Monthly_499,2024-01-22,2024-02-02,Found Better App,1,1,11.0,Pre-Update
+1673,804,Annual_3999,2024-05-12,2024-05-28,Found Better App,1,5,16.0,Post-Update
+1674,1872,Monthly_499,2024-02-07,2024-04-15,Found Better App,1,2,68.0,Pre-Update
+1675,733,Monthly_499,2024-04-12,,,0,4,,Post-Update
+1676,1537,Annual_3999,2024-02-22,,,0,2,,Pre-Update
+1677,2560,Annual_3999,2024-01-19,2024-02-13,Not Using App,1,1,25.0,Pre-Update
+1678,731,Annual_3999,2024-06-15,,,0,6,,Post-Update
+1679,842,Monthly_499,2024-05-01,,,0,5,,Post-Update
+1680,1491,Quarterly_1299,2024-04-25,,,0,4,,Post-Update
+1681,2191,Quarterly_1299,2024-06-23,2024-07-20,Hard to Cancel,1,6,27.0,Post-Update
+1682,1708,Quarterly_1299,2024-04-02,,,0,4,,Post-Update
+1683,2990,Monthly_499,2024-06-04,,,0,6,,Post-Update
+1684,2130,Quarterly_1299,2024-05-22,,,0,5,,Post-Update
+1685,2200,Quarterly_1299,2024-05-23,,,0,5,,Post-Update
+1686,2964,Annual_3999,2024-04-12,,,0,4,,Post-Update
+1687,1254,Monthly_499,2024-02-23,2024-03-25,Found Better App,1,2,31.0,Pre-Update
+1688,771,Monthly_499,2024-06-01,,,0,6,,Post-Update
+1689,2640,Quarterly_1299,2024-03-30,,,0,3,,Post-Update
+1690,2877,Quarterly_1299,2024-05-09,2024-07-04,Found Better App,1,5,56.0,Post-Update
+1691,2698,Quarterly_1299,2024-05-06,,,0,5,,Post-Update
+1692,364,Monthly_499,2024-06-10,,,0,6,,Post-Update
+1693,2236,Monthly_499,2024-02-25,,,0,2,,Pre-Update
+1694,2142,Annual_3999,2024-01-05,,,0,1,,Pre-Update
+1695,1512,Quarterly_1299,2024-05-28,2024-08-21,Hard to Cancel,1,5,85.0,Post-Update
+1696,1313,Quarterly_1299,2024-01-06,2024-01-23,Hard to Cancel,1,1,17.0,Pre-Update
+1697,613,Monthly_499,2024-05-11,,,0,5,,Post-Update
+1698,2168,Monthly_499,2024-05-11,2024-06-14,Hard to Cancel,1,5,34.0,Post-Update
+1699,2121,Quarterly_1299,2024-01-28,,,0,1,,Pre-Update
+1700,2641,Annual_3999,2024-01-21,2024-03-21,Too Expensive,1,1,60.0,Pre-Update
+1701,2072,Monthly_499,2024-03-31,,,0,3,,Post-Update
+1702,179,Monthly_499,2024-02-20,2024-04-06,Not Using App,1,2,46.0,Pre-Update
+1703,2485,Quarterly_1299,2024-02-09,,,0,2,,Pre-Update
+1704,167,Quarterly_1299,2024-01-28,,,0,1,,Pre-Update
+1705,2967,Monthly_499,2024-02-17,,,0,2,,Pre-Update
+1706,2165,Monthly_499,2024-05-15,,,0,5,,Post-Update
+1707,1159,Monthly_499,2024-01-13,,,0,1,,Pre-Update
+1708,197,Monthly_499,2024-01-28,,,0,1,,Pre-Update
+1709,453,Quarterly_1299,2024-04-27,,,0,4,,Post-Update
+1710,1430,Monthly_499,2024-03-30,2024-04-30,Hard to Cancel,1,3,31.0,Post-Update
+1711,2178,Monthly_499,2024-05-10,,,0,5,,Post-Update
+1712,1959,Monthly_499,2024-02-23,,,0,2,,Pre-Update
+1713,247,Quarterly_1299,2024-02-09,,,0,2,,Pre-Update
+1714,801,Monthly_499,2024-04-29,,,0,4,,Post-Update
+1715,2749,Annual_3999,2024-01-27,2024-03-22,Too Expensive,1,1,55.0,Pre-Update
+1716,2521,Annual_3999,2024-02-20,,,0,2,,Pre-Update
+1717,1,Monthly_499,2024-03-19,,,0,3,,Post-Update
+1718,2903,Annual_3999,2024-03-08,,,0,3,,Pre-Update
+1719,2443,Quarterly_1299,2024-05-29,,,0,5,,Post-Update
+1720,2703,Quarterly_1299,2024-04-02,,,0,4,,Post-Update
+1721,11,Monthly_499,2024-06-09,,,0,6,,Post-Update
+1722,758,Annual_3999,2024-05-11,2024-06-18,Hard to Cancel,1,5,38.0,Post-Update
+1723,2434,Monthly_499,2024-04-07,,,0,4,,Post-Update
+1724,1199,Monthly_499,2024-01-21,,,0,1,,Pre-Update
+1725,1020,Monthly_499,2024-02-13,2024-03-12,Not Using App,1,2,28.0,Pre-Update
+1726,2850,Annual_3999,2024-04-09,,,0,4,,Post-Update
+1727,2134,Monthly_499,2024-06-10,2024-06-21,Hard to Cancel,1,6,11.0,Post-Update
+1728,735,Monthly_499,2024-01-10,2024-03-14,Hard to Cancel,1,1,64.0,Pre-Update
+1729,859,Monthly_499,2024-02-11,,,0,2,,Pre-Update
+1730,176,Monthly_499,2024-06-16,2024-08-30,Not Using App,1,6,75.0,Post-Update
+1731,1972,Monthly_499,2024-05-27,2024-08-12,Hard to Cancel,1,5,77.0,Post-Update
+1732,863,Quarterly_1299,2024-06-18,2024-07-09,Not Using App,1,6,21.0,Post-Update
+1733,902,Monthly_499,2024-02-17,2024-05-13,Hard to Cancel,1,2,86.0,Pre-Update
+1734,1917,Monthly_499,2024-06-08,,,0,6,,Post-Update
+1735,1398,Monthly_499,2024-06-25,2024-07-11,Found Better App,1,6,16.0,Post-Update
+1736,373,Quarterly_1299,2024-01-01,2024-01-13,Not Using App,1,1,12.0,Pre-Update
+1737,2433,Monthly_499,2024-02-26,,,0,2,,Pre-Update
+1738,980,Annual_3999,2024-03-11,,,0,3,,Pre-Update
+1739,933,Monthly_499,2024-04-25,,,0,4,,Post-Update
+1740,471,Quarterly_1299,2024-04-22,2024-06-21,Hard to Cancel,1,4,60.0,Post-Update
+1741,1159,Quarterly_1299,2024-01-28,,,0,1,,Pre-Update
+1742,274,Monthly_499,2024-05-07,2024-05-19,Too Expensive,1,5,12.0,Post-Update
+1743,656,Annual_3999,2024-01-21,2024-02-25,Found Better App,1,1,35.0,Pre-Update
+1744,2583,Monthly_499,2024-03-15,2024-05-06,Hard to Cancel,1,3,52.0,Post-Update
+1745,1820,Quarterly_1299,2024-06-15,2024-08-04,Hard to Cancel,1,6,50.0,Post-Update
+1746,1681,Monthly_499,2024-05-15,2024-06-23,Too Expensive,1,5,39.0,Post-Update
+1747,1302,Annual_3999,2024-04-25,,,0,4,,Post-Update
+1748,2226,Monthly_499,2024-02-21,2024-03-23,Found Better App,1,2,31.0,Pre-Update
+1749,376,Monthly_499,2024-02-20,,,0,2,,Pre-Update
+1750,333,Annual_3999,2024-06-05,,,0,6,,Post-Update
+1751,2487,Quarterly_1299,2024-01-12,,,0,1,,Pre-Update
+1752,930,Monthly_499,2024-05-01,2024-05-19,Hard to Cancel,1,5,18.0,Post-Update
+1753,558,Quarterly_1299,2024-01-07,,,0,1,,Pre-Update
+1754,335,Monthly_499,2024-04-13,,,0,4,,Post-Update
+1755,411,Quarterly_1299,2024-06-01,,,0,6,,Post-Update
+1756,2707,Annual_3999,2024-01-25,,,0,1,,Pre-Update
+1757,1058,Annual_3999,2024-03-13,,,0,3,,Pre-Update
+1758,2485,Monthly_499,2024-04-07,,,0,4,,Post-Update
+1759,1692,Quarterly_1299,2024-03-31,,,0,3,,Post-Update
+1760,855,Monthly_499,2024-05-24,2024-06-04,Hard to Cancel,1,5,11.0,Post-Update
+1761,78,Monthly_499,2024-03-29,2024-06-19,Hard to Cancel,1,3,82.0,Post-Update
+1762,2547,Annual_3999,2024-02-24,,,0,2,,Pre-Update
+1763,2237,Monthly_499,2024-06-18,,,0,6,,Post-Update
+1764,2878,Monthly_499,2024-03-13,2024-05-11,Found Better App,1,3,59.0,Pre-Update
+1765,1806,Annual_3999,2024-03-03,,,0,3,,Pre-Update
+1766,2555,Annual_3999,2024-05-08,,,0,5,,Post-Update
+1767,886,Quarterly_1299,2024-06-12,,,0,6,,Post-Update
+1768,705,Quarterly_1299,2024-06-13,2024-08-14,Found Better App,1,6,62.0,Post-Update
+1769,2971,Annual_3999,2024-06-25,,,0,6,,Post-Update
+1770,1061,Monthly_499,2024-06-15,,,0,6,,Post-Update
+1771,149,Monthly_499,2024-03-22,2024-05-02,Too Expensive,1,3,41.0,Post-Update
+1772,1919,Monthly_499,2024-03-31,2024-05-16,Found Better App,1,3,46.0,Post-Update
+1773,853,Monthly_499,2024-04-25,,,0,4,,Post-Update
+1774,2171,Quarterly_1299,2024-03-11,,,0,3,,Pre-Update
+1775,351,Monthly_499,2024-04-05,,,0,4,,Post-Update
+1776,1582,Monthly_499,2024-06-28,,,0,6,,Post-Update
+1777,937,Monthly_499,2024-06-12,2024-07-18,Found Better App,1,6,36.0,Post-Update
+1778,2837,Monthly_499,2024-05-19,,,0,5,,Post-Update
+1779,2404,Monthly_499,2024-05-05,2024-06-03,Hard to Cancel,1,5,29.0,Post-Update
+1780,2867,Annual_3999,2024-05-18,2024-07-09,Hard to Cancel,1,5,52.0,Post-Update
+1781,1382,Annual_3999,2024-05-02,,,0,5,,Post-Update
+1782,2014,Quarterly_1299,2024-04-13,,,0,4,,Post-Update
+1783,2873,Quarterly_1299,2024-02-23,2024-03-06,Not Using App,1,2,12.0,Pre-Update
+1784,2987,Quarterly_1299,2024-01-24,,,0,1,,Pre-Update
+1785,2615,Monthly_499,2024-03-16,2024-04-20,Hard to Cancel,1,3,35.0,Post-Update
+1786,2470,Quarterly_1299,2024-04-25,,,0,4,,Post-Update
+1787,869,Monthly_499,2024-03-09,,,0,3,,Pre-Update
+1788,1939,Monthly_499,2024-03-16,,,0,3,,Post-Update
+1789,579,Monthly_499,2024-03-06,2024-05-16,Not Using App,1,3,71.0,Pre-Update
+1790,1316,Monthly_499,2024-04-09,,,0,4,,Post-Update
+1791,780,Monthly_499,2024-05-18,,,0,5,,Post-Update
+1792,1697,Monthly_499,2024-01-01,,,0,1,,Pre-Update
+1793,2868,Monthly_499,2024-01-06,2024-01-18,Found Better App,1,1,12.0,Pre-Update
+1794,2687,Quarterly_1299,2024-03-29,2024-04-16,Not Using App,1,3,18.0,Post-Update
+1795,984,Monthly_499,2024-03-22,,,0,3,,Post-Update
+1796,61,Monthly_499,2024-02-09,2024-03-22,Not Using App,1,2,42.0,Pre-Update
+1797,1390,Monthly_499,2024-05-07,2024-06-14,Hard to Cancel,1,5,38.0,Post-Update
+1798,1451,Monthly_499,2024-01-18,,,0,1,,Pre-Update
+1799,140,Quarterly_1299,2024-05-18,2024-08-01,Too Expensive,1,5,75.0,Post-Update
+1800,1195,Monthly_499,2024-02-18,,,0,2,,Pre-Update

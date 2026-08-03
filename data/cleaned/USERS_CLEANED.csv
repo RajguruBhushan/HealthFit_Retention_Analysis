@@ -1,0 +1,3001 @@
+user_id,signup_date,device_type,acquisition_channel,city_tier,age_group,signup_month,signup_period
+1,2024-04-14,Android,Organic,Tier-3,45+,4,Post-Update
+2,2024-03-01,Web,Organic,Tier-2,35-44,3,Pre-Update
+3,2024-02-07,iOS,YouTube,Tier-1,45+,2,Pre-Update
+4,2024-04-03,Android,YouTube,Tier-1,18-24,4,Post-Update
+5,2024-05-05,Android,Instagram,Tier-1,35-44,5,Post-Update
+6,2024-01-27,Android,Google Ads,Tier-1,25-34,1,Pre-Update
+7,2024-02-07,iOS,Google Ads,Tier-2,35-44,2,Pre-Update
+8,2024-04-09,Android,YouTube,Tier-3,25-34,4,Post-Update
+9,2024-01-09,Android,Google Ads,Tier-2,45+,1,Pre-Update
+10,2024-06-17,iOS,Google Ads,Tier-1,18-24,6,Post-Update
+11,2024-06-16,Android,YouTube,Tier-2,25-34,6,Post-Update
+12,2024-04-04,iOS,Organic,Tier-3,18-24,4,Post-Update
+13,2024-06-18,iOS,Organic,Tier-1,25-34,6,Post-Update
+14,2024-05-01,iOS,Instagram,Tier-2,25-34,5,Post-Update
+15,2024-03-21,Android,Organic,Tier-1,35-44,3,Post-Update
+16,2024-02-02,Android,YouTube,Tier-3,25-34,2,Pre-Update
+17,2024-05-31,iOS,Instagram,Tier-1,25-34,5,Post-Update
+18,2024-01-13,Android,Instagram,Tier-2,35-44,1,Pre-Update
+19,2024-03-16,iOS,YouTube,Tier-1,25-34,3,Post-Update
+20,2024-05-27,Android,YouTube,Tier-3,25-34,5,Post-Update
+21,2024-04-30,Android,Organic,Tier-1,18-24,4,Post-Update
+22,2024-03-22,iOS,Google Ads,Tier-2,45+,3,Post-Update
+23,2024-06-01,iOS,Organic,Tier-1,25-34,6,Post-Update
+24,2024-05-26,Web,Google Ads,Tier-1,18-24,5,Post-Update
+25,2024-05-02,Web,Instagram,Tier-3,35-44,5,Post-Update
+26,2024-05-24,Android,Google Ads,Tier-2,18-24,5,Post-Update
+27,2024-03-13,iOS,Organic,Tier-2,35-44,3,Pre-Update
+28,2024-03-06,iOS,Google Ads,Tier-3,18-24,3,Pre-Update
+29,2024-03-01,Android,Google Ads,Tier-2,18-24,3,Pre-Update
+30,2024-04-25,Android,Instagram,Tier-1,18-24,4,Post-Update
+31,2024-05-08,Web,Instagram,Tier-3,18-24,5,Post-Update
+32,2024-06-11,iOS,YouTube,Tier-3,25-34,6,Post-Update
+33,2024-05-18,Android,Organic,Tier-2,18-24,5,Post-Update
+34,2024-06-08,Android,YouTube,Tier-1,18-24,6,Post-Update
+35,2024-04-18,Web,Organic,Tier-3,18-24,4,Post-Update
+36,2024-03-13,iOS,YouTube,Tier-2,18-24,3,Pre-Update
+37,2024-03-20,Web,Instagram,Tier-2,25-34,3,Post-Update
+38,2024-03-09,iOS,Google Ads,Tier-1,18-24,3,Pre-Update
+39,2024-01-15,Android,YouTube,Tier-3,45+,1,Pre-Update
+40,2024-01-14,Web,Instagram,Tier-1,18-24,1,Pre-Update
+41,2024-04-03,Web,Instagram,Tier-3,45+,4,Post-Update
+42,2024-02-23,Android,Instagram,Tier-2,35-44,2,Pre-Update
+43,2024-02-07,iOS,YouTube,Tier-1,18-24,2,Pre-Update
+44,2024-05-25,Android,YouTube,Tier-1,35-44,5,Post-Update
+45,2024-02-12,Web,YouTube,Tier-1,18-24,2,Pre-Update
+46,2024-03-31,Web,Google Ads,Tier-2,18-24,3,Post-Update
+47,2024-05-23,Web,Google Ads,Tier-1,25-34,5,Post-Update
+48,2024-03-28,iOS,Google Ads,Tier-3,25-34,3,Post-Update
+49,2024-06-07,Android,Instagram,Tier-2,18-24,6,Post-Update
+50,2024-05-06,Android,Instagram,Tier-1,18-24,5,Post-Update
+51,2024-03-10,Web,Google Ads,Tier-1,45+,3,Pre-Update
+52,2024-06-18,iOS,Organic,Tier-1,18-24,6,Post-Update
+53,2024-04-13,iOS,Instagram,Tier-2,18-24,4,Post-Update
+54,2024-02-19,Web,Google Ads,Tier-1,25-34,2,Pre-Update
+55,2024-01-01,Android,Google Ads,Tier-2,45+,1,Pre-Update
+56,2024-06-18,Android,YouTube,Tier-3,35-44,6,Post-Update
+57,2024-04-09,Android,Google Ads,Tier-1,35-44,4,Post-Update
+58,2024-04-08,Web,Google Ads,Tier-2,45+,4,Post-Update
+59,2024-05-10,Web,YouTube,Tier-1,18-24,5,Post-Update
+60,2024-05-12,iOS,Instagram,Tier-2,45+,5,Post-Update
+61,2024-02-13,Web,Instagram,Tier-3,35-44,2,Pre-Update
+62,2024-02-25,Android,YouTube,Tier-3,25-34,2,Pre-Update
+63,2024-02-04,Android,YouTube,Tier-3,25-34,2,Pre-Update
+64,2024-05-11,iOS,Google Ads,Tier-2,25-34,5,Post-Update
+65,2024-02-01,Android,YouTube,Tier-2,18-24,2,Pre-Update
+66,2024-02-05,Web,YouTube,Tier-1,25-34,2,Pre-Update
+67,2024-03-05,Web,Google Ads,Tier-2,35-44,3,Pre-Update
+68,2024-04-19,Web,Instagram,Tier-2,45+,4,Post-Update
+69,2024-05-09,Android,Google Ads,Tier-3,45+,5,Post-Update
+70,2024-06-15,iOS,Google Ads,Tier-1,25-34,6,Post-Update
+71,2024-05-29,Web,Google Ads,Tier-2,18-24,5,Post-Update
+72,2024-03-28,Android,Google Ads,Tier-3,25-34,3,Post-Update
+73,2024-05-12,Android,YouTube,Tier-2,45+,5,Post-Update
+74,2024-05-19,Web,Instagram,Tier-2,18-24,5,Post-Update
+75,2024-01-30,Android,Instagram,Tier-1,18-24,1,Pre-Update
+76,2024-06-26,Android,Instagram,Tier-2,25-34,6,Post-Update
+77,2024-04-16,Android,Instagram,Tier-2,18-24,4,Post-Update
+78,2024-06-24,Android,Google Ads,Tier-2,45+,6,Post-Update
+79,2024-03-05,Android,YouTube,Tier-2,45+,3,Pre-Update
+80,2024-02-02,Web,Instagram,Tier-1,35-44,2,Pre-Update
+81,2024-02-13,Web,Instagram,Tier-3,18-24,2,Pre-Update
+82,2024-02-16,Web,Google Ads,Tier-1,18-24,2,Pre-Update
+83,2024-06-16,Android,YouTube,Tier-2,18-24,6,Post-Update
+84,2024-06-29,iOS,Google Ads,Tier-1,45+,6,Post-Update
+85,2024-03-02,Android,Instagram,Tier-1,18-24,3,Pre-Update
+86,2024-02-11,Android,YouTube,Tier-3,18-24,2,Pre-Update
+87,2024-02-23,Android,Google Ads,Tier-3,18-24,2,Pre-Update
+88,2024-02-13,iOS,Instagram,Tier-2,35-44,2,Pre-Update
+89,2024-04-17,Android,YouTube,Tier-1,18-24,4,Post-Update
+90,2024-06-12,Android,Instagram,Tier-3,25-34,6,Post-Update
+91,2024-01-23,Android,YouTube,Tier-2,35-44,1,Pre-Update
+92,2024-06-07,Android,YouTube,Tier-2,25-34,6,Post-Update
+93,2024-05-01,Android,Google Ads,Tier-2,25-34,5,Post-Update
+94,2024-02-16,iOS,Organic,Tier-3,18-24,2,Pre-Update
+95,2024-01-31,Android,Google Ads,Tier-2,45+,1,Pre-Update
+96,2024-03-16,Web,Instagram,Tier-1,18-24,3,Post-Update
+97,2024-02-16,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+98,2024-02-02,Android,Organic,Tier-2,25-34,2,Pre-Update
+99,2024-02-22,iOS,Instagram,Tier-1,35-44,2,Pre-Update
+100,2024-03-30,iOS,Instagram,Tier-3,45+,3,Post-Update
+101,2024-02-23,iOS,YouTube,Tier-3,25-34,2,Pre-Update
+102,2024-03-19,Android,Organic,Tier-1,35-44,3,Post-Update
+103,2024-01-02,Android,Google Ads,Tier-2,18-24,1,Pre-Update
+104,2024-04-06,Android,Instagram,Tier-3,18-24,4,Post-Update
+105,2024-04-06,Android,Instagram,Tier-1,25-34,4,Post-Update
+106,2024-04-05,iOS,Instagram,Tier-2,45+,4,Post-Update
+107,2024-03-06,Web,Instagram,Tier-1,45+,3,Pre-Update
+108,2024-02-29,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+109,2024-05-13,Android,YouTube,Tier-1,25-34,5,Post-Update
+110,2024-02-11,iOS,Organic,Tier-1,18-24,2,Pre-Update
+111,2024-03-12,Android,Organic,Tier-2,25-34,3,Pre-Update
+112,2024-04-11,Android,Google Ads,Tier-1,45+,4,Post-Update
+113,2024-03-15,Android,Instagram,Tier-1,35-44,3,Post-Update
+114,2024-01-14,Android,Organic,Tier-1,45+,1,Pre-Update
+115,2024-05-07,Web,Organic,Tier-3,35-44,5,Post-Update
+116,2024-04-22,iOS,Instagram,Tier-3,35-44,4,Post-Update
+117,2024-04-22,Web,Organic,Tier-2,25-34,4,Post-Update
+118,2024-06-10,iOS,Organic,Tier-1,25-34,6,Post-Update
+119,2024-05-31,iOS,Instagram,Tier-3,25-34,5,Post-Update
+120,2024-04-30,iOS,Instagram,Tier-2,18-24,4,Post-Update
+121,2024-03-12,Android,YouTube,Tier-3,45+,3,Pre-Update
+122,2024-06-20,Android,YouTube,Tier-3,35-44,6,Post-Update
+123,2024-05-24,Web,Instagram,Tier-1,18-24,5,Post-Update
+124,2024-03-28,Android,YouTube,Tier-2,35-44,3,Post-Update
+125,2024-05-29,Android,Organic,Tier-1,18-24,5,Post-Update
+126,2024-01-18,iOS,YouTube,Tier-3,18-24,1,Pre-Update
+127,2024-06-14,iOS,Google Ads,Tier-1,18-24,6,Post-Update
+128,2024-02-23,Web,Organic,Tier-1,25-34,2,Pre-Update
+129,2024-06-07,Web,Instagram,Tier-1,18-24,6,Post-Update
+130,2024-04-05,Android,Google Ads,Tier-2,35-44,4,Post-Update
+131,2024-03-05,Android,YouTube,Tier-3,35-44,3,Pre-Update
+132,2024-04-07,iOS,Instagram,Tier-3,25-34,4,Post-Update
+133,2024-04-21,Android,Organic,Tier-3,35-44,4,Post-Update
+134,2024-04-08,Web,YouTube,Tier-1,18-24,4,Post-Update
+135,2024-01-26,Web,Organic,Tier-3,25-34,1,Pre-Update
+136,2024-05-27,Web,YouTube,Tier-3,18-24,5,Post-Update
+137,2024-04-18,iOS,YouTube,Tier-3,35-44,4,Post-Update
+138,2024-06-23,Android,Instagram,Tier-2,25-34,6,Post-Update
+139,2024-04-03,Android,Google Ads,Tier-3,25-34,4,Post-Update
+140,2024-03-31,Android,Google Ads,Tier-1,45+,3,Post-Update
+141,2024-03-24,Web,Google Ads,Tier-1,45+,3,Post-Update
+142,2024-06-11,iOS,Organic,Tier-3,45+,6,Post-Update
+143,2024-05-20,Android,YouTube,Tier-2,25-34,5,Post-Update
+144,2024-03-01,Web,YouTube,Tier-3,45+,3,Pre-Update
+145,2024-05-02,Web,Instagram,Tier-2,18-24,5,Post-Update
+146,2024-01-02,iOS,YouTube,Tier-3,18-24,1,Pre-Update
+147,2024-06-29,iOS,Instagram,Tier-2,25-34,6,Post-Update
+148,2024-05-05,Web,Instagram,Tier-1,35-44,5,Post-Update
+149,2024-04-30,Android,Google Ads,Tier-1,45+,4,Post-Update
+150,2024-02-05,Web,Instagram,Tier-1,35-44,2,Pre-Update
+151,2024-05-04,Web,Google Ads,Tier-1,25-34,5,Post-Update
+152,2024-05-24,Web,Google Ads,Tier-3,35-44,5,Post-Update
+153,2024-04-30,iOS,Instagram,Tier-3,18-24,4,Post-Update
+154,2024-06-02,iOS,YouTube,Tier-3,18-24,6,Post-Update
+155,2024-02-24,iOS,Organic,Tier-1,45+,2,Pre-Update
+156,2024-01-13,Web,Google Ads,Tier-2,18-24,1,Pre-Update
+157,2024-02-12,Android,Google Ads,Tier-3,35-44,2,Pre-Update
+158,2024-05-17,Android,Google Ads,Tier-2,18-24,5,Post-Update
+159,2024-01-07,iOS,Google Ads,Tier-2,25-34,1,Pre-Update
+160,2024-02-21,iOS,YouTube,Tier-2,45+,2,Pre-Update
+161,2024-02-19,Web,Instagram,Tier-3,35-44,2,Pre-Update
+162,2024-02-10,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+163,2024-01-19,Web,Google Ads,Tier-2,45+,1,Pre-Update
+164,2024-03-11,Web,YouTube,Tier-3,35-44,3,Pre-Update
+165,2024-06-10,Android,Google Ads,Tier-3,35-44,6,Post-Update
+166,2024-05-30,Android,YouTube,Tier-1,18-24,5,Post-Update
+167,2024-06-26,iOS,YouTube,Tier-3,18-24,6,Post-Update
+168,2024-05-23,Android,Instagram,Tier-2,45+,5,Post-Update
+169,2024-01-08,iOS,Google Ads,Tier-3,45+,1,Pre-Update
+170,2024-01-20,iOS,Google Ads,Tier-1,35-44,1,Pre-Update
+171,2024-02-12,iOS,Instagram,Tier-1,35-44,2,Pre-Update
+172,2024-01-01,Android,Organic,Tier-3,18-24,1,Pre-Update
+173,2024-04-17,Android,YouTube,Tier-2,35-44,4,Post-Update
+174,2024-02-22,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+175,2024-01-12,iOS,Organic,Tier-1,35-44,1,Pre-Update
+176,2024-02-15,Android,Google Ads,Tier-1,45+,2,Pre-Update
+177,2024-06-10,iOS,Organic,Tier-3,35-44,6,Post-Update
+178,2024-04-06,iOS,YouTube,Tier-2,45+,4,Post-Update
+179,2024-05-08,iOS,Instagram,Tier-3,35-44,5,Post-Update
+180,2024-03-27,iOS,YouTube,Tier-1,18-24,3,Post-Update
+181,2024-03-05,Android,Google Ads,Tier-3,25-34,3,Pre-Update
+182,2024-01-23,Web,Organic,Tier-2,45+,1,Pre-Update
+183,2024-05-08,Web,Instagram,Tier-3,25-34,5,Post-Update
+184,2024-04-11,Web,YouTube,Tier-1,45+,4,Post-Update
+185,2024-02-24,Android,Organic,Tier-3,18-24,2,Pre-Update
+186,2024-04-17,Android,YouTube,Tier-2,25-34,4,Post-Update
+187,2024-03-01,Web,Instagram,Tier-1,45+,3,Pre-Update
+188,2024-03-21,Android,Google Ads,Tier-1,45+,3,Post-Update
+189,2024-04-28,iOS,Instagram,Tier-1,18-24,4,Post-Update
+190,2024-05-23,Android,Organic,Tier-2,25-34,5,Post-Update
+191,2024-03-20,Web,Google Ads,Tier-2,18-24,3,Post-Update
+192,2024-01-11,Web,Google Ads,Tier-1,18-24,1,Pre-Update
+193,2024-04-17,Android,Google Ads,Tier-1,45+,4,Post-Update
+194,2024-03-24,Android,YouTube,Tier-2,25-34,3,Post-Update
+195,2024-01-16,Android,Instagram,Tier-3,25-34,1,Pre-Update
+196,2024-01-12,Android,YouTube,Tier-2,25-34,1,Pre-Update
+197,2024-05-18,Android,Organic,Tier-3,45+,5,Post-Update
+198,2024-02-28,Web,Google Ads,Tier-2,25-34,2,Pre-Update
+199,2024-03-29,iOS,Organic,Tier-3,45+,3,Post-Update
+200,2024-05-31,iOS,Organic,Tier-1,35-44,5,Post-Update
+201,2024-05-10,Android,Instagram,Tier-1,35-44,5,Post-Update
+202,2024-01-11,Web,Instagram,Tier-2,45+,1,Pre-Update
+203,2024-05-21,iOS,Google Ads,Tier-1,25-34,5,Post-Update
+204,2024-04-01,Android,YouTube,Tier-2,35-44,4,Post-Update
+205,2024-06-24,Android,YouTube,Tier-2,35-44,6,Post-Update
+206,2024-02-20,Android,YouTube,Tier-2,18-24,2,Pre-Update
+207,2024-05-31,Android,Instagram,Tier-3,35-44,5,Post-Update
+208,2024-01-23,Android,Organic,Tier-3,35-44,1,Pre-Update
+209,2024-06-11,Android,Organic,Tier-1,18-24,6,Post-Update
+210,2024-01-22,Web,Organic,Tier-3,25-34,1,Pre-Update
+211,2024-05-12,Web,YouTube,Tier-2,35-44,5,Post-Update
+212,2024-03-29,iOS,Google Ads,Tier-3,35-44,3,Post-Update
+213,2024-06-17,Android,YouTube,Tier-3,25-34,6,Post-Update
+214,2024-03-29,Android,Instagram,Tier-3,18-24,3,Post-Update
+215,2024-06-07,iOS,YouTube,Tier-2,45+,6,Post-Update
+216,2024-06-22,Web,Google Ads,Tier-2,25-34,6,Post-Update
+217,2024-04-07,Android,Instagram,Tier-2,25-34,4,Post-Update
+218,2024-03-16,Android,YouTube,Tier-2,35-44,3,Post-Update
+219,2024-05-11,Web,YouTube,Tier-2,18-24,5,Post-Update
+220,2024-06-28,Web,Organic,Tier-2,18-24,6,Post-Update
+221,2024-02-22,Web,Google Ads,Tier-3,45+,2,Pre-Update
+222,2024-03-08,Web,Organic,Tier-2,18-24,3,Pre-Update
+223,2024-04-04,iOS,Instagram,Tier-3,45+,4,Post-Update
+224,2024-05-19,iOS,Instagram,Tier-3,18-24,5,Post-Update
+225,2024-02-12,iOS,Organic,Tier-1,18-24,2,Pre-Update
+226,2024-05-14,iOS,Organic,Tier-2,18-24,5,Post-Update
+227,2024-03-28,Android,Instagram,Tier-1,25-34,3,Post-Update
+228,2024-04-04,Android,Google Ads,Tier-2,18-24,4,Post-Update
+229,2024-02-27,Android,YouTube,Tier-2,35-44,2,Pre-Update
+230,2024-02-13,iOS,Google Ads,Tier-3,45+,2,Pre-Update
+231,2024-03-29,Android,Instagram,Tier-1,45+,3,Post-Update
+232,2024-04-28,iOS,Organic,Tier-1,18-24,4,Post-Update
+233,2024-06-18,iOS,Instagram,Tier-2,25-34,6,Post-Update
+234,2024-02-13,Android,Instagram,Tier-3,45+,2,Pre-Update
+235,2024-06-04,Android,Organic,Tier-3,18-24,6,Post-Update
+236,2024-03-03,Android,Google Ads,Tier-3,35-44,3,Pre-Update
+237,2024-02-20,iOS,YouTube,Tier-1,18-24,2,Pre-Update
+238,2024-04-05,Android,Instagram,Tier-1,18-24,4,Post-Update
+239,2024-01-14,iOS,YouTube,Tier-3,25-34,1,Pre-Update
+240,2024-02-25,Web,Google Ads,Tier-2,25-34,2,Pre-Update
+241,2024-05-21,iOS,Instagram,Tier-2,25-34,5,Post-Update
+242,2024-05-08,iOS,Organic,Tier-3,35-44,5,Post-Update
+243,2024-06-04,Android,Organic,Tier-1,25-34,6,Post-Update
+244,2024-05-30,iOS,Instagram,Tier-3,18-24,5,Post-Update
+245,2024-04-24,iOS,Google Ads,Tier-1,25-34,4,Post-Update
+246,2024-02-09,Web,Google Ads,Tier-2,18-24,2,Pre-Update
+247,2024-05-11,iOS,Instagram,Tier-2,45+,5,Post-Update
+248,2024-06-11,Web,Google Ads,Tier-2,18-24,6,Post-Update
+249,2024-04-15,Web,Organic,Tier-3,45+,4,Post-Update
+250,2024-06-24,Android,YouTube,Tier-1,25-34,6,Post-Update
+251,2024-04-24,Android,Organic,Tier-1,18-24,4,Post-Update
+252,2024-01-05,iOS,Instagram,Tier-3,25-34,1,Pre-Update
+253,2024-05-01,Android,Instagram,Tier-2,25-34,5,Post-Update
+254,2024-03-22,iOS,Google Ads,Tier-2,25-34,3,Post-Update
+255,2024-01-25,iOS,Google Ads,Tier-1,35-44,1,Pre-Update
+256,2024-03-08,iOS,Google Ads,Tier-3,18-24,3,Pre-Update
+257,2024-06-29,Android,Google Ads,Tier-3,18-24,6,Post-Update
+258,2024-05-12,Android,Instagram,Tier-2,18-24,5,Post-Update
+259,2024-05-01,Web,Instagram,Tier-3,18-24,5,Post-Update
+260,2024-03-20,iOS,YouTube,Tier-2,35-44,3,Post-Update
+261,2024-05-21,Android,Google Ads,Tier-1,18-24,5,Post-Update
+262,2024-05-16,Web,Instagram,Tier-3,18-24,5,Post-Update
+263,2024-03-29,Android,Organic,Tier-1,35-44,3,Post-Update
+264,2024-03-07,Android,Google Ads,Tier-1,18-24,3,Pre-Update
+265,2024-01-31,Web,Google Ads,Tier-3,25-34,1,Pre-Update
+266,2024-01-12,iOS,Instagram,Tier-3,18-24,1,Pre-Update
+267,2024-03-17,Web,Google Ads,Tier-2,25-34,3,Post-Update
+268,2024-04-09,iOS,Google Ads,Tier-3,25-34,4,Post-Update
+269,2024-01-25,Android,Organic,Tier-3,35-44,1,Pre-Update
+270,2024-06-07,Android,Google Ads,Tier-2,45+,6,Post-Update
+271,2024-03-29,Web,Google Ads,Tier-3,18-24,3,Post-Update
+272,2024-04-09,Android,Google Ads,Tier-2,25-34,4,Post-Update
+273,2024-01-13,Android,Organic,Tier-3,18-24,1,Pre-Update
+274,2024-02-22,Web,Instagram,Tier-2,35-44,2,Pre-Update
+275,2024-05-23,Android,Organic,Tier-3,18-24,5,Post-Update
+276,2024-05-02,Android,YouTube,Tier-2,18-24,5,Post-Update
+277,2024-01-08,iOS,YouTube,Tier-2,18-24,1,Pre-Update
+278,2024-05-04,Web,Organic,Tier-3,35-44,5,Post-Update
+279,2024-06-12,iOS,Instagram,Tier-1,25-34,6,Post-Update
+280,2024-04-16,Web,Organic,Tier-3,25-34,4,Post-Update
+281,2024-04-11,iOS,Instagram,Tier-1,18-24,4,Post-Update
+282,2024-01-22,iOS,Organic,Tier-1,25-34,1,Pre-Update
+283,2024-02-29,Web,Google Ads,Tier-3,25-34,2,Pre-Update
+284,2024-01-04,Android,YouTube,Tier-1,18-24,1,Pre-Update
+285,2024-05-25,Web,YouTube,Tier-3,35-44,5,Post-Update
+286,2024-06-14,Android,Instagram,Tier-1,25-34,6,Post-Update
+287,2024-01-25,Web,YouTube,Tier-3,25-34,1,Pre-Update
+288,2024-02-28,Android,Instagram,Tier-2,18-24,2,Pre-Update
+289,2024-01-28,iOS,Instagram,Tier-1,45+,1,Pre-Update
+290,2024-01-08,Web,YouTube,Tier-1,18-24,1,Pre-Update
+291,2024-02-16,Web,Instagram,Tier-3,35-44,2,Pre-Update
+292,2024-06-04,Android,Instagram,Tier-2,25-34,6,Post-Update
+293,2024-03-05,iOS,Google Ads,Tier-2,18-24,3,Pre-Update
+294,2024-06-07,Android,Google Ads,Tier-2,35-44,6,Post-Update
+295,2024-02-13,Android,YouTube,Tier-2,25-34,2,Pre-Update
+296,2024-02-27,Android,Instagram,Tier-1,25-34,2,Pre-Update
+297,2024-01-16,Android,Google Ads,Tier-1,18-24,1,Pre-Update
+298,2024-03-08,Android,Instagram,Tier-2,35-44,3,Pre-Update
+299,2024-04-13,iOS,YouTube,Tier-2,35-44,4,Post-Update
+300,2024-01-24,iOS,YouTube,Tier-2,35-44,1,Pre-Update
+301,2024-05-20,Web,Organic,Tier-3,45+,5,Post-Update
+302,2024-03-08,Web,YouTube,Tier-1,18-24,3,Pre-Update
+303,2024-03-18,Web,Instagram,Tier-2,35-44,3,Post-Update
+304,2024-05-25,Android,Instagram,Tier-3,45+,5,Post-Update
+305,2024-04-05,iOS,YouTube,Tier-1,45+,4,Post-Update
+306,2024-05-06,Android,YouTube,Tier-1,25-34,5,Post-Update
+307,2024-03-25,Android,Instagram,Tier-1,25-34,3,Post-Update
+308,2024-02-04,iOS,Google Ads,Tier-2,35-44,2,Pre-Update
+309,2024-03-12,Web,Google Ads,Tier-2,45+,3,Pre-Update
+310,2024-04-26,Android,Organic,Tier-2,35-44,4,Post-Update
+311,2024-01-11,Android,YouTube,Tier-2,18-24,1,Pre-Update
+312,2024-04-09,iOS,Google Ads,Tier-3,45+,4,Post-Update
+313,2024-06-20,Web,Google Ads,Tier-2,25-34,6,Post-Update
+314,2024-05-20,iOS,Organic,Tier-2,18-24,5,Post-Update
+315,2024-02-05,Android,Instagram,Tier-3,18-24,2,Pre-Update
+316,2024-03-15,Android,YouTube,Tier-2,18-24,3,Post-Update
+317,2024-02-06,iOS,YouTube,Tier-2,45+,2,Pre-Update
+318,2024-01-24,iOS,Google Ads,Tier-1,25-34,1,Pre-Update
+319,2024-03-31,Web,YouTube,Tier-3,18-24,3,Post-Update
+320,2024-03-02,Android,Instagram,Tier-1,18-24,3,Pre-Update
+321,2024-05-27,Android,Google Ads,Tier-1,25-34,5,Post-Update
+322,2024-03-17,Android,YouTube,Tier-2,35-44,3,Post-Update
+323,2024-06-20,Android,Organic,Tier-2,25-34,6,Post-Update
+324,2024-04-14,Android,YouTube,Tier-2,35-44,4,Post-Update
+325,2024-05-06,Android,YouTube,Tier-2,45+,5,Post-Update
+326,2024-05-29,Web,Google Ads,Tier-1,35-44,5,Post-Update
+327,2024-06-28,Android,Instagram,Tier-1,18-24,6,Post-Update
+328,2024-03-10,Android,Organic,Tier-3,25-34,3,Pre-Update
+329,2024-03-03,iOS,YouTube,Tier-3,18-24,3,Pre-Update
+330,2024-01-03,iOS,YouTube,Tier-1,25-34,1,Pre-Update
+331,2024-05-07,iOS,Instagram,Tier-3,25-34,5,Post-Update
+332,2024-03-29,Android,Organic,Tier-3,25-34,3,Post-Update
+333,2024-04-29,Android,YouTube,Tier-1,25-34,4,Post-Update
+334,2024-05-12,iOS,Instagram,Tier-3,18-24,5,Post-Update
+335,2024-05-07,Web,Instagram,Tier-3,45+,5,Post-Update
+336,2024-01-13,Android,Google Ads,Tier-3,35-44,1,Pre-Update
+337,2024-05-29,Web,Instagram,Tier-1,18-24,5,Post-Update
+338,2024-06-04,Web,Google Ads,Tier-2,35-44,6,Post-Update
+339,2024-02-18,Web,Organic,Tier-1,18-24,2,Pre-Update
+340,2024-01-31,Web,Organic,Tier-2,45+,1,Pre-Update
+341,2024-01-14,Web,Google Ads,Tier-2,25-34,1,Pre-Update
+342,2024-02-04,iOS,YouTube,Tier-2,18-24,2,Pre-Update
+343,2024-03-27,Android,YouTube,Tier-1,25-34,3,Post-Update
+344,2024-03-05,iOS,Google Ads,Tier-2,18-24,3,Pre-Update
+345,2024-01-04,Android,Google Ads,Tier-3,18-24,1,Pre-Update
+346,2024-05-19,iOS,Google Ads,Tier-1,35-44,5,Post-Update
+347,2024-01-29,iOS,Organic,Tier-2,18-24,1,Pre-Update
+348,2024-06-19,Android,Organic,Tier-2,35-44,6,Post-Update
+349,2024-05-03,Web,Organic,Tier-2,45+,5,Post-Update
+350,2024-04-16,Web,Google Ads,Tier-2,18-24,4,Post-Update
+351,2024-02-24,iOS,Instagram,Tier-3,45+,2,Pre-Update
+352,2024-01-16,Android,YouTube,Tier-2,25-34,1,Pre-Update
+353,2024-02-05,Android,Organic,Tier-1,25-34,2,Pre-Update
+354,2024-06-07,Android,Instagram,Tier-2,45+,6,Post-Update
+355,2024-06-17,iOS,YouTube,Tier-1,18-24,6,Post-Update
+356,2024-06-13,Web,Google Ads,Tier-1,45+,6,Post-Update
+357,2024-05-17,Web,Instagram,Tier-2,35-44,5,Post-Update
+358,2024-01-09,Web,Organic,Tier-3,18-24,1,Pre-Update
+359,2024-05-12,iOS,Google Ads,Tier-3,18-24,5,Post-Update
+360,2024-05-24,Android,YouTube,Tier-3,25-34,5,Post-Update
+361,2024-05-02,Web,Instagram,Tier-3,35-44,5,Post-Update
+362,2024-03-19,Android,Google Ads,Tier-1,25-34,3,Post-Update
+363,2024-01-01,iOS,Organic,Tier-1,45+,1,Pre-Update
+364,2024-05-21,Android,YouTube,Tier-3,35-44,5,Post-Update
+365,2024-01-22,Android,Organic,Tier-3,45+,1,Pre-Update
+366,2024-02-27,Web,Google Ads,Tier-2,25-34,2,Pre-Update
+367,2024-02-02,Web,Organic,Tier-3,25-34,2,Pre-Update
+368,2024-04-24,Web,Organic,Tier-2,35-44,4,Post-Update
+369,2024-01-25,Web,Google Ads,Tier-3,25-34,1,Pre-Update
+370,2024-03-17,iOS,YouTube,Tier-1,25-34,3,Post-Update
+371,2024-03-05,iOS,Organic,Tier-1,25-34,3,Pre-Update
+372,2024-05-06,Android,Instagram,Tier-2,35-44,5,Post-Update
+373,2024-06-25,iOS,Google Ads,Tier-1,35-44,6,Post-Update
+374,2024-02-26,iOS,Instagram,Tier-1,18-24,2,Pre-Update
+375,2024-05-04,iOS,Instagram,Tier-3,45+,5,Post-Update
+376,2024-05-04,iOS,YouTube,Tier-1,25-34,5,Post-Update
+377,2024-02-28,Android,Instagram,Tier-2,18-24,2,Pre-Update
+378,2024-06-07,Web,Instagram,Tier-2,35-44,6,Post-Update
+379,2024-02-17,Android,Organic,Tier-1,25-34,2,Pre-Update
+380,2024-06-18,iOS,Google Ads,Tier-1,18-24,6,Post-Update
+381,2024-03-04,Web,Google Ads,Tier-3,45+,3,Pre-Update
+382,2024-05-13,Android,Google Ads,Tier-3,35-44,5,Post-Update
+383,2024-06-10,iOS,YouTube,Tier-2,45+,6,Post-Update
+384,2024-03-27,iOS,Instagram,Tier-1,18-24,3,Post-Update
+385,2024-03-21,Android,YouTube,Tier-3,25-34,3,Post-Update
+386,2024-04-20,Web,Google Ads,Tier-3,25-34,4,Post-Update
+387,2024-02-06,Android,Google Ads,Tier-3,45+,2,Pre-Update
+388,2024-06-28,Android,Instagram,Tier-1,25-34,6,Post-Update
+389,2024-04-03,Web,Google Ads,Tier-2,18-24,4,Post-Update
+390,2024-01-26,iOS,Google Ads,Tier-2,25-34,1,Pre-Update
+391,2024-04-28,Android,Google Ads,Tier-3,18-24,4,Post-Update
+392,2024-01-25,iOS,Instagram,Tier-3,18-24,1,Pre-Update
+393,2024-03-16,Android,Google Ads,Tier-1,25-34,3,Post-Update
+394,2024-03-18,iOS,Google Ads,Tier-2,45+,3,Post-Update
+395,2024-06-26,Android,Google Ads,Tier-3,25-34,6,Post-Update
+396,2024-02-10,iOS,Instagram,Tier-1,25-34,2,Pre-Update
+397,2024-06-24,iOS,Instagram,Tier-1,18-24,6,Post-Update
+398,2024-05-21,Android,Organic,Tier-1,45+,5,Post-Update
+399,2024-01-31,Android,Organic,Tier-3,45+,1,Pre-Update
+400,2024-06-29,Android,Google Ads,Tier-3,18-24,6,Post-Update
+401,2024-04-13,Web,Google Ads,Tier-1,18-24,4,Post-Update
+402,2024-05-12,iOS,Google Ads,Tier-2,45+,5,Post-Update
+403,2024-01-11,iOS,YouTube,Tier-2,18-24,1,Pre-Update
+404,2024-03-12,iOS,Google Ads,Tier-2,45+,3,Pre-Update
+405,2024-06-19,Android,Organic,Tier-2,35-44,6,Post-Update
+406,2024-01-14,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+407,2024-02-10,Android,Instagram,Tier-3,25-34,2,Pre-Update
+408,2024-03-18,Web,Instagram,Tier-1,45+,3,Post-Update
+409,2024-05-17,iOS,Google Ads,Tier-2,25-34,5,Post-Update
+410,2024-01-02,Android,Instagram,Tier-2,25-34,1,Pre-Update
+411,2024-05-27,iOS,Google Ads,Tier-2,25-34,5,Post-Update
+412,2024-06-24,iOS,Instagram,Tier-1,35-44,6,Post-Update
+413,2024-04-23,Web,Instagram,Tier-3,18-24,4,Post-Update
+414,2024-02-02,Android,YouTube,Tier-2,18-24,2,Pre-Update
+415,2024-06-16,Android,YouTube,Tier-3,18-24,6,Post-Update
+416,2024-02-10,Web,Google Ads,Tier-2,45+,2,Pre-Update
+417,2024-01-15,iOS,YouTube,Tier-1,25-34,1,Pre-Update
+418,2024-05-16,Web,Instagram,Tier-2,25-34,5,Post-Update
+419,2024-02-02,Android,YouTube,Tier-1,35-44,2,Pre-Update
+420,2024-05-06,Android,YouTube,Tier-2,25-34,5,Post-Update
+421,2024-03-22,iOS,Instagram,Tier-3,35-44,3,Post-Update
+422,2024-04-30,Android,YouTube,Tier-2,35-44,4,Post-Update
+423,2024-05-15,Android,YouTube,Tier-2,25-34,5,Post-Update
+424,2024-01-30,iOS,Instagram,Tier-3,18-24,1,Pre-Update
+425,2024-06-12,Android,YouTube,Tier-3,35-44,6,Post-Update
+426,2024-01-01,Android,Google Ads,Tier-3,45+,1,Pre-Update
+427,2024-04-04,Android,Instagram,Tier-3,45+,4,Post-Update
+428,2024-03-23,Android,YouTube,Tier-2,35-44,3,Post-Update
+429,2024-06-25,Android,YouTube,Tier-2,35-44,6,Post-Update
+430,2024-04-30,Web,Organic,Tier-3,45+,4,Post-Update
+431,2024-03-19,Web,Organic,Tier-1,18-24,3,Post-Update
+432,2024-06-25,iOS,Instagram,Tier-1,45+,6,Post-Update
+433,2024-03-14,Android,YouTube,Tier-2,18-24,3,Pre-Update
+434,2024-03-17,iOS,Google Ads,Tier-3,35-44,3,Post-Update
+435,2024-05-23,Android,Google Ads,Tier-3,25-34,5,Post-Update
+436,2024-05-28,iOS,Instagram,Tier-2,45+,5,Post-Update
+437,2024-01-21,Android,Google Ads,Tier-2,18-24,1,Pre-Update
+438,2024-04-10,Android,Google Ads,Tier-1,25-34,4,Post-Update
+439,2024-03-06,Web,Google Ads,Tier-2,25-34,3,Pre-Update
+440,2024-06-28,iOS,YouTube,Tier-1,45+,6,Post-Update
+441,2024-06-25,iOS,Google Ads,Tier-3,35-44,6,Post-Update
+442,2024-02-24,iOS,Instagram,Tier-1,25-34,2,Pre-Update
+443,2024-05-12,iOS,Instagram,Tier-3,18-24,5,Post-Update
+444,2024-06-15,Web,Google Ads,Tier-1,18-24,6,Post-Update
+445,2024-05-29,Web,Google Ads,Tier-3,35-44,5,Post-Update
+446,2024-01-06,Web,YouTube,Tier-1,18-24,1,Pre-Update
+447,2024-04-27,Web,YouTube,Tier-3,35-44,4,Post-Update
+448,2024-04-22,Android,Instagram,Tier-3,25-34,4,Post-Update
+449,2024-03-17,Android,Organic,Tier-1,18-24,3,Post-Update
+450,2024-06-01,iOS,Organic,Tier-2,25-34,6,Post-Update
+451,2024-02-29,Android,YouTube,Tier-2,18-24,2,Pre-Update
+452,2024-03-11,Android,YouTube,Tier-2,18-24,3,Pre-Update
+453,2024-02-29,iOS,Instagram,Tier-2,18-24,2,Pre-Update
+454,2024-05-06,iOS,Organic,Tier-2,25-34,5,Post-Update
+455,2024-01-21,Web,Instagram,Tier-1,25-34,1,Pre-Update
+456,2024-04-06,Web,YouTube,Tier-2,18-24,4,Post-Update
+457,2024-02-14,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+458,2024-01-16,iOS,Google Ads,Tier-1,25-34,1,Pre-Update
+459,2024-02-23,Web,YouTube,Tier-2,18-24,2,Pre-Update
+460,2024-06-09,iOS,Google Ads,Tier-2,18-24,6,Post-Update
+461,2024-05-14,Web,Google Ads,Tier-3,25-34,5,Post-Update
+462,2024-02-22,Android,Instagram,Tier-1,25-34,2,Pre-Update
+463,2024-05-23,Web,Instagram,Tier-3,35-44,5,Post-Update
+464,2024-01-31,Android,YouTube,Tier-3,25-34,1,Pre-Update
+465,2024-02-12,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+466,2024-05-02,iOS,Organic,Tier-1,25-34,5,Post-Update
+467,2024-02-12,Web,Organic,Tier-3,18-24,2,Pre-Update
+468,2024-02-08,Android,Instagram,Tier-3,18-24,2,Pre-Update
+469,2024-04-16,iOS,Google Ads,Tier-2,45+,4,Post-Update
+470,2024-05-01,Android,Instagram,Tier-3,25-34,5,Post-Update
+471,2024-04-11,iOS,Organic,Tier-1,25-34,4,Post-Update
+472,2024-05-31,Android,Instagram,Tier-1,18-24,5,Post-Update
+473,2024-06-08,Web,Instagram,Tier-1,18-24,6,Post-Update
+474,2024-03-26,iOS,Organic,Tier-3,45+,3,Post-Update
+475,2024-01-25,iOS,Organic,Tier-3,35-44,1,Pre-Update
+476,2024-01-22,iOS,Organic,Tier-1,25-34,1,Pre-Update
+477,2024-02-10,iOS,Google Ads,Tier-2,25-34,2,Pre-Update
+478,2024-04-25,iOS,YouTube,Tier-3,18-24,4,Post-Update
+479,2024-04-26,iOS,Google Ads,Tier-2,35-44,4,Post-Update
+480,2024-01-30,Android,Instagram,Tier-3,35-44,1,Pre-Update
+481,2024-06-06,iOS,Organic,Tier-1,35-44,6,Post-Update
+482,2024-01-25,Android,Google Ads,Tier-2,35-44,1,Pre-Update
+483,2024-05-13,Web,Instagram,Tier-3,25-34,5,Post-Update
+484,2024-05-13,Android,Organic,Tier-2,18-24,5,Post-Update
+485,2024-01-30,Android,Instagram,Tier-1,18-24,1,Pre-Update
+486,2024-01-31,iOS,Instagram,Tier-3,35-44,1,Pre-Update
+487,2024-05-07,iOS,Google Ads,Tier-2,18-24,5,Post-Update
+488,2024-06-22,iOS,Google Ads,Tier-3,45+,6,Post-Update
+489,2024-04-16,Android,Google Ads,Tier-2,25-34,4,Post-Update
+490,2024-03-04,Android,Google Ads,Tier-3,35-44,3,Pre-Update
+491,2024-04-11,Web,Instagram,Tier-2,45+,4,Post-Update
+492,2024-04-18,Web,Instagram,Tier-3,25-34,4,Post-Update
+493,2024-03-01,iOS,Google Ads,Tier-3,35-44,3,Pre-Update
+494,2024-04-04,Android,Organic,Tier-2,25-34,4,Post-Update
+495,2024-01-11,Web,Instagram,Tier-3,45+,1,Pre-Update
+496,2024-01-08,Web,Google Ads,Tier-2,35-44,1,Pre-Update
+497,2024-02-08,Android,Instagram,Tier-2,25-34,2,Pre-Update
+498,2024-02-19,iOS,Google Ads,Tier-2,18-24,2,Pre-Update
+499,2024-03-02,Android,YouTube,Tier-3,18-24,3,Pre-Update
+500,2024-03-26,Android,Instagram,Tier-2,35-44,3,Post-Update
+501,2024-01-10,Web,YouTube,Tier-1,35-44,1,Pre-Update
+502,2024-04-22,Android,Google Ads,Tier-3,18-24,4,Post-Update
+503,2024-04-15,Web,Google Ads,Tier-1,35-44,4,Post-Update
+504,2024-01-18,Android,Google Ads,Tier-1,45+,1,Pre-Update
+505,2024-03-25,Android,Organic,Tier-2,45+,3,Post-Update
+506,2024-04-24,Web,Google Ads,Tier-1,35-44,4,Post-Update
+507,2024-04-10,Android,Instagram,Tier-1,25-34,4,Post-Update
+508,2024-04-14,iOS,Instagram,Tier-3,45+,4,Post-Update
+509,2024-05-21,iOS,YouTube,Tier-1,18-24,5,Post-Update
+510,2024-06-23,Web,Google Ads,Tier-2,18-24,6,Post-Update
+511,2024-06-13,Android,Google Ads,Tier-3,45+,6,Post-Update
+512,2024-01-25,Web,Google Ads,Tier-2,45+,1,Pre-Update
+513,2024-04-12,Web,Google Ads,Tier-2,18-24,4,Post-Update
+514,2024-01-13,Web,Google Ads,Tier-1,25-34,1,Pre-Update
+515,2024-03-28,Android,Instagram,Tier-3,25-34,3,Post-Update
+516,2024-05-08,Android,Google Ads,Tier-1,45+,5,Post-Update
+517,2024-01-04,Web,Google Ads,Tier-3,35-44,1,Pre-Update
+518,2024-01-15,Android,Google Ads,Tier-2,18-24,1,Pre-Update
+519,2024-02-02,Web,Google Ads,Tier-3,45+,2,Pre-Update
+520,2024-05-25,Android,Organic,Tier-1,18-24,5,Post-Update
+521,2024-06-14,Android,Instagram,Tier-2,45+,6,Post-Update
+522,2024-05-11,iOS,Google Ads,Tier-1,45+,5,Post-Update
+523,2024-06-06,Web,Organic,Tier-1,25-34,6,Post-Update
+524,2024-05-20,iOS,YouTube,Tier-1,18-24,5,Post-Update
+525,2024-06-16,Android,Instagram,Tier-2,18-24,6,Post-Update
+526,2024-01-14,Web,Google Ads,Tier-1,18-24,1,Pre-Update
+527,2024-05-07,Web,Google Ads,Tier-1,45+,5,Post-Update
+528,2024-04-28,Web,Instagram,Tier-1,25-34,4,Post-Update
+529,2024-03-11,Android,Instagram,Tier-2,18-24,3,Pre-Update
+530,2024-01-13,Android,Instagram,Tier-3,25-34,1,Pre-Update
+531,2024-03-27,Web,YouTube,Tier-1,18-24,3,Post-Update
+532,2024-02-01,Android,Organic,Tier-3,45+,2,Pre-Update
+533,2024-02-07,Android,YouTube,Tier-2,25-34,2,Pre-Update
+534,2024-05-27,iOS,YouTube,Tier-2,35-44,5,Post-Update
+535,2024-02-22,Web,Instagram,Tier-2,25-34,2,Pre-Update
+536,2024-03-10,Android,Instagram,Tier-2,18-24,3,Pre-Update
+537,2024-03-13,Android,Google Ads,Tier-2,25-34,3,Pre-Update
+538,2024-04-09,Web,Google Ads,Tier-3,25-34,4,Post-Update
+539,2024-05-04,Android,Instagram,Tier-2,25-34,5,Post-Update
+540,2024-01-29,Web,Google Ads,Tier-3,35-44,1,Pre-Update
+541,2024-03-27,Web,Google Ads,Tier-3,18-24,3,Post-Update
+542,2024-03-16,Android,Google Ads,Tier-3,25-34,3,Post-Update
+543,2024-01-02,Android,Instagram,Tier-2,35-44,1,Pre-Update
+544,2024-06-22,Android,Google Ads,Tier-2,18-24,6,Post-Update
+545,2024-02-20,Web,Organic,Tier-1,18-24,2,Pre-Update
+546,2024-01-20,iOS,Organic,Tier-3,45+,1,Pre-Update
+547,2024-01-21,Android,Organic,Tier-2,18-24,1,Pre-Update
+548,2024-03-27,Web,Instagram,Tier-2,25-34,3,Post-Update
+549,2024-04-15,iOS,Google Ads,Tier-1,18-24,4,Post-Update
+550,2024-01-17,iOS,Instagram,Tier-3,45+,1,Pre-Update
+551,2024-02-24,Android,Organic,Tier-3,35-44,2,Pre-Update
+552,2024-04-17,iOS,Google Ads,Tier-3,18-24,4,Post-Update
+553,2024-01-01,iOS,YouTube,Tier-1,18-24,1,Pre-Update
+554,2024-02-02,Web,Google Ads,Tier-3,18-24,2,Pre-Update
+555,2024-03-13,iOS,Instagram,Tier-3,35-44,3,Pre-Update
+556,2024-01-19,Web,YouTube,Tier-3,25-34,1,Pre-Update
+557,2024-05-04,Web,Instagram,Tier-2,18-24,5,Post-Update
+558,2024-05-28,iOS,YouTube,Tier-2,35-44,5,Post-Update
+559,2024-05-30,Android,Organic,Tier-2,45+,5,Post-Update
+560,2024-01-20,Android,Instagram,Tier-3,45+,1,Pre-Update
+561,2024-03-21,Web,Organic,Tier-2,35-44,3,Post-Update
+562,2024-02-08,Android,Organic,Tier-1,18-24,2,Pre-Update
+563,2024-01-20,Android,Google Ads,Tier-2,45+,1,Pre-Update
+564,2024-03-09,Web,Google Ads,Tier-1,35-44,3,Pre-Update
+565,2024-04-24,Web,Google Ads,Tier-2,18-24,4,Post-Update
+566,2024-02-29,Web,Google Ads,Tier-3,18-24,2,Pre-Update
+567,2024-02-06,Android,Google Ads,Tier-2,45+,2,Pre-Update
+568,2024-04-19,Android,Organic,Tier-3,18-24,4,Post-Update
+569,2024-03-10,Web,Google Ads,Tier-3,45+,3,Pre-Update
+570,2024-06-09,iOS,Organic,Tier-1,18-24,6,Post-Update
+571,2024-04-30,iOS,Google Ads,Tier-3,18-24,4,Post-Update
+572,2024-02-06,iOS,Google Ads,Tier-3,25-34,2,Pre-Update
+573,2024-03-24,Android,Google Ads,Tier-2,18-24,3,Post-Update
+574,2024-02-25,iOS,Google Ads,Tier-1,25-34,2,Pre-Update
+575,2024-04-08,Android,YouTube,Tier-3,45+,4,Post-Update
+576,2024-03-05,Web,Google Ads,Tier-3,25-34,3,Pre-Update
+577,2024-05-22,Android,Instagram,Tier-1,25-34,5,Post-Update
+578,2024-05-06,iOS,Organic,Tier-3,18-24,5,Post-Update
+579,2024-04-02,iOS,Google Ads,Tier-1,25-34,4,Post-Update
+580,2024-06-17,iOS,YouTube,Tier-1,18-24,6,Post-Update
+581,2024-03-07,Web,Google Ads,Tier-3,18-24,3,Pre-Update
+582,2024-04-17,iOS,Instagram,Tier-3,18-24,4,Post-Update
+583,2024-03-23,Web,Organic,Tier-2,18-24,3,Post-Update
+584,2024-04-27,Android,Google Ads,Tier-2,35-44,4,Post-Update
+585,2024-01-23,Web,Organic,Tier-2,25-34,1,Pre-Update
+586,2024-03-26,iOS,Instagram,Tier-2,25-34,3,Post-Update
+587,2024-02-13,Android,Google Ads,Tier-1,25-34,2,Pre-Update
+588,2024-05-16,Android,YouTube,Tier-3,18-24,5,Post-Update
+589,2024-05-15,iOS,Instagram,Tier-2,25-34,5,Post-Update
+590,2024-05-11,Android,YouTube,Tier-2,18-24,5,Post-Update
+591,2024-06-10,Android,YouTube,Tier-3,25-34,6,Post-Update
+592,2024-05-16,Web,YouTube,Tier-1,18-24,5,Post-Update
+593,2024-01-01,iOS,Google Ads,Tier-3,45+,1,Pre-Update
+594,2024-02-21,Android,Organic,Tier-3,18-24,2,Pre-Update
+595,2024-01-05,Android,Organic,Tier-2,25-34,1,Pre-Update
+596,2024-01-07,Web,Instagram,Tier-2,18-24,1,Pre-Update
+597,2024-05-09,Android,Instagram,Tier-3,18-24,5,Post-Update
+598,2024-03-10,Android,Instagram,Tier-3,18-24,3,Pre-Update
+599,2024-01-03,Android,Organic,Tier-3,45+,1,Pre-Update
+600,2024-02-02,Android,YouTube,Tier-1,35-44,2,Pre-Update
+601,2024-01-01,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+602,2024-05-24,Web,Instagram,Tier-2,18-24,5,Post-Update
+603,2024-01-13,Android,Instagram,Tier-2,18-24,1,Pre-Update
+604,2024-01-27,Web,Instagram,Tier-3,18-24,1,Pre-Update
+605,2024-01-07,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+606,2024-05-24,Web,Instagram,Tier-2,18-24,5,Post-Update
+607,2024-02-04,Android,YouTube,Tier-1,18-24,2,Pre-Update
+608,2024-02-13,iOS,Google Ads,Tier-2,18-24,2,Pre-Update
+609,2024-06-04,Android,Google Ads,Tier-2,18-24,6,Post-Update
+610,2024-02-19,Android,Organic,Tier-2,18-24,2,Pre-Update
+611,2024-04-15,iOS,YouTube,Tier-3,45+,4,Post-Update
+612,2024-02-03,Web,Organic,Tier-2,25-34,2,Pre-Update
+613,2024-04-12,iOS,Google Ads,Tier-1,35-44,4,Post-Update
+614,2024-02-23,Web,Google Ads,Tier-2,25-34,2,Pre-Update
+615,2024-04-29,Web,Google Ads,Tier-3,45+,4,Post-Update
+616,2024-06-09,Android,Organic,Tier-1,45+,6,Post-Update
+617,2024-06-18,iOS,Organic,Tier-1,25-34,6,Post-Update
+618,2024-03-09,iOS,YouTube,Tier-3,25-34,3,Pre-Update
+619,2024-01-01,iOS,YouTube,Tier-2,18-24,1,Pre-Update
+620,2024-02-08,Android,Google Ads,Tier-2,45+,2,Pre-Update
+621,2024-03-22,Android,Google Ads,Tier-2,25-34,3,Post-Update
+622,2024-06-19,Web,YouTube,Tier-1,18-24,6,Post-Update
+623,2024-03-20,iOS,Google Ads,Tier-2,35-44,3,Post-Update
+624,2024-02-12,Android,YouTube,Tier-2,35-44,2,Pre-Update
+625,2024-05-27,Web,Instagram,Tier-2,35-44,5,Post-Update
+626,2024-06-05,Android,Organic,Tier-2,35-44,6,Post-Update
+627,2024-03-30,Android,Organic,Tier-3,45+,3,Post-Update
+628,2024-01-14,iOS,Instagram,Tier-2,25-34,1,Pre-Update
+629,2024-03-01,Web,Organic,Tier-2,45+,3,Pre-Update
+630,2024-04-26,Android,YouTube,Tier-2,45+,4,Post-Update
+631,2024-01-20,iOS,Organic,Tier-2,35-44,1,Pre-Update
+632,2024-06-29,iOS,Google Ads,Tier-1,45+,6,Post-Update
+633,2024-06-27,Android,Instagram,Tier-3,18-24,6,Post-Update
+634,2024-01-05,iOS,Instagram,Tier-2,18-24,1,Pre-Update
+635,2024-04-22,iOS,Organic,Tier-1,18-24,4,Post-Update
+636,2024-02-25,iOS,Instagram,Tier-2,25-34,2,Pre-Update
+637,2024-06-01,iOS,Google Ads,Tier-3,45+,6,Post-Update
+638,2024-03-16,Android,YouTube,Tier-1,25-34,3,Post-Update
+639,2024-03-02,iOS,Instagram,Tier-3,35-44,3,Pre-Update
+640,2024-05-12,iOS,Instagram,Tier-3,35-44,5,Post-Update
+641,2024-04-14,Android,Instagram,Tier-1,45+,4,Post-Update
+642,2024-04-27,iOS,Instagram,Tier-2,25-34,4,Post-Update
+643,2024-02-23,Android,Instagram,Tier-3,25-34,2,Pre-Update
+644,2024-04-14,Web,Instagram,Tier-1,45+,4,Post-Update
+645,2024-01-23,Android,YouTube,Tier-1,45+,1,Pre-Update
+646,2024-06-21,iOS,Instagram,Tier-3,25-34,6,Post-Update
+647,2024-01-25,iOS,Instagram,Tier-3,18-24,1,Pre-Update
+648,2024-02-17,Android,Google Ads,Tier-3,18-24,2,Pre-Update
+649,2024-06-04,iOS,YouTube,Tier-1,25-34,6,Post-Update
+650,2024-03-16,iOS,Instagram,Tier-1,35-44,3,Post-Update
+651,2024-03-29,Android,Organic,Tier-3,25-34,3,Post-Update
+652,2024-03-29,Web,Google Ads,Tier-1,35-44,3,Post-Update
+653,2024-01-27,iOS,Organic,Tier-1,45+,1,Pre-Update
+654,2024-01-19,Android,Instagram,Tier-1,45+,1,Pre-Update
+655,2024-05-06,Web,YouTube,Tier-3,25-34,5,Post-Update
+656,2024-02-23,Web,YouTube,Tier-3,25-34,2,Pre-Update
+657,2024-01-25,Web,Google Ads,Tier-2,18-24,1,Pre-Update
+658,2024-01-17,Android,Instagram,Tier-2,35-44,1,Pre-Update
+659,2024-01-09,Android,Organic,Tier-1,18-24,1,Pre-Update
+660,2024-05-12,Web,Organic,Tier-3,25-34,5,Post-Update
+661,2024-05-25,iOS,Organic,Tier-3,35-44,5,Post-Update
+662,2024-04-08,Web,Organic,Tier-1,18-24,4,Post-Update
+663,2024-01-04,Web,Google Ads,Tier-1,35-44,1,Pre-Update
+664,2024-02-02,iOS,Instagram,Tier-1,18-24,2,Pre-Update
+665,2024-06-02,Android,Google Ads,Tier-3,45+,6,Post-Update
+666,2024-06-11,iOS,Google Ads,Tier-1,35-44,6,Post-Update
+667,2024-01-02,iOS,YouTube,Tier-3,35-44,1,Pre-Update
+668,2024-03-03,Android,Google Ads,Tier-3,25-34,3,Pre-Update
+669,2024-01-22,iOS,Instagram,Tier-3,25-34,1,Pre-Update
+670,2024-03-07,Web,YouTube,Tier-3,35-44,3,Pre-Update
+671,2024-02-25,iOS,YouTube,Tier-1,45+,2,Pre-Update
+672,2024-05-25,Android,Instagram,Tier-2,25-34,5,Post-Update
+673,2024-04-29,Android,Instagram,Tier-2,35-44,4,Post-Update
+674,2024-06-08,Android,Google Ads,Tier-1,25-34,6,Post-Update
+675,2024-03-04,iOS,Instagram,Tier-1,18-24,3,Pre-Update
+676,2024-02-19,iOS,YouTube,Tier-2,18-24,2,Pre-Update
+677,2024-06-02,Web,Google Ads,Tier-2,35-44,6,Post-Update
+678,2024-03-31,Android,YouTube,Tier-2,18-24,3,Post-Update
+679,2024-04-26,iOS,Organic,Tier-2,18-24,4,Post-Update
+680,2024-06-03,iOS,YouTube,Tier-3,45+,6,Post-Update
+681,2024-01-21,Web,Google Ads,Tier-3,45+,1,Pre-Update
+682,2024-06-13,iOS,Instagram,Tier-2,25-34,6,Post-Update
+683,2024-01-24,Android,Organic,Tier-3,35-44,1,Pre-Update
+684,2024-06-16,iOS,Organic,Tier-1,25-34,6,Post-Update
+685,2024-02-19,iOS,Instagram,Tier-2,18-24,2,Pre-Update
+686,2024-04-24,iOS,Instagram,Tier-2,35-44,4,Post-Update
+687,2024-03-21,Web,Instagram,Tier-3,25-34,3,Post-Update
+688,2024-01-21,Web,Organic,Tier-1,35-44,1,Pre-Update
+689,2024-01-12,iOS,YouTube,Tier-2,35-44,1,Pre-Update
+690,2024-01-29,Android,Google Ads,Tier-3,45+,1,Pre-Update
+691,2024-02-28,Android,Organic,Tier-2,25-34,2,Pre-Update
+692,2024-02-11,Android,Instagram,Tier-1,25-34,2,Pre-Update
+693,2024-04-05,iOS,Organic,Tier-1,45+,4,Post-Update
+694,2024-02-12,Web,Google Ads,Tier-3,18-24,2,Pre-Update
+695,2024-04-11,iOS,Google Ads,Tier-2,35-44,4,Post-Update
+696,2024-06-21,Web,Instagram,Tier-2,18-24,6,Post-Update
+697,2024-02-22,Android,YouTube,Tier-3,35-44,2,Pre-Update
+698,2024-02-04,Android,Instagram,Tier-2,25-34,2,Pre-Update
+699,2024-03-20,iOS,Organic,Tier-2,35-44,3,Post-Update
+700,2024-04-11,Web,Instagram,Tier-2,25-34,4,Post-Update
+701,2024-01-02,Android,YouTube,Tier-2,45+,1,Pre-Update
+702,2024-01-01,iOS,YouTube,Tier-2,45+,1,Pre-Update
+703,2024-03-22,iOS,Instagram,Tier-2,45+,3,Post-Update
+704,2024-02-14,Web,Instagram,Tier-1,35-44,2,Pre-Update
+705,2024-04-28,Web,Google Ads,Tier-1,18-24,4,Post-Update
+706,2024-06-21,Android,YouTube,Tier-1,18-24,6,Post-Update
+707,2024-05-01,Web,Instagram,Tier-1,25-34,5,Post-Update
+708,2024-02-18,Android,YouTube,Tier-2,35-44,2,Pre-Update
+709,2024-04-08,Web,Organic,Tier-2,25-34,4,Post-Update
+710,2024-02-14,Android,Instagram,Tier-3,25-34,2,Pre-Update
+711,2024-06-08,Web,Google Ads,Tier-3,35-44,6,Post-Update
+712,2024-05-30,Android,Instagram,Tier-3,18-24,5,Post-Update
+713,2024-01-24,iOS,Instagram,Tier-3,45+,1,Pre-Update
+714,2024-03-22,Android,Organic,Tier-1,45+,3,Post-Update
+715,2024-06-09,Android,Instagram,Tier-1,18-24,6,Post-Update
+716,2024-03-03,Web,Instagram,Tier-2,25-34,3,Pre-Update
+717,2024-04-18,Android,Google Ads,Tier-1,35-44,4,Post-Update
+718,2024-01-05,iOS,YouTube,Tier-1,18-24,1,Pre-Update
+719,2024-05-21,Android,Google Ads,Tier-2,45+,5,Post-Update
+720,2024-06-13,iOS,Google Ads,Tier-3,45+,6,Post-Update
+721,2024-01-07,Web,Google Ads,Tier-2,25-34,1,Pre-Update
+722,2024-02-23,iOS,Instagram,Tier-2,18-24,2,Pre-Update
+723,2024-01-13,Android,Google Ads,Tier-2,25-34,1,Pre-Update
+724,2024-03-07,Android,Instagram,Tier-2,35-44,3,Pre-Update
+725,2024-04-20,iOS,YouTube,Tier-1,25-34,4,Post-Update
+726,2024-04-02,iOS,Instagram,Tier-1,18-24,4,Post-Update
+727,2024-02-12,iOS,Instagram,Tier-3,18-24,2,Pre-Update
+728,2024-02-10,iOS,Google Ads,Tier-1,25-34,2,Pre-Update
+729,2024-05-06,Web,Organic,Tier-1,45+,5,Post-Update
+730,2024-05-07,Web,Instagram,Tier-3,18-24,5,Post-Update
+731,2024-06-19,iOS,Google Ads,Tier-3,35-44,6,Post-Update
+732,2024-03-19,iOS,YouTube,Tier-1,45+,3,Post-Update
+733,2024-04-04,iOS,Google Ads,Tier-2,25-34,4,Post-Update
+734,2024-03-18,Web,Google Ads,Tier-2,45+,3,Post-Update
+735,2024-01-11,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+736,2024-01-04,iOS,Instagram,Tier-2,35-44,1,Pre-Update
+737,2024-01-09,Web,YouTube,Tier-3,18-24,1,Pre-Update
+738,2024-06-19,iOS,Google Ads,Tier-1,35-44,6,Post-Update
+739,2024-02-20,Web,YouTube,Tier-2,25-34,2,Pre-Update
+740,2024-05-04,Android,Instagram,Tier-1,18-24,5,Post-Update
+741,2024-06-05,iOS,Google Ads,Tier-2,18-24,6,Post-Update
+742,2024-05-27,Android,YouTube,Tier-2,18-24,5,Post-Update
+743,2024-01-20,Android,Organic,Tier-2,35-44,1,Pre-Update
+744,2024-02-23,iOS,Google Ads,Tier-2,18-24,2,Pre-Update
+745,2024-03-18,Web,Google Ads,Tier-2,18-24,3,Post-Update
+746,2024-05-01,iOS,Instagram,Tier-3,18-24,5,Post-Update
+747,2024-03-21,Android,Google Ads,Tier-3,35-44,3,Post-Update
+748,2024-02-04,Web,Google Ads,Tier-1,25-34,2,Pre-Update
+749,2024-01-06,Android,Instagram,Tier-1,45+,1,Pre-Update
+750,2024-03-20,iOS,Instagram,Tier-1,35-44,3,Post-Update
+751,2024-05-22,Android,Organic,Tier-3,45+,5,Post-Update
+752,2024-05-28,Web,YouTube,Tier-3,25-34,5,Post-Update
+753,2024-06-13,iOS,YouTube,Tier-1,25-34,6,Post-Update
+754,2024-01-23,iOS,YouTube,Tier-2,35-44,1,Pre-Update
+755,2024-06-10,Android,Google Ads,Tier-3,18-24,6,Post-Update
+756,2024-04-03,Android,Instagram,Tier-3,35-44,4,Post-Update
+757,2024-01-06,iOS,Instagram,Tier-1,18-24,1,Pre-Update
+758,2024-05-19,iOS,Google Ads,Tier-3,25-34,5,Post-Update
+759,2024-01-26,iOS,Instagram,Tier-3,25-34,1,Pre-Update
+760,2024-06-28,iOS,YouTube,Tier-3,35-44,6,Post-Update
+761,2024-04-06,iOS,YouTube,Tier-2,45+,4,Post-Update
+762,2024-06-09,Android,Google Ads,Tier-2,25-34,6,Post-Update
+763,2024-05-01,iOS,Google Ads,Tier-3,25-34,5,Post-Update
+764,2024-04-17,Web,YouTube,Tier-3,35-44,4,Post-Update
+765,2024-04-07,Android,Organic,Tier-1,25-34,4,Post-Update
+766,2024-04-01,Android,Organic,Tier-1,18-24,4,Post-Update
+767,2024-04-10,Web,Organic,Tier-1,35-44,4,Post-Update
+768,2024-03-05,Android,Google Ads,Tier-1,35-44,3,Pre-Update
+769,2024-06-15,Web,Organic,Tier-2,25-34,6,Post-Update
+770,2024-02-13,Android,Google Ads,Tier-1,45+,2,Pre-Update
+771,2024-04-13,Web,Google Ads,Tier-3,45+,4,Post-Update
+772,2024-06-13,Android,YouTube,Tier-3,25-34,6,Post-Update
+773,2024-05-13,iOS,Google Ads,Tier-3,25-34,5,Post-Update
+774,2024-04-11,iOS,YouTube,Tier-2,25-34,4,Post-Update
+775,2024-04-08,Web,Google Ads,Tier-2,35-44,4,Post-Update
+776,2024-06-05,iOS,YouTube,Tier-2,35-44,6,Post-Update
+777,2024-01-23,iOS,Organic,Tier-3,18-24,1,Pre-Update
+778,2024-03-19,Web,Instagram,Tier-3,25-34,3,Post-Update
+779,2024-06-19,Android,Organic,Tier-3,35-44,6,Post-Update
+780,2024-02-03,Web,YouTube,Tier-1,35-44,2,Pre-Update
+781,2024-02-19,Web,Google Ads,Tier-2,25-34,2,Pre-Update
+782,2024-02-07,iOS,Google Ads,Tier-3,45+,2,Pre-Update
+783,2024-03-23,Android,Google Ads,Tier-2,25-34,3,Post-Update
+784,2024-01-04,Android,YouTube,Tier-3,25-34,1,Pre-Update
+785,2024-03-30,Android,Google Ads,Tier-1,25-34,3,Post-Update
+786,2024-03-31,iOS,YouTube,Tier-2,35-44,3,Post-Update
+787,2024-01-07,Android,Organic,Tier-2,25-34,1,Pre-Update
+788,2024-01-14,Web,Google Ads,Tier-1,25-34,1,Pre-Update
+789,2024-06-12,Web,Instagram,Tier-3,25-34,6,Post-Update
+790,2024-04-19,Web,Google Ads,Tier-1,35-44,4,Post-Update
+791,2024-06-12,iOS,Organic,Tier-3,18-24,6,Post-Update
+792,2024-05-31,Android,Organic,Tier-1,45+,5,Post-Update
+793,2024-06-10,iOS,Google Ads,Tier-3,35-44,6,Post-Update
+794,2024-02-03,Android,YouTube,Tier-3,45+,2,Pre-Update
+795,2024-03-18,iOS,Google Ads,Tier-2,25-34,3,Post-Update
+796,2024-02-18,Android,Organic,Tier-2,18-24,2,Pre-Update
+797,2024-06-07,Android,Organic,Tier-1,25-34,6,Post-Update
+798,2024-01-03,iOS,Instagram,Tier-3,35-44,1,Pre-Update
+799,2024-02-29,Android,Google Ads,Tier-3,35-44,2,Pre-Update
+800,2024-05-24,Android,Organic,Tier-3,45+,5,Post-Update
+801,2024-04-16,iOS,YouTube,Tier-2,25-34,4,Post-Update
+802,2024-04-30,Android,Google Ads,Tier-1,25-34,4,Post-Update
+803,2024-02-23,Android,Instagram,Tier-2,35-44,2,Pre-Update
+804,2024-02-27,Android,Organic,Tier-2,18-24,2,Pre-Update
+805,2024-06-01,Web,YouTube,Tier-3,18-24,6,Post-Update
+806,2024-05-02,Web,YouTube,Tier-1,18-24,5,Post-Update
+807,2024-04-23,iOS,YouTube,Tier-2,25-34,4,Post-Update
+808,2024-04-27,iOS,Google Ads,Tier-2,18-24,4,Post-Update
+809,2024-04-11,iOS,YouTube,Tier-3,25-34,4,Post-Update
+810,2024-06-02,Android,Instagram,Tier-3,18-24,6,Post-Update
+811,2024-01-06,iOS,Organic,Tier-3,18-24,1,Pre-Update
+812,2024-01-03,Android,Instagram,Tier-3,18-24,1,Pre-Update
+813,2024-02-13,Android,Organic,Tier-2,18-24,2,Pre-Update
+814,2024-02-01,Android,Organic,Tier-2,18-24,2,Pre-Update
+815,2024-01-15,Android,Google Ads,Tier-1,25-34,1,Pre-Update
+816,2024-03-08,Web,Instagram,Tier-1,25-34,3,Pre-Update
+817,2024-06-16,iOS,Instagram,Tier-2,18-24,6,Post-Update
+818,2024-01-15,iOS,YouTube,Tier-1,18-24,1,Pre-Update
+819,2024-03-09,iOS,Instagram,Tier-3,35-44,3,Pre-Update
+820,2024-04-02,iOS,Google Ads,Tier-1,25-34,4,Post-Update
+821,2024-04-06,Web,YouTube,Tier-1,25-34,4,Post-Update
+822,2024-02-13,iOS,Organic,Tier-1,45+,2,Pre-Update
+823,2024-02-15,Android,Google Ads,Tier-3,35-44,2,Pre-Update
+824,2024-03-30,Web,Organic,Tier-3,35-44,3,Post-Update
+825,2024-03-19,Android,Google Ads,Tier-2,18-24,3,Post-Update
+826,2024-05-08,Web,Instagram,Tier-3,35-44,5,Post-Update
+827,2024-04-13,Android,Organic,Tier-1,25-34,4,Post-Update
+828,2024-06-17,Android,Google Ads,Tier-2,35-44,6,Post-Update
+829,2024-04-09,iOS,Instagram,Tier-3,45+,4,Post-Update
+830,2024-06-24,Android,Google Ads,Tier-1,18-24,6,Post-Update
+831,2024-06-06,Android,Google Ads,Tier-1,35-44,6,Post-Update
+832,2024-04-23,Android,Instagram,Tier-3,18-24,4,Post-Update
+833,2024-02-06,iOS,Organic,Tier-2,45+,2,Pre-Update
+834,2024-01-13,Android,Instagram,Tier-1,18-24,1,Pre-Update
+835,2024-04-06,Android,Organic,Tier-1,18-24,4,Post-Update
+836,2024-03-15,Android,Organic,Tier-1,35-44,3,Post-Update
+837,2024-05-16,Web,Google Ads,Tier-2,35-44,5,Post-Update
+838,2024-04-27,Web,Google Ads,Tier-1,35-44,4,Post-Update
+839,2024-01-31,Web,Google Ads,Tier-1,18-24,1,Pre-Update
+840,2024-01-12,Android,Instagram,Tier-3,45+,1,Pre-Update
+841,2024-05-06,iOS,Organic,Tier-3,25-34,5,Post-Update
+842,2024-01-21,Android,YouTube,Tier-1,18-24,1,Pre-Update
+843,2024-04-18,iOS,Google Ads,Tier-2,25-34,4,Post-Update
+844,2024-05-10,Android,YouTube,Tier-3,45+,5,Post-Update
+845,2024-06-12,Web,Instagram,Tier-1,35-44,6,Post-Update
+846,2024-06-15,iOS,YouTube,Tier-2,45+,6,Post-Update
+847,2024-05-22,Android,YouTube,Tier-3,45+,5,Post-Update
+848,2024-04-06,iOS,Organic,Tier-1,35-44,4,Post-Update
+849,2024-05-23,Android,YouTube,Tier-2,25-34,5,Post-Update
+850,2024-02-17,iOS,Instagram,Tier-3,35-44,2,Pre-Update
+851,2024-01-16,Android,Organic,Tier-1,45+,1,Pre-Update
+852,2024-03-11,iOS,YouTube,Tier-1,35-44,3,Pre-Update
+853,2024-01-29,Android,YouTube,Tier-3,18-24,1,Pre-Update
+854,2024-01-15,Android,Instagram,Tier-1,18-24,1,Pre-Update
+855,2024-06-17,Android,Organic,Tier-1,25-34,6,Post-Update
+856,2024-01-15,Android,Google Ads,Tier-2,25-34,1,Pre-Update
+857,2024-05-06,Android,YouTube,Tier-2,25-34,5,Post-Update
+858,2024-04-12,iOS,Google Ads,Tier-1,18-24,4,Post-Update
+859,2024-05-17,Android,Google Ads,Tier-1,18-24,5,Post-Update
+860,2024-06-07,iOS,Google Ads,Tier-1,35-44,6,Post-Update
+861,2024-04-03,Android,Instagram,Tier-2,35-44,4,Post-Update
+862,2024-01-04,iOS,Google Ads,Tier-2,45+,1,Pre-Update
+863,2024-01-31,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+864,2024-06-28,Web,Organic,Tier-1,35-44,6,Post-Update
+865,2024-06-12,Web,Organic,Tier-2,35-44,6,Post-Update
+866,2024-03-05,iOS,Google Ads,Tier-3,35-44,3,Pre-Update
+867,2024-05-04,iOS,YouTube,Tier-3,25-34,5,Post-Update
+868,2024-04-20,iOS,YouTube,Tier-2,45+,4,Post-Update
+869,2024-05-09,Android,Organic,Tier-3,25-34,5,Post-Update
+870,2024-01-05,Android,YouTube,Tier-2,25-34,1,Pre-Update
+871,2024-01-08,Android,Instagram,Tier-2,35-44,1,Pre-Update
+872,2024-06-03,Web,YouTube,Tier-1,25-34,6,Post-Update
+873,2024-05-01,Android,YouTube,Tier-2,25-34,5,Post-Update
+874,2024-03-25,iOS,Instagram,Tier-1,18-24,3,Post-Update
+875,2024-04-26,iOS,YouTube,Tier-2,35-44,4,Post-Update
+876,2024-05-07,Android,Instagram,Tier-3,45+,5,Post-Update
+877,2024-02-18,iOS,YouTube,Tier-2,18-24,2,Pre-Update
+878,2024-05-06,iOS,Organic,Tier-3,18-24,5,Post-Update
+879,2024-05-26,Android,YouTube,Tier-1,18-24,5,Post-Update
+880,2024-05-14,Web,YouTube,Tier-1,18-24,5,Post-Update
+881,2024-01-07,Android,YouTube,Tier-2,45+,1,Pre-Update
+882,2024-03-10,iOS,YouTube,Tier-1,18-24,3,Pre-Update
+883,2024-05-02,Android,Google Ads,Tier-2,45+,5,Post-Update
+884,2024-03-06,iOS,Google Ads,Tier-2,18-24,3,Pre-Update
+885,2024-06-23,iOS,YouTube,Tier-2,45+,6,Post-Update
+886,2024-06-09,Web,YouTube,Tier-2,25-34,6,Post-Update
+887,2024-04-29,Web,Organic,Tier-2,45+,4,Post-Update
+888,2024-05-31,Web,YouTube,Tier-1,45+,5,Post-Update
+889,2024-05-08,iOS,Google Ads,Tier-2,45+,5,Post-Update
+890,2024-02-02,Android,Organic,Tier-2,18-24,2,Pre-Update
+891,2024-01-25,Android,Google Ads,Tier-1,45+,1,Pre-Update
+892,2024-04-23,Web,Instagram,Tier-3,35-44,4,Post-Update
+893,2024-03-09,Android,YouTube,Tier-3,45+,3,Pre-Update
+894,2024-02-14,Web,Instagram,Tier-2,35-44,2,Pre-Update
+895,2024-06-29,Web,YouTube,Tier-1,35-44,6,Post-Update
+896,2024-05-15,Android,Instagram,Tier-3,35-44,5,Post-Update
+897,2024-05-12,iOS,Instagram,Tier-3,18-24,5,Post-Update
+898,2024-06-17,iOS,Google Ads,Tier-3,35-44,6,Post-Update
+899,2024-03-19,iOS,YouTube,Tier-3,25-34,3,Post-Update
+900,2024-03-03,iOS,YouTube,Tier-2,25-34,3,Pre-Update
+901,2024-04-28,iOS,Instagram,Tier-3,35-44,4,Post-Update
+902,2024-04-24,Web,Instagram,Tier-1,25-34,4,Post-Update
+903,2024-04-23,iOS,Instagram,Tier-2,45+,4,Post-Update
+904,2024-05-31,Android,Google Ads,Tier-2,45+,5,Post-Update
+905,2024-01-24,Android,YouTube,Tier-1,18-24,1,Pre-Update
+906,2024-02-05,iOS,Instagram,Tier-1,25-34,2,Pre-Update
+907,2024-02-02,iOS,Organic,Tier-1,25-34,2,Pre-Update
+908,2024-01-15,Android,YouTube,Tier-1,35-44,1,Pre-Update
+909,2024-06-14,Android,Google Ads,Tier-1,25-34,6,Post-Update
+910,2024-06-02,Web,Google Ads,Tier-1,18-24,6,Post-Update
+911,2024-06-04,Android,YouTube,Tier-2,18-24,6,Post-Update
+912,2024-04-23,iOS,YouTube,Tier-1,18-24,4,Post-Update
+913,2024-03-15,Web,Instagram,Tier-1,35-44,3,Post-Update
+914,2024-01-10,Android,Google Ads,Tier-3,18-24,1,Pre-Update
+915,2024-03-03,iOS,Google Ads,Tier-1,25-34,3,Pre-Update
+916,2024-05-12,Android,Instagram,Tier-2,45+,5,Post-Update
+917,2024-03-14,iOS,Google Ads,Tier-1,35-44,3,Pre-Update
+918,2024-06-29,Web,Google Ads,Tier-2,25-34,6,Post-Update
+919,2024-04-25,iOS,YouTube,Tier-2,25-34,4,Post-Update
+920,2024-04-29,Web,YouTube,Tier-2,25-34,4,Post-Update
+921,2024-01-11,Web,Instagram,Tier-2,45+,1,Pre-Update
+922,2024-04-22,Web,Google Ads,Tier-3,25-34,4,Post-Update
+923,2024-03-26,iOS,Google Ads,Tier-2,45+,3,Post-Update
+924,2024-04-03,Web,YouTube,Tier-3,25-34,4,Post-Update
+925,2024-02-04,iOS,YouTube,Tier-2,35-44,2,Pre-Update
+926,2024-04-10,Android,Google Ads,Tier-1,18-24,4,Post-Update
+927,2024-06-13,Android,Instagram,Tier-3,45+,6,Post-Update
+928,2024-04-25,Web,Google Ads,Tier-1,45+,4,Post-Update
+929,2024-06-24,iOS,Instagram,Tier-3,18-24,6,Post-Update
+930,2024-03-09,Android,Google Ads,Tier-3,25-34,3,Pre-Update
+931,2024-06-23,Web,YouTube,Tier-3,25-34,6,Post-Update
+932,2024-04-15,Android,Google Ads,Tier-2,18-24,4,Post-Update
+933,2024-02-15,Android,YouTube,Tier-2,25-34,2,Pre-Update
+934,2024-05-15,Web,Google Ads,Tier-1,45+,5,Post-Update
+935,2024-02-08,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+936,2024-06-18,Web,Instagram,Tier-3,25-34,6,Post-Update
+937,2024-05-02,Android,YouTube,Tier-2,45+,5,Post-Update
+938,2024-06-19,Web,Instagram,Tier-2,45+,6,Post-Update
+939,2024-05-28,Android,Google Ads,Tier-3,45+,5,Post-Update
+940,2024-01-06,iOS,Google Ads,Tier-1,18-24,1,Pre-Update
+941,2024-01-14,iOS,Organic,Tier-2,18-24,1,Pre-Update
+942,2024-02-08,iOS,Instagram,Tier-1,25-34,2,Pre-Update
+943,2024-05-13,Android,Organic,Tier-3,45+,5,Post-Update
+944,2024-05-18,Android,Google Ads,Tier-1,25-34,5,Post-Update
+945,2024-03-01,Web,YouTube,Tier-1,45+,3,Pre-Update
+946,2024-01-02,Android,Organic,Tier-3,25-34,1,Pre-Update
+947,2024-06-26,iOS,Organic,Tier-2,35-44,6,Post-Update
+948,2024-02-24,Web,Organic,Tier-1,25-34,2,Pre-Update
+949,2024-01-23,Web,Organic,Tier-1,45+,1,Pre-Update
+950,2024-03-01,Android,YouTube,Tier-1,35-44,3,Pre-Update
+951,2024-02-25,iOS,Organic,Tier-3,18-24,2,Pre-Update
+952,2024-02-11,Android,Organic,Tier-2,25-34,2,Pre-Update
+953,2024-04-11,Web,YouTube,Tier-2,45+,4,Post-Update
+954,2024-02-20,Android,Organic,Tier-2,18-24,2,Pre-Update
+955,2024-05-08,Android,Organic,Tier-3,25-34,5,Post-Update
+956,2024-06-15,Android,YouTube,Tier-1,45+,6,Post-Update
+957,2024-03-29,Web,Google Ads,Tier-2,25-34,3,Post-Update
+958,2024-06-13,Android,Instagram,Tier-3,25-34,6,Post-Update
+959,2024-04-27,Android,YouTube,Tier-2,18-24,4,Post-Update
+960,2024-06-20,Android,Google Ads,Tier-1,35-44,6,Post-Update
+961,2024-06-24,iOS,Instagram,Tier-2,18-24,6,Post-Update
+962,2024-01-09,Android,Google Ads,Tier-3,25-34,1,Pre-Update
+963,2024-06-06,Android,Google Ads,Tier-3,18-24,6,Post-Update
+964,2024-03-16,Web,YouTube,Tier-3,35-44,3,Post-Update
+965,2024-03-04,Web,Google Ads,Tier-1,35-44,3,Pre-Update
+966,2024-05-29,Web,Instagram,Tier-1,25-34,5,Post-Update
+967,2024-03-16,iOS,Google Ads,Tier-1,18-24,3,Post-Update
+968,2024-06-11,Web,Google Ads,Tier-2,35-44,6,Post-Update
+969,2024-02-17,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+970,2024-01-16,iOS,YouTube,Tier-3,18-24,1,Pre-Update
+971,2024-05-12,iOS,YouTube,Tier-1,18-24,5,Post-Update
+972,2024-03-17,Web,Instagram,Tier-3,25-34,3,Post-Update
+973,2024-01-15,Android,Instagram,Tier-1,18-24,1,Pre-Update
+974,2024-06-05,Android,Google Ads,Tier-3,25-34,6,Post-Update
+975,2024-06-28,Android,Instagram,Tier-1,45+,6,Post-Update
+976,2024-02-14,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+977,2024-04-07,Web,YouTube,Tier-1,18-24,4,Post-Update
+978,2024-05-10,Android,Instagram,Tier-1,45+,5,Post-Update
+979,2024-04-12,Android,Google Ads,Tier-2,25-34,4,Post-Update
+980,2024-04-27,iOS,YouTube,Tier-1,25-34,4,Post-Update
+981,2024-01-04,Web,Instagram,Tier-2,18-24,1,Pre-Update
+982,2024-02-01,Android,YouTube,Tier-1,45+,2,Pre-Update
+983,2024-02-20,Web,Organic,Tier-1,18-24,2,Pre-Update
+984,2024-04-11,Web,Google Ads,Tier-2,35-44,4,Post-Update
+985,2024-04-16,iOS,YouTube,Tier-1,18-24,4,Post-Update
+986,2024-01-12,Android,Google Ads,Tier-1,18-24,1,Pre-Update
+987,2024-01-24,iOS,Instagram,Tier-2,18-24,1,Pre-Update
+988,2024-01-25,Web,Instagram,Tier-2,25-34,1,Pre-Update
+989,2024-05-01,Android,Instagram,Tier-2,45+,5,Post-Update
+990,2024-04-08,iOS,Instagram,Tier-2,45+,4,Post-Update
+991,2024-02-28,Web,YouTube,Tier-2,25-34,2,Pre-Update
+992,2024-02-03,iOS,Instagram,Tier-3,25-34,2,Pre-Update
+993,2024-06-24,iOS,YouTube,Tier-1,18-24,6,Post-Update
+994,2024-03-31,Android,Organic,Tier-1,35-44,3,Post-Update
+995,2024-01-14,iOS,Google Ads,Tier-2,18-24,1,Pre-Update
+996,2024-06-08,Web,Google Ads,Tier-1,25-34,6,Post-Update
+997,2024-04-04,Web,Organic,Tier-3,18-24,4,Post-Update
+998,2024-04-06,Android,Organic,Tier-3,45+,4,Post-Update
+999,2024-03-09,Android,YouTube,Tier-1,45+,3,Pre-Update
+1000,2024-02-24,iOS,Google Ads,Tier-3,18-24,2,Pre-Update
+1001,2024-02-08,Web,Google Ads,Tier-1,25-34,2,Pre-Update
+1002,2024-05-07,iOS,Google Ads,Tier-3,35-44,5,Post-Update
+1003,2024-01-22,iOS,YouTube,Tier-2,18-24,1,Pre-Update
+1004,2024-03-22,Web,Google Ads,Tier-3,25-34,3,Post-Update
+1005,2024-03-03,iOS,Instagram,Tier-3,35-44,3,Pre-Update
+1006,2024-01-21,iOS,YouTube,Tier-3,18-24,1,Pre-Update
+1007,2024-03-25,Android,Instagram,Tier-2,18-24,3,Post-Update
+1008,2024-02-05,Android,Organic,Tier-1,18-24,2,Pre-Update
+1009,2024-04-06,iOS,YouTube,Tier-1,18-24,4,Post-Update
+1010,2024-02-24,Web,YouTube,Tier-1,18-24,2,Pre-Update
+1011,2024-02-04,Web,Instagram,Tier-2,18-24,2,Pre-Update
+1012,2024-01-25,Android,Instagram,Tier-2,18-24,1,Pre-Update
+1013,2024-02-11,Android,Instagram,Tier-2,25-34,2,Pre-Update
+1014,2024-06-25,iOS,YouTube,Tier-3,25-34,6,Post-Update
+1015,2024-03-27,Web,Google Ads,Tier-1,25-34,3,Post-Update
+1016,2024-03-28,Android,Instagram,Tier-1,25-34,3,Post-Update
+1017,2024-04-12,Android,Organic,Tier-3,35-44,4,Post-Update
+1018,2024-01-29,Web,Instagram,Tier-3,25-34,1,Pre-Update
+1019,2024-03-21,iOS,Organic,Tier-3,45+,3,Post-Update
+1020,2024-02-27,Web,Instagram,Tier-2,25-34,2,Pre-Update
+1021,2024-02-18,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+1022,2024-01-28,Android,YouTube,Tier-1,18-24,1,Pre-Update
+1023,2024-01-12,iOS,Google Ads,Tier-2,25-34,1,Pre-Update
+1024,2024-03-04,iOS,Instagram,Tier-3,35-44,3,Pre-Update
+1025,2024-05-04,Web,Organic,Tier-3,18-24,5,Post-Update
+1026,2024-04-21,Web,Instagram,Tier-2,18-24,4,Post-Update
+1027,2024-04-25,iOS,Organic,Tier-3,25-34,4,Post-Update
+1028,2024-02-09,Web,Instagram,Tier-3,25-34,2,Pre-Update
+1029,2024-06-18,iOS,Instagram,Tier-3,18-24,6,Post-Update
+1030,2024-01-04,Android,Instagram,Tier-3,35-44,1,Pre-Update
+1031,2024-06-06,Web,Organic,Tier-1,35-44,6,Post-Update
+1032,2024-06-24,iOS,Google Ads,Tier-3,35-44,6,Post-Update
+1033,2024-02-08,Web,YouTube,Tier-2,35-44,2,Pre-Update
+1034,2024-03-21,Android,Instagram,Tier-1,25-34,3,Post-Update
+1035,2024-06-27,Web,Instagram,Tier-2,45+,6,Post-Update
+1036,2024-02-18,Android,Google Ads,Tier-2,45+,2,Pre-Update
+1037,2024-02-22,Web,Instagram,Tier-1,45+,2,Pre-Update
+1038,2024-05-28,Android,YouTube,Tier-2,35-44,5,Post-Update
+1039,2024-03-21,Android,Instagram,Tier-3,25-34,3,Post-Update
+1040,2024-04-01,Android,Organic,Tier-3,45+,4,Post-Update
+1041,2024-02-11,iOS,Google Ads,Tier-2,25-34,2,Pre-Update
+1042,2024-06-26,Web,Google Ads,Tier-1,35-44,6,Post-Update
+1043,2024-03-27,Android,Google Ads,Tier-1,35-44,3,Post-Update
+1044,2024-06-13,Android,Google Ads,Tier-3,18-24,6,Post-Update
+1045,2024-05-15,iOS,Instagram,Tier-3,35-44,5,Post-Update
+1046,2024-04-30,Android,Instagram,Tier-3,45+,4,Post-Update
+1047,2024-02-17,iOS,Google Ads,Tier-3,18-24,2,Pre-Update
+1048,2024-01-12,iOS,YouTube,Tier-3,35-44,1,Pre-Update
+1049,2024-04-02,Android,Google Ads,Tier-2,25-34,4,Post-Update
+1050,2024-04-22,Android,Google Ads,Tier-2,45+,4,Post-Update
+1051,2024-05-20,Android,Instagram,Tier-2,25-34,5,Post-Update
+1052,2024-01-13,Android,YouTube,Tier-1,35-44,1,Pre-Update
+1053,2024-03-02,iOS,Google Ads,Tier-3,18-24,3,Pre-Update
+1054,2024-03-04,Android,Instagram,Tier-3,45+,3,Pre-Update
+1055,2024-06-09,Android,Organic,Tier-2,35-44,6,Post-Update
+1056,2024-04-02,Android,Organic,Tier-1,25-34,4,Post-Update
+1057,2024-06-13,Android,YouTube,Tier-3,25-34,6,Post-Update
+1058,2024-02-25,iOS,YouTube,Tier-2,45+,2,Pre-Update
+1059,2024-06-15,Android,Instagram,Tier-3,25-34,6,Post-Update
+1060,2024-01-13,Web,YouTube,Tier-2,25-34,1,Pre-Update
+1061,2024-05-10,Android,Instagram,Tier-2,35-44,5,Post-Update
+1062,2024-01-08,iOS,YouTube,Tier-2,45+,1,Pre-Update
+1063,2024-06-10,iOS,Google Ads,Tier-3,45+,6,Post-Update
+1064,2024-01-17,iOS,Organic,Tier-1,25-34,1,Pre-Update
+1065,2024-05-24,Android,YouTube,Tier-1,18-24,5,Post-Update
+1066,2024-03-03,Android,Google Ads,Tier-2,18-24,3,Pre-Update
+1067,2024-06-08,iOS,Google Ads,Tier-1,18-24,6,Post-Update
+1068,2024-05-27,Web,Organic,Tier-1,45+,5,Post-Update
+1069,2024-03-16,iOS,Organic,Tier-2,25-34,3,Post-Update
+1070,2024-04-26,Android,Instagram,Tier-3,45+,4,Post-Update
+1071,2024-01-27,iOS,Instagram,Tier-3,18-24,1,Pre-Update
+1072,2024-05-03,iOS,Instagram,Tier-2,25-34,5,Post-Update
+1073,2024-03-29,Android,YouTube,Tier-2,18-24,3,Post-Update
+1074,2024-02-29,Android,Google Ads,Tier-2,35-44,2,Pre-Update
+1075,2024-06-07,iOS,Google Ads,Tier-3,45+,6,Post-Update
+1076,2024-01-19,iOS,Google Ads,Tier-1,35-44,1,Pre-Update
+1077,2024-02-28,iOS,Organic,Tier-2,18-24,2,Pre-Update
+1078,2024-04-28,Web,Organic,Tier-3,35-44,4,Post-Update
+1079,2024-05-31,Android,Google Ads,Tier-1,25-34,5,Post-Update
+1080,2024-02-07,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+1081,2024-02-18,Web,YouTube,Tier-2,18-24,2,Pre-Update
+1082,2024-04-03,Web,Google Ads,Tier-2,35-44,4,Post-Update
+1083,2024-02-03,iOS,YouTube,Tier-2,18-24,2,Pre-Update
+1084,2024-02-24,iOS,Organic,Tier-1,18-24,2,Pre-Update
+1085,2024-05-20,Web,Organic,Tier-3,35-44,5,Post-Update
+1086,2024-04-01,Web,YouTube,Tier-1,35-44,4,Post-Update
+1087,2024-04-06,Android,YouTube,Tier-1,25-34,4,Post-Update
+1088,2024-03-18,iOS,Instagram,Tier-3,35-44,3,Post-Update
+1089,2024-03-17,Android,Organic,Tier-3,25-34,3,Post-Update
+1090,2024-05-29,iOS,Google Ads,Tier-3,45+,5,Post-Update
+1091,2024-01-08,iOS,Instagram,Tier-3,35-44,1,Pre-Update
+1092,2024-05-27,Web,YouTube,Tier-1,18-24,5,Post-Update
+1093,2024-05-11,iOS,Google Ads,Tier-3,18-24,5,Post-Update
+1094,2024-06-11,iOS,Google Ads,Tier-3,25-34,6,Post-Update
+1095,2024-06-08,Web,Instagram,Tier-2,45+,6,Post-Update
+1096,2024-05-07,iOS,Instagram,Tier-3,25-34,5,Post-Update
+1097,2024-06-27,Android,YouTube,Tier-3,35-44,6,Post-Update
+1098,2024-02-16,Web,Instagram,Tier-1,35-44,2,Pre-Update
+1099,2024-05-19,iOS,Google Ads,Tier-1,25-34,5,Post-Update
+1100,2024-06-14,Android,Organic,Tier-2,45+,6,Post-Update
+1101,2024-06-14,Web,YouTube,Tier-1,35-44,6,Post-Update
+1102,2024-06-11,Web,Google Ads,Tier-3,25-34,6,Post-Update
+1103,2024-04-06,Web,Instagram,Tier-3,25-34,4,Post-Update
+1104,2024-05-19,Android,Organic,Tier-3,35-44,5,Post-Update
+1105,2024-04-27,Web,YouTube,Tier-3,18-24,4,Post-Update
+1106,2024-04-01,Android,Google Ads,Tier-2,25-34,4,Post-Update
+1107,2024-03-20,iOS,Organic,Tier-2,25-34,3,Post-Update
+1108,2024-05-09,Android,Google Ads,Tier-2,25-34,5,Post-Update
+1109,2024-04-05,Web,Google Ads,Tier-3,35-44,4,Post-Update
+1110,2024-06-09,Android,Organic,Tier-2,25-34,6,Post-Update
+1111,2024-01-20,iOS,Organic,Tier-2,35-44,1,Pre-Update
+1112,2024-04-04,Android,YouTube,Tier-2,25-34,4,Post-Update
+1113,2024-04-26,Web,Google Ads,Tier-1,35-44,4,Post-Update
+1114,2024-02-22,Android,Instagram,Tier-2,45+,2,Pre-Update
+1115,2024-06-17,iOS,YouTube,Tier-1,18-24,6,Post-Update
+1116,2024-04-03,Web,Organic,Tier-2,35-44,4,Post-Update
+1117,2024-01-09,Android,Instagram,Tier-2,18-24,1,Pre-Update
+1118,2024-01-18,Android,YouTube,Tier-1,35-44,1,Pre-Update
+1119,2024-02-06,iOS,Instagram,Tier-3,35-44,2,Pre-Update
+1120,2024-02-06,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+1121,2024-06-29,iOS,YouTube,Tier-3,18-24,6,Post-Update
+1122,2024-06-16,Android,Organic,Tier-1,25-34,6,Post-Update
+1123,2024-06-26,Web,Organic,Tier-3,35-44,6,Post-Update
+1124,2024-04-02,iOS,YouTube,Tier-3,25-34,4,Post-Update
+1125,2024-01-11,Web,YouTube,Tier-3,18-24,1,Pre-Update
+1126,2024-06-16,Web,Instagram,Tier-3,18-24,6,Post-Update
+1127,2024-04-26,Android,Organic,Tier-3,25-34,4,Post-Update
+1128,2024-03-27,Android,Google Ads,Tier-1,25-34,3,Post-Update
+1129,2024-03-03,Android,Instagram,Tier-3,18-24,3,Pre-Update
+1130,2024-04-06,iOS,YouTube,Tier-1,35-44,4,Post-Update
+1131,2024-01-02,iOS,Instagram,Tier-3,45+,1,Pre-Update
+1132,2024-02-02,iOS,YouTube,Tier-1,45+,2,Pre-Update
+1133,2024-02-08,Android,Instagram,Tier-1,25-34,2,Pre-Update
+1134,2024-05-20,Web,Google Ads,Tier-2,18-24,5,Post-Update
+1135,2024-03-06,Web,Organic,Tier-3,25-34,3,Pre-Update
+1136,2024-03-05,Web,Instagram,Tier-2,45+,3,Pre-Update
+1137,2024-03-02,Android,Organic,Tier-1,35-44,3,Pre-Update
+1138,2024-03-11,iOS,YouTube,Tier-2,35-44,3,Pre-Update
+1139,2024-04-23,Android,Google Ads,Tier-1,45+,4,Post-Update
+1140,2024-06-11,iOS,Instagram,Tier-3,18-24,6,Post-Update
+1141,2024-06-11,Web,Instagram,Tier-3,25-34,6,Post-Update
+1142,2024-04-22,iOS,Google Ads,Tier-2,18-24,4,Post-Update
+1143,2024-03-25,iOS,Organic,Tier-3,18-24,3,Post-Update
+1144,2024-04-23,Android,Instagram,Tier-1,45+,4,Post-Update
+1145,2024-03-11,Android,Instagram,Tier-1,35-44,3,Pre-Update
+1146,2024-02-07,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+1147,2024-06-10,Android,Instagram,Tier-3,35-44,6,Post-Update
+1148,2024-04-06,Android,Instagram,Tier-3,25-34,4,Post-Update
+1149,2024-02-01,Android,Instagram,Tier-1,18-24,2,Pre-Update
+1150,2024-04-25,iOS,Instagram,Tier-1,45+,4,Post-Update
+1151,2024-03-01,iOS,YouTube,Tier-1,25-34,3,Pre-Update
+1152,2024-06-06,Web,Instagram,Tier-1,18-24,6,Post-Update
+1153,2024-02-18,Android,Organic,Tier-2,18-24,2,Pre-Update
+1154,2024-06-11,iOS,Organic,Tier-2,25-34,6,Post-Update
+1155,2024-02-15,iOS,Google Ads,Tier-2,25-34,2,Pre-Update
+1156,2024-03-19,Android,YouTube,Tier-2,35-44,3,Post-Update
+1157,2024-05-24,Web,Instagram,Tier-1,25-34,5,Post-Update
+1158,2024-05-10,Android,YouTube,Tier-1,45+,5,Post-Update
+1159,2024-03-10,Web,YouTube,Tier-3,25-34,3,Pre-Update
+1160,2024-02-20,iOS,YouTube,Tier-2,35-44,2,Pre-Update
+1161,2024-05-04,Android,Google Ads,Tier-1,35-44,5,Post-Update
+1162,2024-05-01,Android,Organic,Tier-3,25-34,5,Post-Update
+1163,2024-04-12,Android,YouTube,Tier-1,18-24,4,Post-Update
+1164,2024-06-26,Android,Instagram,Tier-1,35-44,6,Post-Update
+1165,2024-03-31,Web,Google Ads,Tier-1,25-34,3,Post-Update
+1166,2024-06-16,iOS,Organic,Tier-3,45+,6,Post-Update
+1167,2024-02-22,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+1168,2024-05-31,iOS,Organic,Tier-1,18-24,5,Post-Update
+1169,2024-04-05,Web,Google Ads,Tier-2,18-24,4,Post-Update
+1170,2024-02-04,Android,Organic,Tier-1,45+,2,Pre-Update
+1171,2024-06-20,Android,Instagram,Tier-2,25-34,6,Post-Update
+1172,2024-05-06,Android,Instagram,Tier-2,18-24,5,Post-Update
+1173,2024-06-29,Web,Google Ads,Tier-3,18-24,6,Post-Update
+1174,2024-02-06,Web,Organic,Tier-1,25-34,2,Pre-Update
+1175,2024-06-10,iOS,Instagram,Tier-3,25-34,6,Post-Update
+1176,2024-01-06,iOS,YouTube,Tier-3,25-34,1,Pre-Update
+1177,2024-05-01,Web,Google Ads,Tier-3,45+,5,Post-Update
+1178,2024-01-02,Web,YouTube,Tier-1,25-34,1,Pre-Update
+1179,2024-01-05,Web,Google Ads,Tier-2,18-24,1,Pre-Update
+1180,2024-05-18,iOS,Instagram,Tier-3,45+,5,Post-Update
+1181,2024-06-27,Android,Instagram,Tier-3,45+,6,Post-Update
+1182,2024-01-30,iOS,YouTube,Tier-2,25-34,1,Pre-Update
+1183,2024-06-28,Android,Google Ads,Tier-2,18-24,6,Post-Update
+1184,2024-02-17,iOS,Organic,Tier-1,18-24,2,Pre-Update
+1185,2024-03-13,iOS,Instagram,Tier-1,45+,3,Pre-Update
+1186,2024-02-17,iOS,Instagram,Tier-3,35-44,2,Pre-Update
+1187,2024-03-01,Android,Google Ads,Tier-1,25-34,3,Pre-Update
+1188,2024-03-03,iOS,Organic,Tier-3,18-24,3,Pre-Update
+1189,2024-04-13,iOS,Instagram,Tier-1,18-24,4,Post-Update
+1190,2024-05-18,Android,Google Ads,Tier-2,18-24,5,Post-Update
+1191,2024-02-29,iOS,Google Ads,Tier-3,18-24,2,Pre-Update
+1192,2024-02-28,Web,YouTube,Tier-2,35-44,2,Pre-Update
+1193,2024-06-26,iOS,Instagram,Tier-2,18-24,6,Post-Update
+1194,2024-03-07,iOS,Instagram,Tier-3,18-24,3,Pre-Update
+1195,2024-01-07,iOS,Google Ads,Tier-3,45+,1,Pre-Update
+1196,2024-03-02,Web,Instagram,Tier-2,35-44,3,Pre-Update
+1197,2024-04-16,iOS,Google Ads,Tier-1,18-24,4,Post-Update
+1198,2024-04-23,Android,Organic,Tier-3,18-24,4,Post-Update
+1199,2024-02-20,iOS,YouTube,Tier-1,18-24,2,Pre-Update
+1200,2024-04-01,Android,Instagram,Tier-2,25-34,4,Post-Update
+1201,2024-05-04,Android,YouTube,Tier-1,25-34,5,Post-Update
+1202,2024-05-27,Web,Organic,Tier-3,35-44,5,Post-Update
+1203,2024-01-04,Android,Organic,Tier-3,25-34,1,Pre-Update
+1204,2024-06-16,Web,Google Ads,Tier-3,18-24,6,Post-Update
+1205,2024-01-12,Web,Google Ads,Tier-1,25-34,1,Pre-Update
+1206,2024-02-06,Web,Organic,Tier-2,45+,2,Pre-Update
+1207,2024-06-27,iOS,Organic,Tier-1,25-34,6,Post-Update
+1208,2024-05-05,iOS,YouTube,Tier-2,25-34,5,Post-Update
+1209,2024-04-22,Android,Organic,Tier-1,35-44,4,Post-Update
+1210,2024-05-11,Android,YouTube,Tier-2,45+,5,Post-Update
+1211,2024-05-07,Web,Instagram,Tier-3,18-24,5,Post-Update
+1212,2024-03-14,Android,Instagram,Tier-1,45+,3,Pre-Update
+1213,2024-01-22,iOS,Organic,Tier-2,18-24,1,Pre-Update
+1214,2024-03-16,Android,Google Ads,Tier-2,18-24,3,Post-Update
+1215,2024-04-10,iOS,Organic,Tier-2,45+,4,Post-Update
+1216,2024-04-18,Android,YouTube,Tier-3,25-34,4,Post-Update
+1217,2024-02-08,Android,YouTube,Tier-1,35-44,2,Pre-Update
+1218,2024-05-25,iOS,Instagram,Tier-3,18-24,5,Post-Update
+1219,2024-05-04,iOS,Google Ads,Tier-1,25-34,5,Post-Update
+1220,2024-01-02,iOS,YouTube,Tier-2,18-24,1,Pre-Update
+1221,2024-04-13,iOS,Google Ads,Tier-2,35-44,4,Post-Update
+1222,2024-04-22,iOS,Instagram,Tier-2,18-24,4,Post-Update
+1223,2024-04-15,Android,YouTube,Tier-1,35-44,4,Post-Update
+1224,2024-03-16,Web,Google Ads,Tier-2,45+,3,Post-Update
+1225,2024-05-02,iOS,Google Ads,Tier-2,45+,5,Post-Update
+1226,2024-02-15,Web,YouTube,Tier-3,18-24,2,Pre-Update
+1227,2024-02-25,Android,YouTube,Tier-3,35-44,2,Pre-Update
+1228,2024-05-07,Android,Organic,Tier-1,25-34,5,Post-Update
+1229,2024-01-17,Web,Organic,Tier-2,25-34,1,Pre-Update
+1230,2024-01-31,Android,Organic,Tier-2,35-44,1,Pre-Update
+1231,2024-06-29,iOS,Instagram,Tier-3,25-34,6,Post-Update
+1232,2024-05-07,iOS,YouTube,Tier-1,45+,5,Post-Update
+1233,2024-04-14,iOS,Google Ads,Tier-1,18-24,4,Post-Update
+1234,2024-06-26,iOS,Google Ads,Tier-3,45+,6,Post-Update
+1235,2024-04-04,Android,Instagram,Tier-2,45+,4,Post-Update
+1236,2024-05-30,Web,YouTube,Tier-2,45+,5,Post-Update
+1237,2024-01-08,Android,Google Ads,Tier-3,18-24,1,Pre-Update
+1238,2024-05-14,iOS,Google Ads,Tier-2,25-34,5,Post-Update
+1239,2024-01-23,Web,YouTube,Tier-1,25-34,1,Pre-Update
+1240,2024-02-29,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+1241,2024-04-27,Web,YouTube,Tier-3,25-34,4,Post-Update
+1242,2024-04-28,Android,YouTube,Tier-3,25-34,4,Post-Update
+1243,2024-03-16,iOS,Instagram,Tier-2,18-24,3,Post-Update
+1244,2024-06-06,Android,Google Ads,Tier-1,25-34,6,Post-Update
+1245,2024-05-26,iOS,YouTube,Tier-3,18-24,5,Post-Update
+1246,2024-06-01,Android,Instagram,Tier-1,25-34,6,Post-Update
+1247,2024-06-19,Web,Instagram,Tier-1,45+,6,Post-Update
+1248,2024-04-24,Web,Organic,Tier-2,35-44,4,Post-Update
+1249,2024-04-07,Android,Instagram,Tier-1,25-34,4,Post-Update
+1250,2024-06-17,Android,Instagram,Tier-1,25-34,6,Post-Update
+1251,2024-03-15,Android,Organic,Tier-3,18-24,3,Post-Update
+1252,2024-01-08,iOS,YouTube,Tier-2,45+,1,Pre-Update
+1253,2024-01-08,iOS,Google Ads,Tier-2,18-24,1,Pre-Update
+1254,2024-01-01,Web,Instagram,Tier-2,18-24,1,Pre-Update
+1255,2024-02-13,Android,Organic,Tier-1,35-44,2,Pre-Update
+1256,2024-03-30,Android,Instagram,Tier-1,25-34,3,Post-Update
+1257,2024-03-17,Web,YouTube,Tier-2,45+,3,Post-Update
+1258,2024-06-17,Android,YouTube,Tier-2,25-34,6,Post-Update
+1259,2024-02-24,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+1260,2024-02-29,iOS,Instagram,Tier-3,35-44,2,Pre-Update
+1261,2024-02-14,iOS,Instagram,Tier-2,45+,2,Pre-Update
+1262,2024-05-16,iOS,Organic,Tier-1,35-44,5,Post-Update
+1263,2024-03-08,Web,Instagram,Tier-1,45+,3,Pre-Update
+1264,2024-01-29,Web,Instagram,Tier-1,18-24,1,Pre-Update
+1265,2024-01-16,Android,Google Ads,Tier-2,18-24,1,Pre-Update
+1266,2024-06-18,Android,Google Ads,Tier-3,18-24,6,Post-Update
+1267,2024-03-16,Android,YouTube,Tier-3,25-34,3,Post-Update
+1268,2024-04-11,Android,YouTube,Tier-1,25-34,4,Post-Update
+1269,2024-06-21,iOS,YouTube,Tier-1,25-34,6,Post-Update
+1270,2024-01-28,Android,Organic,Tier-2,18-24,1,Pre-Update
+1271,2024-03-17,Web,YouTube,Tier-2,25-34,3,Post-Update
+1272,2024-05-14,iOS,YouTube,Tier-1,25-34,5,Post-Update
+1273,2024-01-31,Android,Instagram,Tier-3,45+,1,Pre-Update
+1274,2024-02-06,Android,Instagram,Tier-3,18-24,2,Pre-Update
+1275,2024-01-14,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+1276,2024-04-30,Android,Instagram,Tier-3,25-34,4,Post-Update
+1277,2024-04-12,Android,Google Ads,Tier-1,18-24,4,Post-Update
+1278,2024-03-25,Web,Google Ads,Tier-2,25-34,3,Post-Update
+1279,2024-04-13,Android,Google Ads,Tier-2,25-34,4,Post-Update
+1280,2024-01-19,Web,Instagram,Tier-3,25-34,1,Pre-Update
+1281,2024-03-27,iOS,YouTube,Tier-2,25-34,3,Post-Update
+1282,2024-04-04,Android,Instagram,Tier-1,25-34,4,Post-Update
+1283,2024-03-30,iOS,Instagram,Tier-3,45+,3,Post-Update
+1284,2024-06-18,Web,Instagram,Tier-3,18-24,6,Post-Update
+1285,2024-06-29,iOS,YouTube,Tier-3,25-34,6,Post-Update
+1286,2024-05-29,Web,YouTube,Tier-2,25-34,5,Post-Update
+1287,2024-05-24,iOS,YouTube,Tier-2,45+,5,Post-Update
+1288,2024-05-27,iOS,Instagram,Tier-1,18-24,5,Post-Update
+1289,2024-01-17,iOS,Google Ads,Tier-1,18-24,1,Pre-Update
+1290,2024-05-12,Android,Organic,Tier-1,45+,5,Post-Update
+1291,2024-04-16,Web,Google Ads,Tier-3,18-24,4,Post-Update
+1292,2024-04-08,Android,Organic,Tier-2,35-44,4,Post-Update
+1293,2024-04-01,Web,Instagram,Tier-3,45+,4,Post-Update
+1294,2024-04-16,iOS,YouTube,Tier-3,45+,4,Post-Update
+1295,2024-03-18,Android,Google Ads,Tier-3,25-34,3,Post-Update
+1296,2024-03-14,Web,YouTube,Tier-1,18-24,3,Pre-Update
+1297,2024-06-01,Web,YouTube,Tier-1,45+,6,Post-Update
+1298,2024-06-10,iOS,Google Ads,Tier-3,25-34,6,Post-Update
+1299,2024-04-03,Android,YouTube,Tier-3,45+,4,Post-Update
+1300,2024-03-07,Android,Organic,Tier-1,25-34,3,Pre-Update
+1301,2024-06-16,iOS,Organic,Tier-1,18-24,6,Post-Update
+1302,2024-01-22,Android,YouTube,Tier-2,45+,1,Pre-Update
+1303,2024-01-19,iOS,Organic,Tier-2,25-34,1,Pre-Update
+1304,2024-03-06,Android,Google Ads,Tier-2,45+,3,Pre-Update
+1305,2024-06-14,Web,YouTube,Tier-3,18-24,6,Post-Update
+1306,2024-06-13,Web,Instagram,Tier-3,45+,6,Post-Update
+1307,2024-03-31,Web,Google Ads,Tier-1,35-44,3,Post-Update
+1308,2024-04-03,Android,Organic,Tier-2,18-24,4,Post-Update
+1309,2024-05-12,Web,Instagram,Tier-2,45+,5,Post-Update
+1310,2024-03-15,Android,Google Ads,Tier-1,25-34,3,Post-Update
+1311,2024-01-24,Android,Organic,Tier-3,35-44,1,Pre-Update
+1312,2024-04-17,iOS,Google Ads,Tier-1,18-24,4,Post-Update
+1313,2024-04-10,Web,Google Ads,Tier-3,18-24,4,Post-Update
+1314,2024-03-01,Android,Instagram,Tier-2,45+,3,Pre-Update
+1315,2024-05-31,Web,YouTube,Tier-3,25-34,5,Post-Update
+1316,2024-01-15,Web,Organic,Tier-2,45+,1,Pre-Update
+1317,2024-01-24,iOS,YouTube,Tier-2,45+,1,Pre-Update
+1318,2024-01-04,iOS,Organic,Tier-3,35-44,1,Pre-Update
+1319,2024-06-20,Android,Google Ads,Tier-1,25-34,6,Post-Update
+1320,2024-05-25,Android,Google Ads,Tier-2,35-44,5,Post-Update
+1321,2024-03-27,Web,YouTube,Tier-3,45+,3,Post-Update
+1322,2024-03-21,iOS,Google Ads,Tier-2,45+,3,Post-Update
+1323,2024-06-11,iOS,YouTube,Tier-2,35-44,6,Post-Update
+1324,2024-01-29,Android,Google Ads,Tier-3,35-44,1,Pre-Update
+1325,2024-03-07,iOS,Google Ads,Tier-2,18-24,3,Pre-Update
+1326,2024-03-19,Android,YouTube,Tier-3,35-44,3,Post-Update
+1327,2024-01-18,Web,Instagram,Tier-1,35-44,1,Pre-Update
+1328,2024-01-24,iOS,Organic,Tier-1,45+,1,Pre-Update
+1329,2024-01-01,Web,YouTube,Tier-3,18-24,1,Pre-Update
+1330,2024-01-03,Web,YouTube,Tier-2,25-34,1,Pre-Update
+1331,2024-05-31,iOS,Google Ads,Tier-3,35-44,5,Post-Update
+1332,2024-01-30,Web,Google Ads,Tier-2,18-24,1,Pre-Update
+1333,2024-04-18,iOS,Google Ads,Tier-3,35-44,4,Post-Update
+1334,2024-03-28,Android,Instagram,Tier-1,25-34,3,Post-Update
+1335,2024-05-30,Android,YouTube,Tier-2,35-44,5,Post-Update
+1336,2024-03-31,Android,Organic,Tier-2,35-44,3,Post-Update
+1337,2024-05-05,Android,Google Ads,Tier-3,45+,5,Post-Update
+1338,2024-05-16,iOS,Instagram,Tier-2,25-34,5,Post-Update
+1339,2024-01-03,Android,YouTube,Tier-1,35-44,1,Pre-Update
+1340,2024-02-07,Android,Google Ads,Tier-2,35-44,2,Pre-Update
+1341,2024-02-10,iOS,Instagram,Tier-1,18-24,2,Pre-Update
+1342,2024-02-22,iOS,Google Ads,Tier-3,35-44,2,Pre-Update
+1343,2024-06-29,Android,Google Ads,Tier-1,45+,6,Post-Update
+1344,2024-01-02,Android,Instagram,Tier-2,35-44,1,Pre-Update
+1345,2024-04-18,Android,Instagram,Tier-3,35-44,4,Post-Update
+1346,2024-02-10,iOS,Organic,Tier-3,25-34,2,Pre-Update
+1347,2024-05-31,Web,YouTube,Tier-1,25-34,5,Post-Update
+1348,2024-01-13,Android,YouTube,Tier-3,18-24,1,Pre-Update
+1349,2024-01-02,Web,Organic,Tier-3,45+,1,Pre-Update
+1350,2024-05-31,Android,Organic,Tier-3,18-24,5,Post-Update
+1351,2024-02-03,iOS,Google Ads,Tier-2,35-44,2,Pre-Update
+1352,2024-01-22,Android,Organic,Tier-1,18-24,1,Pre-Update
+1353,2024-01-25,Android,Organic,Tier-3,18-24,1,Pre-Update
+1354,2024-04-04,iOS,Instagram,Tier-2,25-34,4,Post-Update
+1355,2024-05-30,Android,Organic,Tier-2,18-24,5,Post-Update
+1356,2024-04-24,iOS,Google Ads,Tier-3,25-34,4,Post-Update
+1357,2024-04-26,iOS,YouTube,Tier-3,25-34,4,Post-Update
+1358,2024-03-20,Web,Organic,Tier-1,45+,3,Post-Update
+1359,2024-02-29,Android,Google Ads,Tier-1,45+,2,Pre-Update
+1360,2024-01-22,Android,YouTube,Tier-2,18-24,1,Pre-Update
+1361,2024-03-15,Android,Instagram,Tier-1,18-24,3,Post-Update
+1362,2024-06-18,Web,Organic,Tier-3,18-24,6,Post-Update
+1363,2024-05-22,Web,Google Ads,Tier-2,35-44,5,Post-Update
+1364,2024-05-23,iOS,YouTube,Tier-1,35-44,5,Post-Update
+1365,2024-01-15,Android,Organic,Tier-1,35-44,1,Pre-Update
+1366,2024-05-03,iOS,Google Ads,Tier-3,25-34,5,Post-Update
+1367,2024-02-23,Android,YouTube,Tier-1,35-44,2,Pre-Update
+1368,2024-03-02,iOS,Organic,Tier-2,35-44,3,Pre-Update
+1369,2024-06-14,iOS,Instagram,Tier-2,25-34,6,Post-Update
+1370,2024-06-02,Android,Google Ads,Tier-2,18-24,6,Post-Update
+1371,2024-03-30,Web,Google Ads,Tier-3,18-24,3,Post-Update
+1372,2024-04-12,Android,YouTube,Tier-3,25-34,4,Post-Update
+1373,2024-05-20,Web,Instagram,Tier-2,45+,5,Post-Update
+1374,2024-04-26,Android,Instagram,Tier-3,25-34,4,Post-Update
+1375,2024-01-31,Web,Organic,Tier-2,35-44,1,Pre-Update
+1376,2024-05-21,iOS,YouTube,Tier-1,35-44,5,Post-Update
+1377,2024-04-11,Web,YouTube,Tier-1,25-34,4,Post-Update
+1378,2024-04-22,Web,Instagram,Tier-1,35-44,4,Post-Update
+1379,2024-02-18,Android,Google Ads,Tier-3,18-24,2,Pre-Update
+1380,2024-03-17,iOS,Organic,Tier-1,25-34,3,Post-Update
+1381,2024-06-09,iOS,YouTube,Tier-2,18-24,6,Post-Update
+1382,2024-02-05,iOS,Google Ads,Tier-2,18-24,2,Pre-Update
+1383,2024-06-15,Web,Instagram,Tier-1,18-24,6,Post-Update
+1384,2024-03-14,Web,Instagram,Tier-2,18-24,3,Pre-Update
+1385,2024-03-15,Web,YouTube,Tier-1,25-34,3,Post-Update
+1386,2024-06-05,Android,Instagram,Tier-3,18-24,6,Post-Update
+1387,2024-06-03,Android,Instagram,Tier-3,25-34,6,Post-Update
+1388,2024-02-12,Android,Google Ads,Tier-1,45+,2,Pre-Update
+1389,2024-03-22,Android,YouTube,Tier-3,25-34,3,Post-Update
+1390,2024-06-08,Android,Instagram,Tier-3,25-34,6,Post-Update
+1391,2024-05-10,Android,Instagram,Tier-3,25-34,5,Post-Update
+1392,2024-04-24,iOS,YouTube,Tier-3,18-24,4,Post-Update
+1393,2024-03-17,Web,Instagram,Tier-1,25-34,3,Post-Update
+1394,2024-05-12,Web,Instagram,Tier-2,18-24,5,Post-Update
+1395,2024-06-24,Web,Instagram,Tier-3,25-34,6,Post-Update
+1396,2024-04-06,Web,Organic,Tier-1,45+,4,Post-Update
+1397,2024-05-20,iOS,Google Ads,Tier-3,25-34,5,Post-Update
+1398,2024-05-02,Android,Instagram,Tier-3,25-34,5,Post-Update
+1399,2024-04-11,Android,Google Ads,Tier-1,25-34,4,Post-Update
+1400,2024-01-06,Android,Google Ads,Tier-1,18-24,1,Pre-Update
+1401,2024-03-09,Android,YouTube,Tier-3,35-44,3,Pre-Update
+1402,2024-01-07,Web,Instagram,Tier-2,45+,1,Pre-Update
+1403,2024-05-28,iOS,Instagram,Tier-3,35-44,5,Post-Update
+1404,2024-06-13,iOS,Google Ads,Tier-3,45+,6,Post-Update
+1405,2024-01-12,iOS,Organic,Tier-2,18-24,1,Pre-Update
+1406,2024-03-07,Web,Instagram,Tier-3,18-24,3,Pre-Update
+1407,2024-01-30,Android,Instagram,Tier-3,18-24,1,Pre-Update
+1408,2024-03-10,Android,Instagram,Tier-1,45+,3,Pre-Update
+1409,2024-05-11,Web,YouTube,Tier-3,45+,5,Post-Update
+1410,2024-01-04,Web,Instagram,Tier-2,45+,1,Pre-Update
+1411,2024-03-31,Android,Instagram,Tier-1,18-24,3,Post-Update
+1412,2024-06-27,iOS,Instagram,Tier-2,45+,6,Post-Update
+1413,2024-04-12,iOS,Instagram,Tier-2,18-24,4,Post-Update
+1414,2024-05-25,iOS,YouTube,Tier-2,18-24,5,Post-Update
+1415,2024-02-27,Android,Google Ads,Tier-1,25-34,2,Pre-Update
+1416,2024-02-21,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+1417,2024-03-31,Android,YouTube,Tier-2,25-34,3,Post-Update
+1418,2024-06-26,Web,Google Ads,Tier-2,35-44,6,Post-Update
+1419,2024-03-24,Web,Google Ads,Tier-1,25-34,3,Post-Update
+1420,2024-03-09,Android,YouTube,Tier-3,25-34,3,Pre-Update
+1421,2024-02-28,Android,Google Ads,Tier-1,45+,2,Pre-Update
+1422,2024-05-28,Web,YouTube,Tier-1,18-24,5,Post-Update
+1423,2024-04-21,Web,YouTube,Tier-2,25-34,4,Post-Update
+1424,2024-06-20,Web,Google Ads,Tier-2,18-24,6,Post-Update
+1425,2024-03-27,iOS,Google Ads,Tier-3,18-24,3,Post-Update
+1426,2024-05-21,Web,YouTube,Tier-1,35-44,5,Post-Update
+1427,2024-03-19,Web,Google Ads,Tier-1,45+,3,Post-Update
+1428,2024-05-06,iOS,YouTube,Tier-3,25-34,5,Post-Update
+1429,2024-01-27,iOS,YouTube,Tier-1,18-24,1,Pre-Update
+1430,2024-02-15,Android,Instagram,Tier-2,18-24,2,Pre-Update
+1431,2024-06-22,iOS,Google Ads,Tier-2,45+,6,Post-Update
+1432,2024-05-20,Android,Organic,Tier-2,25-34,5,Post-Update
+1433,2024-02-13,iOS,Organic,Tier-3,18-24,2,Pre-Update
+1434,2024-06-15,Web,YouTube,Tier-1,25-34,6,Post-Update
+1435,2024-04-18,Web,Instagram,Tier-1,18-24,4,Post-Update
+1436,2024-06-15,Android,Instagram,Tier-3,45+,6,Post-Update
+1437,2024-02-22,Web,Google Ads,Tier-1,45+,2,Pre-Update
+1438,2024-05-26,iOS,Instagram,Tier-2,25-34,5,Post-Update
+1439,2024-06-29,Web,Instagram,Tier-3,25-34,6,Post-Update
+1440,2024-02-12,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+1441,2024-05-18,Web,Organic,Tier-3,18-24,5,Post-Update
+1442,2024-04-12,Android,YouTube,Tier-2,18-24,4,Post-Update
+1443,2024-02-12,Android,Instagram,Tier-1,35-44,2,Pre-Update
+1444,2024-03-29,Android,Organic,Tier-1,25-34,3,Post-Update
+1445,2024-02-01,Android,Instagram,Tier-1,25-34,2,Pre-Update
+1446,2024-05-08,Web,Google Ads,Tier-3,18-24,5,Post-Update
+1447,2024-04-18,Android,YouTube,Tier-1,25-34,4,Post-Update
+1448,2024-05-06,Web,Google Ads,Tier-3,45+,5,Post-Update
+1449,2024-01-05,Web,Instagram,Tier-1,35-44,1,Pre-Update
+1450,2024-02-27,Android,Google Ads,Tier-2,25-34,2,Pre-Update
+1451,2024-02-29,Android,Organic,Tier-3,25-34,2,Pre-Update
+1452,2024-01-10,Android,Google Ads,Tier-1,25-34,1,Pre-Update
+1453,2024-02-21,iOS,Google Ads,Tier-2,45+,2,Pre-Update
+1454,2024-01-08,iOS,Instagram,Tier-3,25-34,1,Pre-Update
+1455,2024-02-19,iOS,Google Ads,Tier-3,25-34,2,Pre-Update
+1456,2024-05-29,iOS,YouTube,Tier-3,25-34,5,Post-Update
+1457,2024-02-20,iOS,Instagram,Tier-1,45+,2,Pre-Update
+1458,2024-04-12,iOS,YouTube,Tier-2,35-44,4,Post-Update
+1459,2024-05-02,iOS,Instagram,Tier-2,18-24,5,Post-Update
+1460,2024-06-21,iOS,Instagram,Tier-1,45+,6,Post-Update
+1461,2024-06-23,Android,YouTube,Tier-3,45+,6,Post-Update
+1462,2024-01-20,Android,Google Ads,Tier-3,18-24,1,Pre-Update
+1463,2024-02-12,Web,Google Ads,Tier-2,25-34,2,Pre-Update
+1464,2024-06-17,Android,Google Ads,Tier-2,18-24,6,Post-Update
+1465,2024-04-20,Android,Instagram,Tier-3,45+,4,Post-Update
+1466,2024-03-10,Android,Organic,Tier-2,25-34,3,Pre-Update
+1467,2024-06-26,Android,Google Ads,Tier-2,18-24,6,Post-Update
+1468,2024-01-18,Android,Google Ads,Tier-3,35-44,1,Pre-Update
+1469,2024-06-14,iOS,Instagram,Tier-3,18-24,6,Post-Update
+1470,2024-03-03,Web,Organic,Tier-3,45+,3,Pre-Update
+1471,2024-01-17,Android,Google Ads,Tier-1,18-24,1,Pre-Update
+1472,2024-01-18,Web,Google Ads,Tier-2,25-34,1,Pre-Update
+1473,2024-02-28,Android,Organic,Tier-2,18-24,2,Pre-Update
+1474,2024-04-17,iOS,Google Ads,Tier-1,25-34,4,Post-Update
+1475,2024-04-02,iOS,YouTube,Tier-1,45+,4,Post-Update
+1476,2024-06-03,iOS,Organic,Tier-2,45+,6,Post-Update
+1477,2024-06-25,iOS,YouTube,Tier-2,35-44,6,Post-Update
+1478,2024-03-31,Web,Google Ads,Tier-1,18-24,3,Post-Update
+1479,2024-03-12,Android,YouTube,Tier-3,18-24,3,Pre-Update
+1480,2024-05-07,Android,YouTube,Tier-1,18-24,5,Post-Update
+1481,2024-01-29,Web,Organic,Tier-2,25-34,1,Pre-Update
+1482,2024-03-10,Web,Organic,Tier-1,18-24,3,Pre-Update
+1483,2024-05-17,Android,Google Ads,Tier-1,25-34,5,Post-Update
+1484,2024-05-02,Android,YouTube,Tier-2,25-34,5,Post-Update
+1485,2024-03-06,Android,Google Ads,Tier-3,18-24,3,Pre-Update
+1486,2024-05-16,Android,Organic,Tier-3,18-24,5,Post-Update
+1487,2024-03-20,Android,Instagram,Tier-3,18-24,3,Post-Update
+1488,2024-02-11,iOS,Google Ads,Tier-3,45+,2,Pre-Update
+1489,2024-03-25,Android,Google Ads,Tier-1,18-24,3,Post-Update
+1490,2024-04-25,Web,Instagram,Tier-3,45+,4,Post-Update
+1491,2024-06-19,iOS,Organic,Tier-2,18-24,6,Post-Update
+1492,2024-03-29,iOS,Google Ads,Tier-3,35-44,3,Post-Update
+1493,2024-03-08,iOS,Instagram,Tier-1,45+,3,Pre-Update
+1494,2024-05-28,Web,Instagram,Tier-3,45+,5,Post-Update
+1495,2024-06-21,iOS,Google Ads,Tier-2,25-34,6,Post-Update
+1496,2024-06-09,iOS,YouTube,Tier-2,25-34,6,Post-Update
+1497,2024-01-24,iOS,Instagram,Tier-3,45+,1,Pre-Update
+1498,2024-02-02,Android,Organic,Tier-2,25-34,2,Pre-Update
+1499,2024-05-07,iOS,Organic,Tier-1,25-34,5,Post-Update
+1500,2024-05-10,Android,Organic,Tier-3,25-34,5,Post-Update
+1501,2024-01-19,Web,Instagram,Tier-1,45+,1,Pre-Update
+1502,2024-03-08,Web,Instagram,Tier-1,18-24,3,Pre-Update
+1503,2024-01-21,iOS,Organic,Tier-1,45+,1,Pre-Update
+1504,2024-04-01,iOS,Instagram,Tier-2,45+,4,Post-Update
+1505,2024-03-27,Web,YouTube,Tier-2,35-44,3,Post-Update
+1506,2024-02-05,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+1507,2024-03-24,iOS,YouTube,Tier-1,25-34,3,Post-Update
+1508,2024-04-26,Android,Google Ads,Tier-3,35-44,4,Post-Update
+1509,2024-03-19,Android,Google Ads,Tier-3,25-34,3,Post-Update
+1510,2024-06-15,iOS,Organic,Tier-3,25-34,6,Post-Update
+1511,2024-03-04,iOS,YouTube,Tier-2,18-24,3,Pre-Update
+1512,2024-01-19,iOS,Instagram,Tier-1,45+,1,Pre-Update
+1513,2024-06-18,Android,Google Ads,Tier-3,35-44,6,Post-Update
+1514,2024-04-09,Android,Instagram,Tier-2,25-34,4,Post-Update
+1515,2024-05-18,iOS,Google Ads,Tier-2,45+,5,Post-Update
+1516,2024-05-08,Android,Organic,Tier-3,18-24,5,Post-Update
+1517,2024-06-07,iOS,Google Ads,Tier-3,18-24,6,Post-Update
+1518,2024-03-25,iOS,YouTube,Tier-2,45+,3,Post-Update
+1519,2024-04-06,Android,Instagram,Tier-3,35-44,4,Post-Update
+1520,2024-06-24,iOS,Organic,Tier-1,45+,6,Post-Update
+1521,2024-04-27,Android,Google Ads,Tier-2,25-34,4,Post-Update
+1522,2024-02-25,Android,Instagram,Tier-1,18-24,2,Pre-Update
+1523,2024-03-21,iOS,Instagram,Tier-3,35-44,3,Post-Update
+1524,2024-01-28,Android,Organic,Tier-2,35-44,1,Pre-Update
+1525,2024-05-05,Web,Organic,Tier-1,25-34,5,Post-Update
+1526,2024-01-10,Web,YouTube,Tier-3,18-24,1,Pre-Update
+1527,2024-06-02,iOS,Google Ads,Tier-2,25-34,6,Post-Update
+1528,2024-01-25,iOS,YouTube,Tier-1,18-24,1,Pre-Update
+1529,2024-05-16,Android,Google Ads,Tier-3,45+,5,Post-Update
+1530,2024-02-13,Android,YouTube,Tier-1,25-34,2,Pre-Update
+1531,2024-01-14,Android,YouTube,Tier-2,45+,1,Pre-Update
+1532,2024-06-06,Web,Instagram,Tier-1,18-24,6,Post-Update
+1533,2024-02-06,Android,Organic,Tier-3,45+,2,Pre-Update
+1534,2024-01-27,Android,Instagram,Tier-2,25-34,1,Pre-Update
+1535,2024-01-04,Android,Instagram,Tier-2,18-24,1,Pre-Update
+1536,2024-05-07,Android,Organic,Tier-1,25-34,5,Post-Update
+1537,2024-06-16,Web,Instagram,Tier-3,18-24,6,Post-Update
+1538,2024-04-08,Android,Instagram,Tier-2,18-24,4,Post-Update
+1539,2024-04-07,iOS,YouTube,Tier-1,45+,4,Post-Update
+1540,2024-03-29,Android,Instagram,Tier-1,18-24,3,Post-Update
+1541,2024-02-08,iOS,Organic,Tier-2,25-34,2,Pre-Update
+1542,2024-04-07,Web,Google Ads,Tier-2,25-34,4,Post-Update
+1543,2024-01-12,Android,Organic,Tier-1,35-44,1,Pre-Update
+1544,2024-06-05,Android,Organic,Tier-3,45+,6,Post-Update
+1545,2024-04-08,Web,Instagram,Tier-1,45+,4,Post-Update
+1546,2024-02-11,Web,Google Ads,Tier-1,25-34,2,Pre-Update
+1547,2024-05-09,Android,YouTube,Tier-1,18-24,5,Post-Update
+1548,2024-02-01,Android,Instagram,Tier-1,45+,2,Pre-Update
+1549,2024-04-08,Web,Organic,Tier-1,18-24,4,Post-Update
+1550,2024-01-26,iOS,Instagram,Tier-1,45+,1,Pre-Update
+1551,2024-05-28,Web,Google Ads,Tier-1,45+,5,Post-Update
+1552,2024-01-05,Android,Instagram,Tier-2,35-44,1,Pre-Update
+1553,2024-05-22,Web,Instagram,Tier-3,25-34,5,Post-Update
+1554,2024-02-10,Android,Google Ads,Tier-3,35-44,2,Pre-Update
+1555,2024-05-29,Web,Instagram,Tier-3,18-24,5,Post-Update
+1556,2024-05-29,Android,Organic,Tier-2,25-34,5,Post-Update
+1557,2024-05-02,Web,Google Ads,Tier-2,18-24,5,Post-Update
+1558,2024-03-22,Android,YouTube,Tier-1,45+,3,Post-Update
+1559,2024-01-29,iOS,Organic,Tier-2,18-24,1,Pre-Update
+1560,2024-06-13,iOS,YouTube,Tier-3,18-24,6,Post-Update
+1561,2024-04-20,Web,YouTube,Tier-3,45+,4,Post-Update
+1562,2024-06-19,iOS,Organic,Tier-3,45+,6,Post-Update
+1563,2024-02-01,Web,YouTube,Tier-3,25-34,2,Pre-Update
+1564,2024-03-04,Android,Google Ads,Tier-1,45+,3,Pre-Update
+1565,2024-03-27,Web,YouTube,Tier-3,18-24,3,Post-Update
+1566,2024-06-10,Android,Instagram,Tier-3,18-24,6,Post-Update
+1567,2024-02-11,Web,Organic,Tier-1,18-24,2,Pre-Update
+1568,2024-03-18,Android,Google Ads,Tier-2,25-34,3,Post-Update
+1569,2024-03-24,iOS,Organic,Tier-3,25-34,3,Post-Update
+1570,2024-05-06,Android,Google Ads,Tier-3,18-24,5,Post-Update
+1571,2024-05-26,iOS,YouTube,Tier-1,35-44,5,Post-Update
+1572,2024-01-11,Web,YouTube,Tier-3,18-24,1,Pre-Update
+1573,2024-04-17,Web,Instagram,Tier-2,45+,4,Post-Update
+1574,2024-04-07,Android,Instagram,Tier-2,35-44,4,Post-Update
+1575,2024-04-26,iOS,Instagram,Tier-3,18-24,4,Post-Update
+1576,2024-03-22,Web,Google Ads,Tier-3,45+,3,Post-Update
+1577,2024-06-01,iOS,Organic,Tier-2,18-24,6,Post-Update
+1578,2024-02-16,iOS,Google Ads,Tier-1,18-24,2,Pre-Update
+1579,2024-05-08,Android,Google Ads,Tier-2,45+,5,Post-Update
+1580,2024-02-19,Web,Google Ads,Tier-3,35-44,2,Pre-Update
+1581,2024-04-10,Android,Organic,Tier-2,18-24,4,Post-Update
+1582,2024-03-09,Web,Google Ads,Tier-1,25-34,3,Pre-Update
+1583,2024-02-24,iOS,YouTube,Tier-2,35-44,2,Pre-Update
+1584,2024-02-28,iOS,Instagram,Tier-3,25-34,2,Pre-Update
+1585,2024-06-08,iOS,Instagram,Tier-3,35-44,6,Post-Update
+1586,2024-02-08,Android,Organic,Tier-3,18-24,2,Pre-Update
+1587,2024-06-07,iOS,YouTube,Tier-1,18-24,6,Post-Update
+1588,2024-02-20,Android,Organic,Tier-1,25-34,2,Pre-Update
+1589,2024-06-21,iOS,YouTube,Tier-2,25-34,6,Post-Update
+1590,2024-01-07,iOS,Organic,Tier-1,45+,1,Pre-Update
+1591,2024-06-25,iOS,Organic,Tier-2,18-24,6,Post-Update
+1592,2024-06-20,iOS,Instagram,Tier-2,18-24,6,Post-Update
+1593,2024-05-03,Android,YouTube,Tier-3,45+,5,Post-Update
+1594,2024-04-26,iOS,Instagram,Tier-1,18-24,4,Post-Update
+1595,2024-01-22,iOS,YouTube,Tier-1,18-24,1,Pre-Update
+1596,2024-06-20,iOS,Instagram,Tier-1,25-34,6,Post-Update
+1597,2024-02-29,iOS,YouTube,Tier-2,18-24,2,Pre-Update
+1598,2024-06-28,Web,Instagram,Tier-1,35-44,6,Post-Update
+1599,2024-06-12,Android,YouTube,Tier-2,35-44,6,Post-Update
+1600,2024-05-27,Android,Google Ads,Tier-1,18-24,5,Post-Update
+1601,2024-01-14,Android,YouTube,Tier-3,45+,1,Pre-Update
+1602,2024-01-15,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+1603,2024-06-15,Web,Google Ads,Tier-3,25-34,6,Post-Update
+1604,2024-04-01,Web,YouTube,Tier-1,25-34,4,Post-Update
+1605,2024-04-27,Web,Instagram,Tier-1,35-44,4,Post-Update
+1606,2024-02-19,Android,Instagram,Tier-2,45+,2,Pre-Update
+1607,2024-03-26,Web,Organic,Tier-2,18-24,3,Post-Update
+1608,2024-05-08,iOS,Organic,Tier-1,25-34,5,Post-Update
+1609,2024-01-01,Android,Organic,Tier-2,25-34,1,Pre-Update
+1610,2024-06-18,Android,YouTube,Tier-2,25-34,6,Post-Update
+1611,2024-03-29,Android,Google Ads,Tier-1,18-24,3,Post-Update
+1612,2024-05-15,Web,Instagram,Tier-2,25-34,5,Post-Update
+1613,2024-06-19,iOS,YouTube,Tier-2,35-44,6,Post-Update
+1614,2024-03-11,iOS,Google Ads,Tier-1,35-44,3,Pre-Update
+1615,2024-02-07,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+1616,2024-06-11,Web,Organic,Tier-1,45+,6,Post-Update
+1617,2024-05-20,Web,YouTube,Tier-1,25-34,5,Post-Update
+1618,2024-02-03,Android,Instagram,Tier-1,25-34,2,Pre-Update
+1619,2024-03-11,Android,Google Ads,Tier-3,18-24,3,Pre-Update
+1620,2024-05-16,iOS,YouTube,Tier-1,25-34,5,Post-Update
+1621,2024-05-11,Android,YouTube,Tier-1,18-24,5,Post-Update
+1622,2024-06-27,iOS,Google Ads,Tier-3,25-34,6,Post-Update
+1623,2024-01-31,Web,Instagram,Tier-3,25-34,1,Pre-Update
+1624,2024-05-16,iOS,Organic,Tier-3,18-24,5,Post-Update
+1625,2024-02-03,Android,Instagram,Tier-3,45+,2,Pre-Update
+1626,2024-04-05,iOS,YouTube,Tier-2,25-34,4,Post-Update
+1627,2024-01-09,Web,Google Ads,Tier-3,25-34,1,Pre-Update
+1628,2024-01-17,Web,Google Ads,Tier-2,18-24,1,Pre-Update
+1629,2024-06-12,Web,Instagram,Tier-2,35-44,6,Post-Update
+1630,2024-04-30,iOS,Instagram,Tier-3,35-44,4,Post-Update
+1631,2024-03-17,iOS,Instagram,Tier-1,45+,3,Post-Update
+1632,2024-03-25,iOS,Google Ads,Tier-2,18-24,3,Post-Update
+1633,2024-05-11,iOS,Instagram,Tier-2,25-34,5,Post-Update
+1634,2024-02-09,Android,YouTube,Tier-1,25-34,2,Pre-Update
+1635,2024-04-13,Android,Google Ads,Tier-2,45+,4,Post-Update
+1636,2024-02-12,iOS,Instagram,Tier-2,45+,2,Pre-Update
+1637,2024-01-13,Android,YouTube,Tier-3,35-44,1,Pre-Update
+1638,2024-05-01,Android,Instagram,Tier-2,45+,5,Post-Update
+1639,2024-01-07,Web,Organic,Tier-2,18-24,1,Pre-Update
+1640,2024-03-04,Android,YouTube,Tier-1,25-34,3,Pre-Update
+1641,2024-03-11,iOS,Google Ads,Tier-3,25-34,3,Pre-Update
+1642,2024-05-09,Web,Google Ads,Tier-3,45+,5,Post-Update
+1643,2024-03-08,Android,YouTube,Tier-1,35-44,3,Pre-Update
+1644,2024-03-20,Web,Google Ads,Tier-1,18-24,3,Post-Update
+1645,2024-06-20,iOS,YouTube,Tier-2,45+,6,Post-Update
+1646,2024-03-06,Web,YouTube,Tier-1,25-34,3,Pre-Update
+1647,2024-01-20,Android,Instagram,Tier-3,18-24,1,Pre-Update
+1648,2024-04-02,Web,Instagram,Tier-3,35-44,4,Post-Update
+1649,2024-02-12,iOS,YouTube,Tier-3,18-24,2,Pre-Update
+1650,2024-06-18,Web,Google Ads,Tier-2,18-24,6,Post-Update
+1651,2024-06-24,Android,Google Ads,Tier-2,25-34,6,Post-Update
+1652,2024-05-07,Web,YouTube,Tier-3,18-24,5,Post-Update
+1653,2024-02-14,Android,Organic,Tier-2,35-44,2,Pre-Update
+1654,2024-06-15,Android,Google Ads,Tier-2,25-34,6,Post-Update
+1655,2024-02-28,Android,Google Ads,Tier-2,18-24,2,Pre-Update
+1656,2024-03-26,Web,Organic,Tier-2,35-44,3,Post-Update
+1657,2024-01-04,Android,Instagram,Tier-1,25-34,1,Pre-Update
+1658,2024-01-22,Android,Organic,Tier-3,35-44,1,Pre-Update
+1659,2024-03-16,iOS,Google Ads,Tier-1,18-24,3,Post-Update
+1660,2024-06-07,Android,Instagram,Tier-3,25-34,6,Post-Update
+1661,2024-06-29,Android,Google Ads,Tier-2,35-44,6,Post-Update
+1662,2024-01-24,Android,Instagram,Tier-3,35-44,1,Pre-Update
+1663,2024-06-13,iOS,Google Ads,Tier-3,18-24,6,Post-Update
+1664,2024-05-30,Web,YouTube,Tier-3,45+,5,Post-Update
+1665,2024-04-06,iOS,Google Ads,Tier-3,25-34,4,Post-Update
+1666,2024-05-30,Android,YouTube,Tier-1,18-24,5,Post-Update
+1667,2024-04-22,iOS,Organic,Tier-3,45+,4,Post-Update
+1668,2024-04-28,Android,Instagram,Tier-2,35-44,4,Post-Update
+1669,2024-01-06,Web,Instagram,Tier-3,18-24,1,Pre-Update
+1670,2024-06-01,Web,Instagram,Tier-2,35-44,6,Post-Update
+1671,2024-04-13,Web,YouTube,Tier-1,25-34,4,Post-Update
+1672,2024-02-21,iOS,Instagram,Tier-2,35-44,2,Pre-Update
+1673,2024-02-22,iOS,YouTube,Tier-2,45+,2,Pre-Update
+1674,2024-02-27,Web,Google Ads,Tier-3,35-44,2,Pre-Update
+1675,2024-01-14,iOS,YouTube,Tier-3,18-24,1,Pre-Update
+1676,2024-03-17,Android,Instagram,Tier-3,18-24,3,Post-Update
+1677,2024-03-09,Android,Instagram,Tier-2,18-24,3,Pre-Update
+1678,2024-05-30,iOS,Organic,Tier-2,18-24,5,Post-Update
+1679,2024-04-17,iOS,Google Ads,Tier-2,25-34,4,Post-Update
+1680,2024-06-12,Web,Organic,Tier-1,45+,6,Post-Update
+1681,2024-01-31,iOS,Instagram,Tier-2,25-34,1,Pre-Update
+1682,2024-01-27,Web,Instagram,Tier-1,25-34,1,Pre-Update
+1683,2024-06-20,Android,YouTube,Tier-3,18-24,6,Post-Update
+1684,2024-02-23,Android,Instagram,Tier-3,35-44,2,Pre-Update
+1685,2024-04-19,iOS,YouTube,Tier-2,18-24,4,Post-Update
+1686,2024-01-14,Web,Organic,Tier-2,45+,1,Pre-Update
+1687,2024-06-11,iOS,Organic,Tier-2,18-24,6,Post-Update
+1688,2024-02-09,Android,Google Ads,Tier-1,45+,2,Pre-Update
+1689,2024-06-15,iOS,Instagram,Tier-2,18-24,6,Post-Update
+1690,2024-01-30,Android,Google Ads,Tier-2,35-44,1,Pre-Update
+1691,2024-06-13,Web,Instagram,Tier-2,18-24,6,Post-Update
+1692,2024-06-12,Web,Organic,Tier-2,25-34,6,Post-Update
+1693,2024-02-21,Web,YouTube,Tier-2,25-34,2,Pre-Update
+1694,2024-06-02,iOS,YouTube,Tier-3,18-24,6,Post-Update
+1695,2024-01-06,Android,Google Ads,Tier-3,45+,1,Pre-Update
+1696,2024-05-01,Android,YouTube,Tier-2,18-24,5,Post-Update
+1697,2024-01-29,Android,Google Ads,Tier-2,18-24,1,Pre-Update
+1698,2024-03-16,Web,YouTube,Tier-2,18-24,3,Post-Update
+1699,2024-02-29,iOS,Organic,Tier-2,18-24,2,Pre-Update
+1700,2024-01-17,iOS,Organic,Tier-3,25-34,1,Pre-Update
+1701,2024-02-17,iOS,YouTube,Tier-2,45+,2,Pre-Update
+1702,2024-02-13,Web,Google Ads,Tier-2,25-34,2,Pre-Update
+1703,2024-05-31,Web,Google Ads,Tier-3,18-24,5,Post-Update
+1704,2024-06-12,Web,YouTube,Tier-1,18-24,6,Post-Update
+1705,2024-05-15,Android,Google Ads,Tier-3,18-24,5,Post-Update
+1706,2024-04-10,Android,Instagram,Tier-2,18-24,4,Post-Update
+1707,2024-03-18,Android,Google Ads,Tier-1,25-34,3,Post-Update
+1708,2024-03-11,iOS,Instagram,Tier-3,25-34,3,Pre-Update
+1709,2024-05-18,iOS,Organic,Tier-3,18-24,5,Post-Update
+1710,2024-04-11,Android,Google Ads,Tier-1,25-34,4,Post-Update
+1711,2024-06-20,Android,Organic,Tier-1,25-34,6,Post-Update
+1712,2024-01-16,Android,Instagram,Tier-3,45+,1,Pre-Update
+1713,2024-02-12,Web,Google Ads,Tier-2,25-34,2,Pre-Update
+1714,2024-03-20,iOS,Organic,Tier-2,18-24,3,Post-Update
+1715,2024-01-06,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+1716,2024-02-15,iOS,Google Ads,Tier-1,45+,2,Pre-Update
+1717,2024-01-19,iOS,Instagram,Tier-3,18-24,1,Pre-Update
+1718,2024-06-24,Web,Instagram,Tier-2,18-24,6,Post-Update
+1719,2024-01-06,iOS,Google Ads,Tier-3,45+,1,Pre-Update
+1720,2024-04-04,iOS,YouTube,Tier-1,45+,4,Post-Update
+1721,2024-04-05,Android,YouTube,Tier-2,25-34,4,Post-Update
+1722,2024-01-22,Android,YouTube,Tier-3,35-44,1,Pre-Update
+1723,2024-04-11,iOS,Instagram,Tier-1,45+,4,Post-Update
+1724,2024-03-12,Android,Google Ads,Tier-2,18-24,3,Pre-Update
+1725,2024-06-15,iOS,Organic,Tier-2,45+,6,Post-Update
+1726,2024-02-16,iOS,Google Ads,Tier-2,35-44,2,Pre-Update
+1727,2024-04-01,Android,Google Ads,Tier-2,18-24,4,Post-Update
+1728,2024-02-06,Android,Organic,Tier-2,18-24,2,Pre-Update
+1729,2024-03-22,Android,Google Ads,Tier-2,45+,3,Post-Update
+1730,2024-04-16,iOS,YouTube,Tier-3,25-34,4,Post-Update
+1731,2024-03-05,Web,Google Ads,Tier-1,18-24,3,Pre-Update
+1732,2024-06-13,Android,Google Ads,Tier-1,25-34,6,Post-Update
+1733,2024-01-21,Web,Google Ads,Tier-3,18-24,1,Pre-Update
+1734,2024-04-02,Android,YouTube,Tier-3,35-44,4,Post-Update
+1735,2024-03-04,iOS,Organic,Tier-1,45+,3,Pre-Update
+1736,2024-02-22,Web,YouTube,Tier-3,45+,2,Pre-Update
+1737,2024-06-12,Web,Organic,Tier-3,45+,6,Post-Update
+1738,2024-06-17,Android,Instagram,Tier-2,45+,6,Post-Update
+1739,2024-01-28,Android,Google Ads,Tier-3,35-44,1,Pre-Update
+1740,2024-04-30,iOS,Organic,Tier-2,25-34,4,Post-Update
+1741,2024-06-29,iOS,Google Ads,Tier-1,18-24,6,Post-Update
+1742,2024-03-22,Android,Google Ads,Tier-1,18-24,3,Post-Update
+1743,2024-02-02,iOS,YouTube,Tier-2,18-24,2,Pre-Update
+1744,2024-04-05,Web,Instagram,Tier-1,25-34,4,Post-Update
+1745,2024-06-28,iOS,Google Ads,Tier-3,25-34,6,Post-Update
+1746,2024-04-20,Android,Google Ads,Tier-2,45+,4,Post-Update
+1747,2024-01-06,Android,YouTube,Tier-3,25-34,1,Pre-Update
+1748,2024-05-16,Android,YouTube,Tier-2,25-34,5,Post-Update
+1749,2024-05-25,iOS,Organic,Tier-3,18-24,5,Post-Update
+1750,2024-01-30,iOS,Organic,Tier-3,45+,1,Pre-Update
+1751,2024-05-28,Android,YouTube,Tier-1,18-24,5,Post-Update
+1752,2024-06-25,Web,YouTube,Tier-1,45+,6,Post-Update
+1753,2024-04-21,Web,Instagram,Tier-1,25-34,4,Post-Update
+1754,2024-03-10,iOS,YouTube,Tier-2,25-34,3,Pre-Update
+1755,2024-03-28,Android,Organic,Tier-1,25-34,3,Post-Update
+1756,2024-06-20,Web,Google Ads,Tier-3,25-34,6,Post-Update
+1757,2024-02-11,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+1758,2024-01-18,Android,Organic,Tier-3,18-24,1,Pre-Update
+1759,2024-04-22,iOS,Google Ads,Tier-1,35-44,4,Post-Update
+1760,2024-04-06,Web,Organic,Tier-1,35-44,4,Post-Update
+1761,2024-05-25,iOS,Instagram,Tier-1,18-24,5,Post-Update
+1762,2024-04-13,Web,Instagram,Tier-2,18-24,4,Post-Update
+1763,2024-01-22,Web,Google Ads,Tier-1,18-24,1,Pre-Update
+1764,2024-02-01,Android,Organic,Tier-1,18-24,2,Pre-Update
+1765,2024-04-04,Android,YouTube,Tier-1,25-34,4,Post-Update
+1766,2024-04-06,Web,Organic,Tier-1,25-34,4,Post-Update
+1767,2024-04-19,iOS,Organic,Tier-1,25-34,4,Post-Update
+1768,2024-01-10,iOS,Instagram,Tier-1,45+,1,Pre-Update
+1769,2024-03-15,iOS,YouTube,Tier-2,35-44,3,Post-Update
+1770,2024-05-10,Android,Instagram,Tier-2,18-24,5,Post-Update
+1771,2024-06-23,Android,Google Ads,Tier-1,35-44,6,Post-Update
+1772,2024-01-09,Web,YouTube,Tier-3,18-24,1,Pre-Update
+1773,2024-04-28,iOS,YouTube,Tier-2,35-44,4,Post-Update
+1774,2024-04-22,Android,Instagram,Tier-3,18-24,4,Post-Update
+1775,2024-02-15,Web,Organic,Tier-3,35-44,2,Pre-Update
+1776,2024-01-01,Android,Instagram,Tier-2,18-24,1,Pre-Update
+1777,2024-04-24,Android,Google Ads,Tier-2,45+,4,Post-Update
+1778,2024-05-09,iOS,YouTube,Tier-1,25-34,5,Post-Update
+1779,2024-04-18,Android,Instagram,Tier-3,25-34,4,Post-Update
+1780,2024-06-24,iOS,Google Ads,Tier-3,18-24,6,Post-Update
+1781,2024-05-28,Android,Instagram,Tier-3,45+,5,Post-Update
+1782,2024-02-04,Android,YouTube,Tier-3,25-34,2,Pre-Update
+1783,2024-05-09,iOS,Google Ads,Tier-3,25-34,5,Post-Update
+1784,2024-03-16,Web,YouTube,Tier-3,25-34,3,Post-Update
+1785,2024-02-17,Android,YouTube,Tier-1,18-24,2,Pre-Update
+1786,2024-06-06,Android,YouTube,Tier-3,45+,6,Post-Update
+1787,2024-06-14,Android,Google Ads,Tier-1,25-34,6,Post-Update
+1788,2024-01-27,iOS,YouTube,Tier-3,25-34,1,Pre-Update
+1789,2024-02-20,iOS,Organic,Tier-1,18-24,2,Pre-Update
+1790,2024-01-26,Android,YouTube,Tier-1,45+,1,Pre-Update
+1791,2024-03-20,Web,Instagram,Tier-2,35-44,3,Post-Update
+1792,2024-03-14,Web,Instagram,Tier-1,18-24,3,Pre-Update
+1793,2024-02-23,Android,Google Ads,Tier-2,25-34,2,Pre-Update
+1794,2024-02-20,Android,Google Ads,Tier-1,35-44,2,Pre-Update
+1795,2024-01-30,Android,YouTube,Tier-1,35-44,1,Pre-Update
+1796,2024-04-26,iOS,Instagram,Tier-2,35-44,4,Post-Update
+1797,2024-02-06,Android,Instagram,Tier-3,18-24,2,Pre-Update
+1798,2024-04-04,iOS,Instagram,Tier-2,45+,4,Post-Update
+1799,2024-04-14,Web,YouTube,Tier-3,25-34,4,Post-Update
+1800,2024-04-06,Android,Organic,Tier-2,45+,4,Post-Update
+1801,2024-05-13,Web,Organic,Tier-3,25-34,5,Post-Update
+1802,2024-03-30,Android,YouTube,Tier-2,18-24,3,Post-Update
+1803,2024-05-04,iOS,Organic,Tier-3,45+,5,Post-Update
+1804,2024-01-19,Web,Google Ads,Tier-2,18-24,1,Pre-Update
+1805,2024-02-23,Web,Google Ads,Tier-2,45+,2,Pre-Update
+1806,2024-06-09,Android,YouTube,Tier-2,25-34,6,Post-Update
+1807,2024-02-08,Android,YouTube,Tier-1,18-24,2,Pre-Update
+1808,2024-03-08,Web,YouTube,Tier-2,45+,3,Pre-Update
+1809,2024-05-25,Android,Instagram,Tier-3,25-34,5,Post-Update
+1810,2024-04-23,iOS,Instagram,Tier-3,18-24,4,Post-Update
+1811,2024-04-10,Android,Google Ads,Tier-1,35-44,4,Post-Update
+1812,2024-05-24,iOS,Instagram,Tier-1,35-44,5,Post-Update
+1813,2024-06-10,Android,Instagram,Tier-2,25-34,6,Post-Update
+1814,2024-02-22,Web,Google Ads,Tier-1,45+,2,Pre-Update
+1815,2024-03-23,iOS,YouTube,Tier-2,35-44,3,Post-Update
+1816,2024-04-04,Android,Instagram,Tier-1,18-24,4,Post-Update
+1817,2024-05-22,Web,Instagram,Tier-1,18-24,5,Post-Update
+1818,2024-01-14,iOS,Google Ads,Tier-3,35-44,1,Pre-Update
+1819,2024-05-25,iOS,YouTube,Tier-2,25-34,5,Post-Update
+1820,2024-03-15,Android,Google Ads,Tier-3,18-24,3,Post-Update
+1821,2024-01-14,Web,Instagram,Tier-2,45+,1,Pre-Update
+1822,2024-06-10,Web,Google Ads,Tier-1,35-44,6,Post-Update
+1823,2024-05-16,Android,Instagram,Tier-2,25-34,5,Post-Update
+1824,2024-06-06,iOS,Organic,Tier-2,18-24,6,Post-Update
+1825,2024-02-17,iOS,Organic,Tier-3,25-34,2,Pre-Update
+1826,2024-01-13,Android,Google Ads,Tier-1,25-34,1,Pre-Update
+1827,2024-02-27,iOS,Organic,Tier-1,18-24,2,Pre-Update
+1828,2024-02-21,iOS,Google Ads,Tier-1,18-24,2,Pre-Update
+1829,2024-04-03,iOS,Google Ads,Tier-1,45+,4,Post-Update
+1830,2024-03-17,Web,Organic,Tier-1,25-34,3,Post-Update
+1831,2024-06-29,iOS,YouTube,Tier-1,25-34,6,Post-Update
+1832,2024-05-10,iOS,Google Ads,Tier-3,25-34,5,Post-Update
+1833,2024-02-14,iOS,Google Ads,Tier-1,35-44,2,Pre-Update
+1834,2024-05-04,Android,Google Ads,Tier-2,18-24,5,Post-Update
+1835,2024-04-04,Web,YouTube,Tier-2,25-34,4,Post-Update
+1836,2024-02-17,Android,Organic,Tier-3,25-34,2,Pre-Update
+1837,2024-05-15,iOS,Organic,Tier-2,25-34,5,Post-Update
+1838,2024-02-10,iOS,Google Ads,Tier-2,25-34,2,Pre-Update
+1839,2024-06-13,Web,Instagram,Tier-3,35-44,6,Post-Update
+1840,2024-02-14,Android,YouTube,Tier-1,18-24,2,Pre-Update
+1841,2024-05-21,Android,Google Ads,Tier-2,18-24,5,Post-Update
+1842,2024-06-06,Web,YouTube,Tier-1,25-34,6,Post-Update
+1843,2024-02-21,Web,Instagram,Tier-1,18-24,2,Pre-Update
+1844,2024-05-06,Android,Organic,Tier-3,45+,5,Post-Update
+1845,2024-01-05,Web,Google Ads,Tier-2,18-24,1,Pre-Update
+1846,2024-04-18,iOS,YouTube,Tier-1,18-24,4,Post-Update
+1847,2024-06-11,Web,YouTube,Tier-3,18-24,6,Post-Update
+1848,2024-02-02,Android,Instagram,Tier-1,25-34,2,Pre-Update
+1849,2024-04-13,iOS,Instagram,Tier-1,35-44,4,Post-Update
+1850,2024-03-28,iOS,Organic,Tier-2,35-44,3,Post-Update
+1851,2024-02-26,Android,YouTube,Tier-3,35-44,2,Pre-Update
+1852,2024-06-29,iOS,Google Ads,Tier-2,45+,6,Post-Update
+1853,2024-03-27,Web,Google Ads,Tier-1,18-24,3,Post-Update
+1854,2024-04-08,Android,Organic,Tier-1,45+,4,Post-Update
+1855,2024-03-16,Web,YouTube,Tier-1,25-34,3,Post-Update
+1856,2024-02-06,iOS,Google Ads,Tier-1,25-34,2,Pre-Update
+1857,2024-04-05,Web,Instagram,Tier-2,18-24,4,Post-Update
+1858,2024-02-13,Web,YouTube,Tier-1,45+,2,Pre-Update
+1859,2024-04-25,Android,Google Ads,Tier-1,25-34,4,Post-Update
+1860,2024-06-26,Android,YouTube,Tier-3,35-44,6,Post-Update
+1861,2024-01-04,iOS,Google Ads,Tier-2,45+,1,Pre-Update
+1862,2024-03-13,iOS,Organic,Tier-2,25-34,3,Pre-Update
+1863,2024-02-17,iOS,Google Ads,Tier-2,25-34,2,Pre-Update
+1864,2024-05-20,Android,Google Ads,Tier-3,25-34,5,Post-Update
+1865,2024-03-27,Android,Google Ads,Tier-2,25-34,3,Post-Update
+1866,2024-02-22,Android,YouTube,Tier-2,45+,2,Pre-Update
+1867,2024-06-07,iOS,Organic,Tier-3,45+,6,Post-Update
+1868,2024-06-08,iOS,Organic,Tier-1,18-24,6,Post-Update
+1869,2024-02-20,Android,Instagram,Tier-3,45+,2,Pre-Update
+1870,2024-02-08,iOS,Instagram,Tier-2,35-44,2,Pre-Update
+1871,2024-03-31,Web,Google Ads,Tier-2,25-34,3,Post-Update
+1872,2024-05-25,iOS,Instagram,Tier-2,25-34,5,Post-Update
+1873,2024-04-01,Android,YouTube,Tier-2,18-24,4,Post-Update
+1874,2024-04-04,Android,Google Ads,Tier-2,18-24,4,Post-Update
+1875,2024-03-14,Android,YouTube,Tier-2,35-44,3,Pre-Update
+1876,2024-02-12,Web,Instagram,Tier-1,35-44,2,Pre-Update
+1877,2024-06-28,Web,Organic,Tier-2,25-34,6,Post-Update
+1878,2024-03-21,Android,Google Ads,Tier-2,35-44,3,Post-Update
+1879,2024-04-26,Android,Instagram,Tier-3,35-44,4,Post-Update
+1880,2024-06-06,Web,Google Ads,Tier-1,25-34,6,Post-Update
+1881,2024-04-28,Android,Instagram,Tier-3,18-24,4,Post-Update
+1882,2024-04-05,iOS,Google Ads,Tier-1,35-44,4,Post-Update
+1883,2024-03-12,Android,Instagram,Tier-1,18-24,3,Pre-Update
+1884,2024-06-28,iOS,Instagram,Tier-2,18-24,6,Post-Update
+1885,2024-03-04,Android,Google Ads,Tier-2,18-24,3,Pre-Update
+1886,2024-04-27,iOS,Organic,Tier-2,25-34,4,Post-Update
+1887,2024-06-25,iOS,Instagram,Tier-2,18-24,6,Post-Update
+1888,2024-05-31,iOS,YouTube,Tier-1,45+,5,Post-Update
+1889,2024-02-08,iOS,YouTube,Tier-2,25-34,2,Pre-Update
+1890,2024-01-29,iOS,Google Ads,Tier-2,18-24,1,Pre-Update
+1891,2024-06-07,Android,Instagram,Tier-1,25-34,6,Post-Update
+1892,2024-05-19,Web,YouTube,Tier-2,45+,5,Post-Update
+1893,2024-04-25,Android,Organic,Tier-3,25-34,4,Post-Update
+1894,2024-04-20,iOS,Organic,Tier-2,35-44,4,Post-Update
+1895,2024-06-14,Web,Instagram,Tier-2,18-24,6,Post-Update
+1896,2024-03-29,Web,Instagram,Tier-2,18-24,3,Post-Update
+1897,2024-04-19,Android,Organic,Tier-3,18-24,4,Post-Update
+1898,2024-06-08,Android,Organic,Tier-1,25-34,6,Post-Update
+1899,2024-03-11,iOS,Instagram,Tier-1,35-44,3,Pre-Update
+1900,2024-01-31,iOS,Instagram,Tier-3,45+,1,Pre-Update
+1901,2024-01-01,Android,Organic,Tier-1,25-34,1,Pre-Update
+1902,2024-01-29,Android,Instagram,Tier-3,35-44,1,Pre-Update
+1903,2024-01-13,iOS,Instagram,Tier-3,35-44,1,Pre-Update
+1904,2024-06-18,Android,Google Ads,Tier-2,45+,6,Post-Update
+1905,2024-05-25,Web,Instagram,Tier-3,18-24,5,Post-Update
+1906,2024-04-06,Android,Google Ads,Tier-3,18-24,4,Post-Update
+1907,2024-05-02,Android,Google Ads,Tier-1,18-24,5,Post-Update
+1908,2024-05-04,Android,Google Ads,Tier-1,45+,5,Post-Update
+1909,2024-05-30,Web,Google Ads,Tier-2,35-44,5,Post-Update
+1910,2024-04-05,Android,Instagram,Tier-3,35-44,4,Post-Update
+1911,2024-02-06,iOS,Google Ads,Tier-1,45+,2,Pre-Update
+1912,2024-01-22,iOS,YouTube,Tier-1,45+,1,Pre-Update
+1913,2024-04-26,iOS,Google Ads,Tier-2,18-24,4,Post-Update
+1914,2024-01-06,Android,Organic,Tier-2,18-24,1,Pre-Update
+1915,2024-01-20,Android,Organic,Tier-3,35-44,1,Pre-Update
+1916,2024-01-30,iOS,Instagram,Tier-3,35-44,1,Pre-Update
+1917,2024-02-13,Web,Google Ads,Tier-1,45+,2,Pre-Update
+1918,2024-01-01,iOS,Organic,Tier-2,18-24,1,Pre-Update
+1919,2024-05-18,Web,Organic,Tier-3,35-44,5,Post-Update
+1920,2024-01-22,iOS,Google Ads,Tier-1,25-34,1,Pre-Update
+1921,2024-03-12,iOS,Google Ads,Tier-2,25-34,3,Pre-Update
+1922,2024-06-25,iOS,YouTube,Tier-1,25-34,6,Post-Update
+1923,2024-02-25,Web,Organic,Tier-1,45+,2,Pre-Update
+1924,2024-05-31,Web,Organic,Tier-2,25-34,5,Post-Update
+1925,2024-05-26,Web,YouTube,Tier-3,18-24,5,Post-Update
+1926,2024-02-29,Android,YouTube,Tier-1,35-44,2,Pre-Update
+1927,2024-06-28,iOS,Instagram,Tier-1,18-24,6,Post-Update
+1928,2024-06-04,Web,YouTube,Tier-2,25-34,6,Post-Update
+1929,2024-06-21,Web,Google Ads,Tier-3,45+,6,Post-Update
+1930,2024-01-03,Web,Instagram,Tier-2,18-24,1,Pre-Update
+1931,2024-05-08,Android,YouTube,Tier-2,18-24,5,Post-Update
+1932,2024-01-27,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+1933,2024-04-07,iOS,Instagram,Tier-2,35-44,4,Post-Update
+1934,2024-06-21,Web,YouTube,Tier-3,18-24,6,Post-Update
+1935,2024-05-19,Android,Organic,Tier-1,25-34,5,Post-Update
+1936,2024-04-16,Web,Instagram,Tier-3,45+,4,Post-Update
+1937,2024-01-01,Android,Google Ads,Tier-1,25-34,1,Pre-Update
+1938,2024-03-15,Android,Instagram,Tier-2,25-34,3,Post-Update
+1939,2024-03-01,Web,YouTube,Tier-3,18-24,3,Pre-Update
+1940,2024-04-24,Android,Google Ads,Tier-2,18-24,4,Post-Update
+1941,2024-01-25,iOS,Google Ads,Tier-2,25-34,1,Pre-Update
+1942,2024-04-25,iOS,Google Ads,Tier-1,45+,4,Post-Update
+1943,2024-05-31,iOS,YouTube,Tier-3,45+,5,Post-Update
+1944,2024-05-19,iOS,Organic,Tier-3,35-44,5,Post-Update
+1945,2024-01-20,iOS,Organic,Tier-2,45+,1,Pre-Update
+1946,2024-01-09,iOS,Instagram,Tier-3,25-34,1,Pre-Update
+1947,2024-03-04,Android,Instagram,Tier-2,18-24,3,Pre-Update
+1948,2024-02-24,iOS,Instagram,Tier-3,45+,2,Pre-Update
+1949,2024-03-16,Android,Google Ads,Tier-1,18-24,3,Post-Update
+1950,2024-03-29,iOS,Google Ads,Tier-2,25-34,3,Post-Update
+1951,2024-02-04,Web,YouTube,Tier-1,45+,2,Pre-Update
+1952,2024-06-18,iOS,Google Ads,Tier-3,18-24,6,Post-Update
+1953,2024-06-11,Android,Organic,Tier-1,25-34,6,Post-Update
+1954,2024-01-26,Web,Google Ads,Tier-1,25-34,1,Pre-Update
+1955,2024-04-09,iOS,Instagram,Tier-1,35-44,4,Post-Update
+1956,2024-03-12,iOS,Google Ads,Tier-3,35-44,3,Pre-Update
+1957,2024-02-17,Web,Google Ads,Tier-2,35-44,2,Pre-Update
+1958,2024-04-14,Web,Organic,Tier-2,25-34,4,Post-Update
+1959,2024-03-12,Web,Instagram,Tier-3,45+,3,Pre-Update
+1960,2024-05-26,Android,Google Ads,Tier-1,25-34,5,Post-Update
+1961,2024-03-22,Web,Google Ads,Tier-3,35-44,3,Post-Update
+1962,2024-06-25,Web,Google Ads,Tier-1,18-24,6,Post-Update
+1963,2024-02-22,iOS,YouTube,Tier-2,35-44,2,Pre-Update
+1964,2024-01-10,Android,YouTube,Tier-2,45+,1,Pre-Update
+1965,2024-03-06,Web,Google Ads,Tier-3,25-34,3,Pre-Update
+1966,2024-04-05,Android,Google Ads,Tier-2,25-34,4,Post-Update
+1967,2024-05-19,iOS,Google Ads,Tier-2,45+,5,Post-Update
+1968,2024-05-25,Android,Organic,Tier-1,25-34,5,Post-Update
+1969,2024-06-08,Web,Instagram,Tier-1,45+,6,Post-Update
+1970,2024-05-16,iOS,Instagram,Tier-2,25-34,5,Post-Update
+1971,2024-06-09,Android,Instagram,Tier-1,45+,6,Post-Update
+1972,2024-06-09,Web,Google Ads,Tier-1,35-44,6,Post-Update
+1973,2024-03-24,iOS,Organic,Tier-3,18-24,3,Post-Update
+1974,2024-04-23,Web,Google Ads,Tier-1,18-24,4,Post-Update
+1975,2024-01-24,iOS,Instagram,Tier-2,35-44,1,Pre-Update
+1976,2024-05-08,iOS,Organic,Tier-2,18-24,5,Post-Update
+1977,2024-05-07,Web,Instagram,Tier-2,25-34,5,Post-Update
+1978,2024-01-14,Android,Organic,Tier-1,35-44,1,Pre-Update
+1979,2024-05-08,Android,YouTube,Tier-2,25-34,5,Post-Update
+1980,2024-01-20,Web,Instagram,Tier-2,25-34,1,Pre-Update
+1981,2024-06-20,Web,Instagram,Tier-1,45+,6,Post-Update
+1982,2024-06-11,Web,Google Ads,Tier-1,45+,6,Post-Update
+1983,2024-05-22,Web,YouTube,Tier-1,18-24,5,Post-Update
+1984,2024-03-20,iOS,Google Ads,Tier-1,25-34,3,Post-Update
+1985,2024-03-14,iOS,Google Ads,Tier-2,25-34,3,Pre-Update
+1986,2024-05-03,iOS,Organic,Tier-2,18-24,5,Post-Update
+1987,2024-05-14,Web,YouTube,Tier-2,18-24,5,Post-Update
+1988,2024-03-27,iOS,Organic,Tier-3,45+,3,Post-Update
+1989,2024-06-05,Web,YouTube,Tier-3,25-34,6,Post-Update
+1990,2024-03-18,iOS,YouTube,Tier-2,25-34,3,Post-Update
+1991,2024-03-27,iOS,Organic,Tier-3,35-44,3,Post-Update
+1992,2024-03-06,Android,Instagram,Tier-1,25-34,3,Pre-Update
+1993,2024-03-08,iOS,Instagram,Tier-1,25-34,3,Pre-Update
+1994,2024-04-19,Web,YouTube,Tier-3,35-44,4,Post-Update
+1995,2024-02-04,Android,Organic,Tier-1,18-24,2,Pre-Update
+1996,2024-01-09,iOS,Organic,Tier-1,25-34,1,Pre-Update
+1997,2024-06-04,iOS,Google Ads,Tier-2,18-24,6,Post-Update
+1998,2024-03-14,Android,Instagram,Tier-3,35-44,3,Pre-Update
+1999,2024-05-11,Android,Instagram,Tier-1,35-44,5,Post-Update
+2000,2024-01-09,iOS,Google Ads,Tier-3,18-24,1,Pre-Update
+2001,2024-06-23,Android,Instagram,Tier-1,25-34,6,Post-Update
+2002,2024-05-08,Android,Google Ads,Tier-1,35-44,5,Post-Update
+2003,2024-01-22,iOS,Organic,Tier-3,25-34,1,Pre-Update
+2004,2024-06-19,Web,YouTube,Tier-3,18-24,6,Post-Update
+2005,2024-05-17,iOS,Instagram,Tier-3,18-24,5,Post-Update
+2006,2024-04-27,Web,Instagram,Tier-2,35-44,4,Post-Update
+2007,2024-04-10,Android,YouTube,Tier-3,45+,4,Post-Update
+2008,2024-01-17,Web,YouTube,Tier-1,25-34,1,Pre-Update
+2009,2024-06-12,iOS,Google Ads,Tier-3,25-34,6,Post-Update
+2010,2024-05-13,Android,Google Ads,Tier-1,18-24,5,Post-Update
+2011,2024-01-24,Android,Instagram,Tier-2,18-24,1,Pre-Update
+2012,2024-04-19,Android,Organic,Tier-2,45+,4,Post-Update
+2013,2024-01-31,iOS,Instagram,Tier-2,25-34,1,Pre-Update
+2014,2024-02-13,iOS,Google Ads,Tier-3,18-24,2,Pre-Update
+2015,2024-01-15,Web,YouTube,Tier-1,45+,1,Pre-Update
+2016,2024-01-07,iOS,Organic,Tier-3,25-34,1,Pre-Update
+2017,2024-03-15,iOS,Instagram,Tier-1,45+,3,Post-Update
+2018,2024-04-03,Android,Instagram,Tier-3,18-24,4,Post-Update
+2019,2024-06-25,Android,Organic,Tier-3,35-44,6,Post-Update
+2020,2024-04-10,Web,Google Ads,Tier-1,45+,4,Post-Update
+2021,2024-02-07,Android,Google Ads,Tier-2,35-44,2,Pre-Update
+2022,2024-03-05,Web,Organic,Tier-2,18-24,3,Pre-Update
+2023,2024-04-19,Android,Organic,Tier-2,25-34,4,Post-Update
+2024,2024-04-18,iOS,Google Ads,Tier-1,18-24,4,Post-Update
+2025,2024-05-01,Android,Organic,Tier-2,25-34,5,Post-Update
+2026,2024-06-16,iOS,Google Ads,Tier-2,25-34,6,Post-Update
+2027,2024-06-03,iOS,YouTube,Tier-2,18-24,6,Post-Update
+2028,2024-05-28,iOS,Google Ads,Tier-3,18-24,5,Post-Update
+2029,2024-02-13,Web,Instagram,Tier-1,35-44,2,Pre-Update
+2030,2024-03-11,Web,Instagram,Tier-3,35-44,3,Pre-Update
+2031,2024-05-22,Web,Instagram,Tier-2,45+,5,Post-Update
+2032,2024-03-23,Android,YouTube,Tier-3,18-24,3,Post-Update
+2033,2024-01-09,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+2034,2024-05-03,iOS,Google Ads,Tier-1,18-24,5,Post-Update
+2035,2024-03-08,Android,Google Ads,Tier-3,45+,3,Pre-Update
+2036,2024-06-18,iOS,Google Ads,Tier-1,18-24,6,Post-Update
+2037,2024-06-24,Android,Organic,Tier-1,45+,6,Post-Update
+2038,2024-05-02,Android,YouTube,Tier-3,45+,5,Post-Update
+2039,2024-01-24,iOS,Organic,Tier-2,25-34,1,Pre-Update
+2040,2024-04-12,iOS,Google Ads,Tier-3,18-24,4,Post-Update
+2041,2024-06-02,Web,Google Ads,Tier-2,25-34,6,Post-Update
+2042,2024-04-11,Android,Organic,Tier-3,45+,4,Post-Update
+2043,2024-01-15,Android,Google Ads,Tier-2,18-24,1,Pre-Update
+2044,2024-04-01,Web,Instagram,Tier-3,45+,4,Post-Update
+2045,2024-03-31,Web,Instagram,Tier-2,25-34,3,Post-Update
+2046,2024-04-22,Web,Google Ads,Tier-2,35-44,4,Post-Update
+2047,2024-03-25,Android,Instagram,Tier-3,25-34,3,Post-Update
+2048,2024-04-19,Android,Google Ads,Tier-1,18-24,4,Post-Update
+2049,2024-01-10,iOS,Organic,Tier-1,45+,1,Pre-Update
+2050,2024-06-02,iOS,Google Ads,Tier-1,25-34,6,Post-Update
+2051,2024-06-10,iOS,Instagram,Tier-1,25-34,6,Post-Update
+2052,2024-05-15,Android,Google Ads,Tier-2,18-24,5,Post-Update
+2053,2024-01-21,Android,YouTube,Tier-2,18-24,1,Pre-Update
+2054,2024-05-30,Android,Google Ads,Tier-1,25-34,5,Post-Update
+2055,2024-04-01,Web,YouTube,Tier-2,18-24,4,Post-Update
+2056,2024-06-21,iOS,Organic,Tier-2,18-24,6,Post-Update
+2057,2024-01-08,Android,Instagram,Tier-2,45+,1,Pre-Update
+2058,2024-02-06,iOS,Organic,Tier-3,45+,2,Pre-Update
+2059,2024-03-18,Android,YouTube,Tier-3,18-24,3,Post-Update
+2060,2024-03-20,Android,Google Ads,Tier-2,35-44,3,Post-Update
+2061,2024-04-29,Android,Google Ads,Tier-2,18-24,4,Post-Update
+2062,2024-04-13,Android,Google Ads,Tier-2,35-44,4,Post-Update
+2063,2024-03-02,Web,Organic,Tier-3,25-34,3,Pre-Update
+2064,2024-04-07,Web,YouTube,Tier-3,35-44,4,Post-Update
+2065,2024-05-17,Web,Organic,Tier-2,18-24,5,Post-Update
+2066,2024-03-02,Web,YouTube,Tier-3,45+,3,Pre-Update
+2067,2024-04-04,Web,YouTube,Tier-3,18-24,4,Post-Update
+2068,2024-01-14,iOS,Instagram,Tier-2,18-24,1,Pre-Update
+2069,2024-03-27,Web,Google Ads,Tier-2,25-34,3,Post-Update
+2070,2024-01-08,iOS,Google Ads,Tier-1,35-44,1,Pre-Update
+2071,2024-04-26,Android,Google Ads,Tier-3,25-34,4,Post-Update
+2072,2024-03-06,Web,Google Ads,Tier-1,25-34,3,Pre-Update
+2073,2024-01-21,Android,Instagram,Tier-2,45+,1,Pre-Update
+2074,2024-05-17,Web,Google Ads,Tier-2,18-24,5,Post-Update
+2075,2024-06-18,Android,YouTube,Tier-1,25-34,6,Post-Update
+2076,2024-01-03,iOS,YouTube,Tier-1,18-24,1,Pre-Update
+2077,2024-04-04,Web,Organic,Tier-2,18-24,4,Post-Update
+2078,2024-01-30,iOS,Organic,Tier-1,25-34,1,Pre-Update
+2079,2024-02-02,iOS,Organic,Tier-1,45+,2,Pre-Update
+2080,2024-02-28,iOS,Organic,Tier-2,45+,2,Pre-Update
+2081,2024-03-23,Web,Organic,Tier-2,18-24,3,Post-Update
+2082,2024-02-13,Android,Organic,Tier-2,18-24,2,Pre-Update
+2083,2024-01-06,iOS,Instagram,Tier-2,18-24,1,Pre-Update
+2084,2024-06-14,iOS,Google Ads,Tier-1,45+,6,Post-Update
+2085,2024-03-22,Android,YouTube,Tier-2,25-34,3,Post-Update
+2086,2024-01-05,iOS,Organic,Tier-1,35-44,1,Pre-Update
+2087,2024-03-25,Web,Google Ads,Tier-2,18-24,3,Post-Update
+2088,2024-06-09,Android,Google Ads,Tier-2,18-24,6,Post-Update
+2089,2024-06-16,iOS,YouTube,Tier-1,45+,6,Post-Update
+2090,2024-06-18,iOS,YouTube,Tier-1,18-24,6,Post-Update
+2091,2024-05-04,Web,Google Ads,Tier-1,45+,5,Post-Update
+2092,2024-02-01,Web,YouTube,Tier-2,25-34,2,Pre-Update
+2093,2024-02-23,Android,Organic,Tier-1,45+,2,Pre-Update
+2094,2024-06-22,Web,Instagram,Tier-1,18-24,6,Post-Update
+2095,2024-04-20,Web,Google Ads,Tier-2,45+,4,Post-Update
+2096,2024-01-26,Android,YouTube,Tier-2,25-34,1,Pre-Update
+2097,2024-04-14,Android,Google Ads,Tier-1,18-24,4,Post-Update
+2098,2024-04-12,Android,YouTube,Tier-2,35-44,4,Post-Update
+2099,2024-02-15,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+2100,2024-05-23,Android,Google Ads,Tier-3,35-44,5,Post-Update
+2101,2024-03-06,iOS,Instagram,Tier-1,35-44,3,Pre-Update
+2102,2024-01-11,Web,Google Ads,Tier-3,25-34,1,Pre-Update
+2103,2024-06-23,iOS,YouTube,Tier-1,45+,6,Post-Update
+2104,2024-06-10,Android,Instagram,Tier-3,18-24,6,Post-Update
+2105,2024-06-04,iOS,YouTube,Tier-2,35-44,6,Post-Update
+2106,2024-01-07,iOS,Instagram,Tier-2,25-34,1,Pre-Update
+2107,2024-03-07,Android,Organic,Tier-2,45+,3,Pre-Update
+2108,2024-02-12,Web,Instagram,Tier-2,25-34,2,Pre-Update
+2109,2024-01-26,Android,YouTube,Tier-1,18-24,1,Pre-Update
+2110,2024-01-26,Web,Google Ads,Tier-3,25-34,1,Pre-Update
+2111,2024-02-29,iOS,Organic,Tier-2,18-24,2,Pre-Update
+2112,2024-06-11,Android,Instagram,Tier-1,25-34,6,Post-Update
+2113,2024-01-20,Web,YouTube,Tier-1,45+,1,Pre-Update
+2114,2024-03-04,iOS,YouTube,Tier-3,45+,3,Pre-Update
+2115,2024-04-22,Web,Google Ads,Tier-2,18-24,4,Post-Update
+2116,2024-06-11,Web,Google Ads,Tier-2,18-24,6,Post-Update
+2117,2024-04-09,Android,Google Ads,Tier-2,25-34,4,Post-Update
+2118,2024-05-16,Android,Instagram,Tier-2,45+,5,Post-Update
+2119,2024-05-11,Android,Google Ads,Tier-3,35-44,5,Post-Update
+2120,2024-01-09,iOS,Google Ads,Tier-2,35-44,1,Pre-Update
+2121,2024-05-31,Android,Organic,Tier-1,25-34,5,Post-Update
+2122,2024-05-25,iOS,Google Ads,Tier-3,18-24,5,Post-Update
+2123,2024-06-06,Web,YouTube,Tier-1,18-24,6,Post-Update
+2124,2024-06-14,Android,Instagram,Tier-2,18-24,6,Post-Update
+2125,2024-01-22,iOS,Google Ads,Tier-2,25-34,1,Pre-Update
+2126,2024-05-03,iOS,Organic,Tier-2,18-24,5,Post-Update
+2127,2024-01-13,Android,Google Ads,Tier-2,18-24,1,Pre-Update
+2128,2024-03-24,Android,YouTube,Tier-1,35-44,3,Post-Update
+2129,2024-05-27,Android,YouTube,Tier-1,35-44,5,Post-Update
+2130,2024-02-19,Web,YouTube,Tier-2,25-34,2,Pre-Update
+2131,2024-01-25,Android,Organic,Tier-1,35-44,1,Pre-Update
+2132,2024-04-27,iOS,Organic,Tier-2,18-24,4,Post-Update
+2133,2024-05-10,Android,Google Ads,Tier-1,35-44,5,Post-Update
+2134,2024-05-06,Android,Instagram,Tier-3,35-44,5,Post-Update
+2135,2024-04-09,iOS,Google Ads,Tier-2,18-24,4,Post-Update
+2136,2024-03-16,Android,Google Ads,Tier-3,18-24,3,Post-Update
+2137,2024-03-25,iOS,Google Ads,Tier-3,45+,3,Post-Update
+2138,2024-05-21,Android,YouTube,Tier-1,25-34,5,Post-Update
+2139,2024-03-09,iOS,YouTube,Tier-1,35-44,3,Pre-Update
+2140,2024-04-09,iOS,Instagram,Tier-3,35-44,4,Post-Update
+2141,2024-02-05,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+2142,2024-02-03,Web,Google Ads,Tier-2,18-24,2,Pre-Update
+2143,2024-04-28,Android,Instagram,Tier-3,25-34,4,Post-Update
+2144,2024-06-01,Android,Instagram,Tier-3,18-24,6,Post-Update
+2145,2024-02-18,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+2146,2024-05-27,Web,Instagram,Tier-1,18-24,5,Post-Update
+2147,2024-03-25,Android,YouTube,Tier-2,18-24,3,Post-Update
+2148,2024-02-14,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+2149,2024-02-11,iOS,YouTube,Tier-3,45+,2,Pre-Update
+2150,2024-05-10,iOS,Google Ads,Tier-3,18-24,5,Post-Update
+2151,2024-01-04,Android,Instagram,Tier-2,45+,1,Pre-Update
+2152,2024-03-05,Android,YouTube,Tier-3,25-34,3,Pre-Update
+2153,2024-01-06,iOS,Google Ads,Tier-1,18-24,1,Pre-Update
+2154,2024-05-22,Android,Google Ads,Tier-3,18-24,5,Post-Update
+2155,2024-03-11,Android,Google Ads,Tier-1,18-24,3,Pre-Update
+2156,2024-01-15,iOS,Organic,Tier-1,35-44,1,Pre-Update
+2157,2024-01-29,iOS,Google Ads,Tier-2,35-44,1,Pre-Update
+2158,2024-02-13,iOS,Organic,Tier-3,45+,2,Pre-Update
+2159,2024-02-28,iOS,Instagram,Tier-1,25-34,2,Pre-Update
+2160,2024-04-26,iOS,YouTube,Tier-2,25-34,4,Post-Update
+2161,2024-05-16,Android,Google Ads,Tier-2,18-24,5,Post-Update
+2162,2024-02-23,iOS,Google Ads,Tier-1,25-34,2,Pre-Update
+2163,2024-03-22,Web,Organic,Tier-1,18-24,3,Post-Update
+2164,2024-06-29,iOS,Google Ads,Tier-1,35-44,6,Post-Update
+2165,2024-03-13,Web,YouTube,Tier-3,45+,3,Pre-Update
+2166,2024-01-22,iOS,Organic,Tier-1,35-44,1,Pre-Update
+2167,2024-02-09,Android,Google Ads,Tier-3,35-44,2,Pre-Update
+2168,2024-03-26,Web,Instagram,Tier-2,25-34,3,Post-Update
+2169,2024-01-18,Android,Google Ads,Tier-3,35-44,1,Pre-Update
+2170,2024-04-11,Android,Google Ads,Tier-2,25-34,4,Post-Update
+2171,2024-05-17,iOS,Instagram,Tier-2,18-24,5,Post-Update
+2172,2024-05-29,Android,Google Ads,Tier-1,25-34,5,Post-Update
+2173,2024-04-27,Web,Google Ads,Tier-2,18-24,4,Post-Update
+2174,2024-05-22,Web,Google Ads,Tier-1,35-44,5,Post-Update
+2175,2024-01-28,Android,Instagram,Tier-2,25-34,1,Pre-Update
+2176,2024-04-10,Web,YouTube,Tier-3,18-24,4,Post-Update
+2177,2024-06-10,iOS,Instagram,Tier-2,25-34,6,Post-Update
+2178,2024-04-07,Web,Google Ads,Tier-2,18-24,4,Post-Update
+2179,2024-02-21,Android,Instagram,Tier-3,25-34,2,Pre-Update
+2180,2024-01-08,Web,Organic,Tier-3,25-34,1,Pre-Update
+2181,2024-03-06,iOS,Organic,Tier-2,35-44,3,Pre-Update
+2182,2024-06-15,iOS,Instagram,Tier-3,35-44,6,Post-Update
+2183,2024-05-11,Android,YouTube,Tier-2,25-34,5,Post-Update
+2184,2024-01-02,Android,Instagram,Tier-3,45+,1,Pre-Update
+2185,2024-03-04,iOS,YouTube,Tier-1,35-44,3,Pre-Update
+2186,2024-06-27,iOS,YouTube,Tier-2,45+,6,Post-Update
+2187,2024-01-04,Web,Instagram,Tier-1,18-24,1,Pre-Update
+2188,2024-03-21,Android,Google Ads,Tier-3,25-34,3,Post-Update
+2189,2024-02-26,Web,Instagram,Tier-2,25-34,2,Pre-Update
+2190,2024-03-16,Android,Google Ads,Tier-3,35-44,3,Post-Update
+2191,2024-03-23,Web,Instagram,Tier-1,18-24,3,Post-Update
+2192,2024-05-09,Android,YouTube,Tier-3,45+,5,Post-Update
+2193,2024-05-07,Android,Organic,Tier-2,35-44,5,Post-Update
+2194,2024-01-01,iOS,Google Ads,Tier-1,35-44,1,Pre-Update
+2195,2024-05-18,Android,Instagram,Tier-2,45+,5,Post-Update
+2196,2024-05-24,Android,Organic,Tier-3,18-24,5,Post-Update
+2197,2024-05-23,Android,Google Ads,Tier-2,35-44,5,Post-Update
+2198,2024-05-11,Web,Instagram,Tier-3,25-34,5,Post-Update
+2199,2024-04-08,Android,Instagram,Tier-1,25-34,4,Post-Update
+2200,2024-03-15,iOS,Google Ads,Tier-3,35-44,3,Post-Update
+2201,2024-05-28,Web,YouTube,Tier-3,18-24,5,Post-Update
+2202,2024-06-13,Android,Organic,Tier-3,45+,6,Post-Update
+2203,2024-03-01,iOS,YouTube,Tier-2,45+,3,Pre-Update
+2204,2024-01-29,Web,Google Ads,Tier-3,35-44,1,Pre-Update
+2205,2024-03-17,Web,Google Ads,Tier-1,18-24,3,Post-Update
+2206,2024-02-20,iOS,Instagram,Tier-3,25-34,2,Pre-Update
+2207,2024-06-12,Web,Organic,Tier-1,45+,6,Post-Update
+2208,2024-03-16,iOS,Instagram,Tier-1,35-44,3,Post-Update
+2209,2024-04-07,Web,Organic,Tier-2,25-34,4,Post-Update
+2210,2024-05-31,Android,Google Ads,Tier-2,18-24,5,Post-Update
+2211,2024-03-29,Android,Google Ads,Tier-1,45+,3,Post-Update
+2212,2024-03-16,iOS,Google Ads,Tier-3,25-34,3,Post-Update
+2213,2024-03-20,iOS,YouTube,Tier-1,18-24,3,Post-Update
+2214,2024-05-20,Android,YouTube,Tier-2,35-44,5,Post-Update
+2215,2024-04-13,Web,YouTube,Tier-2,18-24,4,Post-Update
+2216,2024-03-01,iOS,Organic,Tier-2,18-24,3,Pre-Update
+2217,2024-06-12,Android,Instagram,Tier-1,25-34,6,Post-Update
+2218,2024-01-29,Android,Google Ads,Tier-1,25-34,1,Pre-Update
+2219,2024-04-23,Android,Google Ads,Tier-2,18-24,4,Post-Update
+2220,2024-02-08,Android,Instagram,Tier-3,18-24,2,Pre-Update
+2221,2024-02-08,iOS,Organic,Tier-1,45+,2,Pre-Update
+2222,2024-03-23,Android,Instagram,Tier-3,25-34,3,Post-Update
+2223,2024-03-07,iOS,Google Ads,Tier-1,18-24,3,Pre-Update
+2224,2024-06-09,Android,YouTube,Tier-3,18-24,6,Post-Update
+2225,2024-03-14,Web,Instagram,Tier-1,18-24,3,Pre-Update
+2226,2024-04-20,Web,Google Ads,Tier-1,35-44,4,Post-Update
+2227,2024-04-04,Android,YouTube,Tier-1,45+,4,Post-Update
+2228,2024-05-27,Android,YouTube,Tier-2,18-24,5,Post-Update
+2229,2024-06-02,Web,Instagram,Tier-1,35-44,6,Post-Update
+2230,2024-01-22,Android,Instagram,Tier-1,18-24,1,Pre-Update
+2231,2024-01-31,Android,Instagram,Tier-1,35-44,1,Pre-Update
+2232,2024-04-19,iOS,Google Ads,Tier-2,25-34,4,Post-Update
+2233,2024-03-26,Web,Organic,Tier-3,35-44,3,Post-Update
+2234,2024-01-23,Android,Organic,Tier-1,45+,1,Pre-Update
+2235,2024-01-14,iOS,Organic,Tier-1,35-44,1,Pre-Update
+2236,2024-05-22,Android,Google Ads,Tier-2,45+,5,Post-Update
+2237,2024-03-18,iOS,Organic,Tier-1,25-34,3,Post-Update
+2238,2024-03-05,Web,Organic,Tier-2,18-24,3,Pre-Update
+2239,2024-05-16,Android,Organic,Tier-1,45+,5,Post-Update
+2240,2024-03-24,Web,YouTube,Tier-1,25-34,3,Post-Update
+2241,2024-05-29,iOS,YouTube,Tier-1,18-24,5,Post-Update
+2242,2024-01-27,Web,YouTube,Tier-3,18-24,1,Pre-Update
+2243,2024-05-03,Android,Instagram,Tier-3,25-34,5,Post-Update
+2244,2024-03-05,Android,Instagram,Tier-2,25-34,3,Pre-Update
+2245,2024-05-30,Android,Instagram,Tier-1,25-34,5,Post-Update
+2246,2024-06-17,Web,Instagram,Tier-1,25-34,6,Post-Update
+2247,2024-06-07,Android,YouTube,Tier-3,25-34,6,Post-Update
+2248,2024-02-19,Android,YouTube,Tier-1,25-34,2,Pre-Update
+2249,2024-03-05,iOS,Instagram,Tier-3,18-24,3,Pre-Update
+2250,2024-05-29,iOS,Organic,Tier-2,25-34,5,Post-Update
+2251,2024-05-24,Android,Instagram,Tier-2,25-34,5,Post-Update
+2252,2024-06-29,iOS,YouTube,Tier-1,25-34,6,Post-Update
+2253,2024-05-20,iOS,Google Ads,Tier-2,25-34,5,Post-Update
+2254,2024-06-28,iOS,Organic,Tier-3,35-44,6,Post-Update
+2255,2024-03-05,Web,YouTube,Tier-1,25-34,3,Pre-Update
+2256,2024-03-26,Android,Organic,Tier-2,18-24,3,Post-Update
+2257,2024-03-20,iOS,Google Ads,Tier-1,25-34,3,Post-Update
+2258,2024-02-11,iOS,Organic,Tier-2,18-24,2,Pre-Update
+2259,2024-03-08,Android,Google Ads,Tier-2,18-24,3,Pre-Update
+2260,2024-02-15,Android,YouTube,Tier-2,18-24,2,Pre-Update
+2261,2024-04-27,iOS,Organic,Tier-2,18-24,4,Post-Update
+2262,2024-03-18,Web,Organic,Tier-1,25-34,3,Post-Update
+2263,2024-06-25,Web,Google Ads,Tier-3,25-34,6,Post-Update
+2264,2024-06-16,iOS,Organic,Tier-1,18-24,6,Post-Update
+2265,2024-05-11,Android,Instagram,Tier-1,35-44,5,Post-Update
+2266,2024-05-30,iOS,Organic,Tier-3,25-34,5,Post-Update
+2267,2024-06-24,Android,Google Ads,Tier-1,18-24,6,Post-Update
+2268,2024-03-12,Android,YouTube,Tier-3,18-24,3,Pre-Update
+2269,2024-02-13,Android,YouTube,Tier-2,45+,2,Pre-Update
+2270,2024-06-04,Android,Google Ads,Tier-2,18-24,6,Post-Update
+2271,2024-02-11,iOS,YouTube,Tier-1,18-24,2,Pre-Update
+2272,2024-01-17,Android,Instagram,Tier-2,25-34,1,Pre-Update
+2273,2024-03-08,Android,Google Ads,Tier-2,18-24,3,Pre-Update
+2274,2024-03-07,iOS,Instagram,Tier-3,25-34,3,Pre-Update
+2275,2024-01-15,Android,Instagram,Tier-1,18-24,1,Pre-Update
+2276,2024-04-06,iOS,YouTube,Tier-1,45+,4,Post-Update
+2277,2024-04-16,Web,YouTube,Tier-1,25-34,4,Post-Update
+2278,2024-02-13,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+2279,2024-03-01,Android,Google Ads,Tier-3,25-34,3,Pre-Update
+2280,2024-03-26,Android,Organic,Tier-3,45+,3,Post-Update
+2281,2024-02-19,iOS,Organic,Tier-1,25-34,2,Pre-Update
+2282,2024-01-26,Android,Instagram,Tier-3,18-24,1,Pre-Update
+2283,2024-01-16,Web,Instagram,Tier-3,25-34,1,Pre-Update
+2284,2024-06-23,Web,Organic,Tier-1,25-34,6,Post-Update
+2285,2024-03-19,Android,Instagram,Tier-1,18-24,3,Post-Update
+2286,2024-04-27,Android,Google Ads,Tier-1,18-24,4,Post-Update
+2287,2024-03-28,iOS,Instagram,Tier-2,35-44,3,Post-Update
+2288,2024-05-01,iOS,Organic,Tier-1,25-34,5,Post-Update
+2289,2024-06-02,Web,YouTube,Tier-1,18-24,6,Post-Update
+2290,2024-01-30,Web,Organic,Tier-2,35-44,1,Pre-Update
+2291,2024-03-28,Web,YouTube,Tier-1,45+,3,Post-Update
+2292,2024-01-03,iOS,Google Ads,Tier-2,35-44,1,Pre-Update
+2293,2024-01-19,Android,Instagram,Tier-2,25-34,1,Pre-Update
+2294,2024-05-01,Android,Organic,Tier-2,25-34,5,Post-Update
+2295,2024-03-09,Android,Instagram,Tier-1,18-24,3,Pre-Update
+2296,2024-02-18,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+2297,2024-02-07,Web,Google Ads,Tier-3,35-44,2,Pre-Update
+2298,2024-05-27,iOS,Instagram,Tier-1,35-44,5,Post-Update
+2299,2024-02-18,Android,Instagram,Tier-3,25-34,2,Pre-Update
+2300,2024-02-21,Android,Organic,Tier-1,25-34,2,Pre-Update
+2301,2024-01-15,Android,Google Ads,Tier-3,35-44,1,Pre-Update
+2302,2024-01-01,Android,Organic,Tier-3,18-24,1,Pre-Update
+2303,2024-02-29,Android,Organic,Tier-3,18-24,2,Pre-Update
+2304,2024-03-05,Web,Google Ads,Tier-3,35-44,3,Pre-Update
+2305,2024-04-22,Web,Instagram,Tier-3,25-34,4,Post-Update
+2306,2024-06-23,Android,Instagram,Tier-2,25-34,6,Post-Update
+2307,2024-06-26,iOS,Instagram,Tier-2,45+,6,Post-Update
+2308,2024-01-07,iOS,Google Ads,Tier-1,25-34,1,Pre-Update
+2309,2024-01-20,iOS,YouTube,Tier-1,35-44,1,Pre-Update
+2310,2024-03-29,Android,Organic,Tier-2,35-44,3,Post-Update
+2311,2024-04-05,Android,Google Ads,Tier-3,45+,4,Post-Update
+2312,2024-06-19,Android,Instagram,Tier-3,18-24,6,Post-Update
+2313,2024-01-26,Web,Instagram,Tier-2,18-24,1,Pre-Update
+2314,2024-04-21,Android,Organic,Tier-2,18-24,4,Post-Update
+2315,2024-02-14,iOS,Google Ads,Tier-2,35-44,2,Pre-Update
+2316,2024-03-03,Web,Organic,Tier-3,18-24,3,Pre-Update
+2317,2024-01-02,iOS,Instagram,Tier-3,45+,1,Pre-Update
+2318,2024-01-08,iOS,Google Ads,Tier-1,25-34,1,Pre-Update
+2319,2024-05-09,iOS,YouTube,Tier-3,18-24,5,Post-Update
+2320,2024-03-19,iOS,YouTube,Tier-2,35-44,3,Post-Update
+2321,2024-03-20,Web,Organic,Tier-1,35-44,3,Post-Update
+2322,2024-04-15,Android,YouTube,Tier-3,25-34,4,Post-Update
+2323,2024-04-14,Android,Organic,Tier-2,45+,4,Post-Update
+2324,2024-03-25,Android,Instagram,Tier-1,25-34,3,Post-Update
+2325,2024-03-03,Web,Organic,Tier-1,25-34,3,Pre-Update
+2326,2024-04-21,Android,Google Ads,Tier-2,45+,4,Post-Update
+2327,2024-01-19,iOS,Google Ads,Tier-3,35-44,1,Pre-Update
+2328,2024-05-13,Android,Organic,Tier-1,45+,5,Post-Update
+2329,2024-01-12,Android,Instagram,Tier-2,18-24,1,Pre-Update
+2330,2024-02-29,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+2331,2024-06-06,Android,YouTube,Tier-3,35-44,6,Post-Update
+2332,2024-06-24,Android,Organic,Tier-1,25-34,6,Post-Update
+2333,2024-01-31,Android,Google Ads,Tier-3,45+,1,Pre-Update
+2334,2024-01-02,Android,Instagram,Tier-1,45+,1,Pre-Update
+2335,2024-03-09,Android,Instagram,Tier-1,35-44,3,Pre-Update
+2336,2024-04-16,iOS,Google Ads,Tier-2,25-34,4,Post-Update
+2337,2024-02-29,iOS,Google Ads,Tier-1,45+,2,Pre-Update
+2338,2024-03-22,Android,YouTube,Tier-1,35-44,3,Post-Update
+2339,2024-05-21,Android,YouTube,Tier-1,18-24,5,Post-Update
+2340,2024-01-11,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+2341,2024-02-04,Web,Instagram,Tier-3,18-24,2,Pre-Update
+2342,2024-02-11,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+2343,2024-04-28,iOS,YouTube,Tier-2,18-24,4,Post-Update
+2344,2024-02-26,Web,YouTube,Tier-1,18-24,2,Pre-Update
+2345,2024-06-09,Android,Organic,Tier-1,45+,6,Post-Update
+2346,2024-06-16,iOS,Organic,Tier-1,35-44,6,Post-Update
+2347,2024-06-17,iOS,Organic,Tier-3,45+,6,Post-Update
+2348,2024-01-16,Web,Organic,Tier-3,45+,1,Pre-Update
+2349,2024-06-16,Web,Google Ads,Tier-1,25-34,6,Post-Update
+2350,2024-06-22,Android,Instagram,Tier-1,25-34,6,Post-Update
+2351,2024-06-29,iOS,YouTube,Tier-1,25-34,6,Post-Update
+2352,2024-04-18,iOS,YouTube,Tier-1,35-44,4,Post-Update
+2353,2024-03-22,iOS,Organic,Tier-1,45+,3,Post-Update
+2354,2024-05-06,iOS,Instagram,Tier-2,18-24,5,Post-Update
+2355,2024-04-02,Android,YouTube,Tier-2,18-24,4,Post-Update
+2356,2024-06-04,Android,YouTube,Tier-1,45+,6,Post-Update
+2357,2024-04-07,Web,YouTube,Tier-3,25-34,4,Post-Update
+2358,2024-02-28,iOS,Instagram,Tier-3,25-34,2,Pre-Update
+2359,2024-04-26,Android,Google Ads,Tier-1,18-24,4,Post-Update
+2360,2024-05-08,iOS,Google Ads,Tier-1,25-34,5,Post-Update
+2361,2024-04-26,Web,Instagram,Tier-2,25-34,4,Post-Update
+2362,2024-01-03,iOS,Google Ads,Tier-3,45+,1,Pre-Update
+2363,2024-03-12,Android,YouTube,Tier-1,45+,3,Pre-Update
+2364,2024-06-12,iOS,Instagram,Tier-2,35-44,6,Post-Update
+2365,2024-06-19,iOS,YouTube,Tier-3,45+,6,Post-Update
+2366,2024-06-26,Android,YouTube,Tier-1,18-24,6,Post-Update
+2367,2024-04-16,Android,YouTube,Tier-1,18-24,4,Post-Update
+2368,2024-03-29,Android,Google Ads,Tier-1,18-24,3,Post-Update
+2369,2024-01-10,Android,Organic,Tier-1,18-24,1,Pre-Update
+2370,2024-01-24,iOS,Instagram,Tier-3,25-34,1,Pre-Update
+2371,2024-04-18,Android,Google Ads,Tier-3,25-34,4,Post-Update
+2372,2024-04-22,Android,Instagram,Tier-3,35-44,4,Post-Update
+2373,2024-05-18,Android,YouTube,Tier-2,35-44,5,Post-Update
+2374,2024-01-04,Web,Instagram,Tier-3,35-44,1,Pre-Update
+2375,2024-05-12,Web,YouTube,Tier-2,35-44,5,Post-Update
+2376,2024-05-18,iOS,Google Ads,Tier-3,35-44,5,Post-Update
+2377,2024-01-01,iOS,YouTube,Tier-3,45+,1,Pre-Update
+2378,2024-01-10,Android,Google Ads,Tier-3,18-24,1,Pre-Update
+2379,2024-06-27,iOS,Google Ads,Tier-2,25-34,6,Post-Update
+2380,2024-02-04,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+2381,2024-03-19,Web,Organic,Tier-3,45+,3,Post-Update
+2382,2024-02-13,iOS,Organic,Tier-3,18-24,2,Pre-Update
+2383,2024-06-04,Web,YouTube,Tier-2,35-44,6,Post-Update
+2384,2024-02-01,Android,Organic,Tier-2,18-24,2,Pre-Update
+2385,2024-03-14,Android,YouTube,Tier-3,18-24,3,Pre-Update
+2386,2024-01-05,Web,YouTube,Tier-3,35-44,1,Pre-Update
+2387,2024-05-28,Web,Instagram,Tier-1,35-44,5,Post-Update
+2388,2024-03-08,Web,Instagram,Tier-2,35-44,3,Pre-Update
+2389,2024-05-09,iOS,Instagram,Tier-1,18-24,5,Post-Update
+2390,2024-04-09,Web,Organic,Tier-3,25-34,4,Post-Update
+2391,2024-05-27,Web,Instagram,Tier-1,25-34,5,Post-Update
+2392,2024-05-31,iOS,YouTube,Tier-1,25-34,5,Post-Update
+2393,2024-04-05,Android,Google Ads,Tier-3,25-34,4,Post-Update
+2394,2024-05-02,Android,Instagram,Tier-1,35-44,5,Post-Update
+2395,2024-01-28,Android,Instagram,Tier-2,45+,1,Pre-Update
+2396,2024-06-11,Android,Organic,Tier-3,45+,6,Post-Update
+2397,2024-04-06,Web,YouTube,Tier-1,18-24,4,Post-Update
+2398,2024-01-06,iOS,YouTube,Tier-3,25-34,1,Pre-Update
+2399,2024-01-21,iOS,YouTube,Tier-2,35-44,1,Pre-Update
+2400,2024-06-03,Android,Instagram,Tier-2,18-24,6,Post-Update
+2401,2024-01-04,Web,Instagram,Tier-1,18-24,1,Pre-Update
+2402,2024-01-28,Android,YouTube,Tier-3,18-24,1,Pre-Update
+2403,2024-01-17,iOS,Google Ads,Tier-2,18-24,1,Pre-Update
+2404,2024-01-25,Web,Instagram,Tier-3,45+,1,Pre-Update
+2405,2024-02-03,iOS,Google Ads,Tier-2,35-44,2,Pre-Update
+2406,2024-04-23,Android,Organic,Tier-2,18-24,4,Post-Update
+2407,2024-06-14,Web,YouTube,Tier-3,18-24,6,Post-Update
+2408,2024-04-08,Web,Organic,Tier-2,25-34,4,Post-Update
+2409,2024-05-03,Web,Google Ads,Tier-2,45+,5,Post-Update
+2410,2024-04-20,Android,Organic,Tier-3,45+,4,Post-Update
+2411,2024-04-30,Android,Instagram,Tier-1,25-34,4,Post-Update
+2412,2024-06-20,Android,Organic,Tier-1,35-44,6,Post-Update
+2413,2024-03-19,Web,Google Ads,Tier-3,45+,3,Post-Update
+2414,2024-06-13,iOS,Instagram,Tier-1,18-24,6,Post-Update
+2415,2024-04-11,Web,Google Ads,Tier-1,45+,4,Post-Update
+2416,2024-05-08,Android,YouTube,Tier-3,35-44,5,Post-Update
+2417,2024-04-28,iOS,Google Ads,Tier-1,35-44,4,Post-Update
+2418,2024-03-30,iOS,YouTube,Tier-2,35-44,3,Post-Update
+2419,2024-04-11,iOS,YouTube,Tier-3,25-34,4,Post-Update
+2420,2024-04-22,iOS,Organic,Tier-2,25-34,4,Post-Update
+2421,2024-03-06,iOS,YouTube,Tier-2,35-44,3,Pre-Update
+2422,2024-02-15,iOS,Organic,Tier-3,25-34,2,Pre-Update
+2423,2024-06-21,Android,YouTube,Tier-1,25-34,6,Post-Update
+2424,2024-02-06,iOS,Google Ads,Tier-2,35-44,2,Pre-Update
+2425,2024-02-16,Android,Google Ads,Tier-3,18-24,2,Pre-Update
+2426,2024-04-30,Web,Organic,Tier-2,45+,4,Post-Update
+2427,2024-02-07,Web,YouTube,Tier-1,45+,2,Pre-Update
+2428,2024-05-25,Android,Organic,Tier-2,45+,5,Post-Update
+2429,2024-05-11,Android,Google Ads,Tier-3,35-44,5,Post-Update
+2430,2024-05-06,iOS,YouTube,Tier-3,25-34,5,Post-Update
+2431,2024-05-06,Web,Instagram,Tier-1,35-44,5,Post-Update
+2432,2024-02-22,Android,YouTube,Tier-3,35-44,2,Pre-Update
+2433,2024-04-27,iOS,Google Ads,Tier-2,35-44,4,Post-Update
+2434,2024-02-16,Android,Google Ads,Tier-2,18-24,2,Pre-Update
+2435,2024-05-03,Web,YouTube,Tier-2,45+,5,Post-Update
+2436,2024-06-03,iOS,Google Ads,Tier-3,35-44,6,Post-Update
+2437,2024-05-05,Android,Organic,Tier-2,25-34,5,Post-Update
+2438,2024-06-07,Android,Instagram,Tier-3,45+,6,Post-Update
+2439,2024-02-20,iOS,Organic,Tier-2,18-24,2,Pre-Update
+2440,2024-06-03,iOS,Instagram,Tier-2,35-44,6,Post-Update
+2441,2024-04-21,Android,Organic,Tier-1,45+,4,Post-Update
+2442,2024-06-27,Android,Instagram,Tier-3,45+,6,Post-Update
+2443,2024-01-28,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+2444,2024-05-04,Web,Instagram,Tier-1,18-24,5,Post-Update
+2445,2024-05-10,Android,Instagram,Tier-2,35-44,5,Post-Update
+2446,2024-01-13,iOS,YouTube,Tier-1,35-44,1,Pre-Update
+2447,2024-01-19,Android,Google Ads,Tier-2,35-44,1,Pre-Update
+2448,2024-06-06,iOS,YouTube,Tier-1,25-34,6,Post-Update
+2449,2024-05-16,Android,Organic,Tier-3,25-34,5,Post-Update
+2450,2024-04-12,iOS,YouTube,Tier-2,25-34,4,Post-Update
+2451,2024-01-20,iOS,Organic,Tier-2,25-34,1,Pre-Update
+2452,2024-06-03,Web,YouTube,Tier-1,35-44,6,Post-Update
+2453,2024-05-01,Android,Google Ads,Tier-3,25-34,5,Post-Update
+2454,2024-04-24,Android,Instagram,Tier-3,18-24,4,Post-Update
+2455,2024-02-28,Web,Organic,Tier-2,18-24,2,Pre-Update
+2456,2024-03-24,Android,Instagram,Tier-2,18-24,3,Post-Update
+2457,2024-05-28,Android,Instagram,Tier-3,35-44,5,Post-Update
+2458,2024-02-19,Android,YouTube,Tier-3,18-24,2,Pre-Update
+2459,2024-03-16,iOS,Instagram,Tier-2,18-24,3,Post-Update
+2460,2024-06-29,Web,Instagram,Tier-1,18-24,6,Post-Update
+2461,2024-06-10,iOS,YouTube,Tier-3,25-34,6,Post-Update
+2462,2024-02-29,Android,Google Ads,Tier-1,35-44,2,Pre-Update
+2463,2024-01-16,iOS,YouTube,Tier-1,35-44,1,Pre-Update
+2464,2024-05-19,iOS,Instagram,Tier-2,25-34,5,Post-Update
+2465,2024-02-28,iOS,YouTube,Tier-2,18-24,2,Pre-Update
+2466,2024-05-18,Android,Instagram,Tier-1,45+,5,Post-Update
+2467,2024-06-27,Android,Instagram,Tier-3,18-24,6,Post-Update
+2468,2024-02-11,iOS,Google Ads,Tier-1,35-44,2,Pre-Update
+2469,2024-06-24,Android,Organic,Tier-3,25-34,6,Post-Update
+2470,2024-03-19,Android,YouTube,Tier-2,25-34,3,Post-Update
+2471,2024-04-26,iOS,Organic,Tier-3,45+,4,Post-Update
+2472,2024-06-13,iOS,YouTube,Tier-2,25-34,6,Post-Update
+2473,2024-05-08,Android,YouTube,Tier-2,45+,5,Post-Update
+2474,2024-02-26,Android,Google Ads,Tier-2,35-44,2,Pre-Update
+2475,2024-02-14,iOS,YouTube,Tier-3,35-44,2,Pre-Update
+2476,2024-01-24,Android,Organic,Tier-2,18-24,1,Pre-Update
+2477,2024-05-31,Web,YouTube,Tier-3,18-24,5,Post-Update
+2478,2024-06-02,Web,Organic,Tier-1,18-24,6,Post-Update
+2479,2024-05-07,Web,Google Ads,Tier-1,45+,5,Post-Update
+2480,2024-06-09,iOS,YouTube,Tier-3,45+,6,Post-Update
+2481,2024-02-10,Web,Instagram,Tier-2,18-24,2,Pre-Update
+2482,2024-02-04,iOS,Instagram,Tier-3,35-44,2,Pre-Update
+2483,2024-03-16,Web,Google Ads,Tier-2,25-34,3,Post-Update
+2484,2024-02-06,Android,Instagram,Tier-3,25-34,2,Pre-Update
+2485,2024-05-12,Android,YouTube,Tier-2,18-24,5,Post-Update
+2486,2024-02-11,Web,Instagram,Tier-1,18-24,2,Pre-Update
+2487,2024-04-25,iOS,Organic,Tier-2,25-34,4,Post-Update
+2488,2024-05-02,Web,Organic,Tier-1,18-24,5,Post-Update
+2489,2024-05-16,Android,Instagram,Tier-1,18-24,5,Post-Update
+2490,2024-05-16,iOS,Instagram,Tier-1,18-24,5,Post-Update
+2491,2024-02-22,iOS,Google Ads,Tier-1,25-34,2,Pre-Update
+2492,2024-03-22,Web,YouTube,Tier-2,35-44,3,Post-Update
+2493,2024-01-27,Android,Google Ads,Tier-1,18-24,1,Pre-Update
+2494,2024-01-10,Android,YouTube,Tier-3,18-24,1,Pre-Update
+2495,2024-02-10,Web,Google Ads,Tier-3,35-44,2,Pre-Update
+2496,2024-05-06,Android,Google Ads,Tier-2,18-24,5,Post-Update
+2497,2024-04-25,Android,Instagram,Tier-2,45+,4,Post-Update
+2498,2024-02-02,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+2499,2024-04-29,Web,YouTube,Tier-3,18-24,4,Post-Update
+2500,2024-01-29,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+2501,2024-04-23,Android,YouTube,Tier-1,35-44,4,Post-Update
+2502,2024-03-31,Web,Google Ads,Tier-2,25-34,3,Post-Update
+2503,2024-03-12,Android,Organic,Tier-1,35-44,3,Pre-Update
+2504,2024-02-23,Web,Google Ads,Tier-3,35-44,2,Pre-Update
+2505,2024-05-22,Android,YouTube,Tier-3,45+,5,Post-Update
+2506,2024-06-02,Web,Instagram,Tier-1,18-24,6,Post-Update
+2507,2024-04-06,Web,YouTube,Tier-3,35-44,4,Post-Update
+2508,2024-02-20,Android,YouTube,Tier-2,25-34,2,Pre-Update
+2509,2024-02-11,Android,Google Ads,Tier-2,18-24,2,Pre-Update
+2510,2024-01-04,iOS,Instagram,Tier-2,18-24,1,Pre-Update
+2511,2024-06-12,Web,YouTube,Tier-3,25-34,6,Post-Update
+2512,2024-04-24,Android,Google Ads,Tier-3,25-34,4,Post-Update
+2513,2024-01-17,Android,Organic,Tier-3,18-24,1,Pre-Update
+2514,2024-02-01,iOS,Organic,Tier-3,25-34,2,Pre-Update
+2515,2024-06-23,Web,Instagram,Tier-1,45+,6,Post-Update
+2516,2024-03-21,Android,Google Ads,Tier-2,35-44,3,Post-Update
+2517,2024-02-11,Android,Google Ads,Tier-2,45+,2,Pre-Update
+2518,2024-03-23,iOS,Instagram,Tier-3,35-44,3,Post-Update
+2519,2024-05-31,Android,YouTube,Tier-2,45+,5,Post-Update
+2520,2024-03-31,iOS,Instagram,Tier-2,18-24,3,Post-Update
+2521,2024-04-06,Web,Organic,Tier-3,18-24,4,Post-Update
+2522,2024-02-05,Android,YouTube,Tier-3,18-24,2,Pre-Update
+2523,2024-01-21,Android,Instagram,Tier-3,25-34,1,Pre-Update
+2524,2024-01-03,Android,Instagram,Tier-1,35-44,1,Pre-Update
+2525,2024-02-17,Web,YouTube,Tier-1,18-24,2,Pre-Update
+2526,2024-04-11,iOS,YouTube,Tier-2,25-34,4,Post-Update
+2527,2024-02-25,Web,Instagram,Tier-2,18-24,2,Pre-Update
+2528,2024-03-30,Web,Google Ads,Tier-1,45+,3,Post-Update
+2529,2024-04-11,Web,Google Ads,Tier-3,45+,4,Post-Update
+2530,2024-01-01,Android,Google Ads,Tier-2,25-34,1,Pre-Update
+2531,2024-01-14,Android,Instagram,Tier-2,45+,1,Pre-Update
+2532,2024-03-25,Web,Google Ads,Tier-3,35-44,3,Post-Update
+2533,2024-06-04,Android,Instagram,Tier-1,35-44,6,Post-Update
+2534,2024-01-01,iOS,YouTube,Tier-3,25-34,1,Pre-Update
+2535,2024-05-22,Android,Google Ads,Tier-1,25-34,5,Post-Update
+2536,2024-03-06,iOS,Google Ads,Tier-3,45+,3,Pre-Update
+2537,2024-04-25,Web,YouTube,Tier-2,35-44,4,Post-Update
+2538,2024-05-16,Web,YouTube,Tier-2,18-24,5,Post-Update
+2539,2024-04-03,iOS,YouTube,Tier-2,45+,4,Post-Update
+2540,2024-01-16,Web,YouTube,Tier-1,35-44,1,Pre-Update
+2541,2024-05-09,Android,Google Ads,Tier-1,45+,5,Post-Update
+2542,2024-02-28,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+2543,2024-03-12,iOS,Organic,Tier-2,25-34,3,Pre-Update
+2544,2024-01-04,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+2545,2024-02-07,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+2546,2024-06-29,iOS,Google Ads,Tier-1,45+,6,Post-Update
+2547,2024-03-15,iOS,YouTube,Tier-3,18-24,3,Post-Update
+2548,2024-01-06,Android,YouTube,Tier-3,25-34,1,Pre-Update
+2549,2024-04-12,Android,Instagram,Tier-2,45+,4,Post-Update
+2550,2024-03-13,Android,Google Ads,Tier-3,18-24,3,Pre-Update
+2551,2024-02-03,iOS,Google Ads,Tier-2,45+,2,Pre-Update
+2552,2024-05-11,iOS,Instagram,Tier-1,45+,5,Post-Update
+2553,2024-02-10,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+2554,2024-06-21,Android,YouTube,Tier-3,18-24,6,Post-Update
+2555,2024-02-29,Web,Organic,Tier-1,45+,2,Pre-Update
+2556,2024-01-01,Android,YouTube,Tier-2,45+,1,Pre-Update
+2557,2024-04-30,Android,YouTube,Tier-1,25-34,4,Post-Update
+2558,2024-04-24,Android,Google Ads,Tier-1,18-24,4,Post-Update
+2559,2024-05-06,iOS,Instagram,Tier-1,45+,5,Post-Update
+2560,2024-01-04,Web,Organic,Tier-1,35-44,1,Pre-Update
+2561,2024-01-21,Web,Organic,Tier-2,35-44,1,Pre-Update
+2562,2024-03-11,Android,Google Ads,Tier-1,18-24,3,Pre-Update
+2563,2024-06-20,iOS,Organic,Tier-1,45+,6,Post-Update
+2564,2024-03-03,Android,Google Ads,Tier-3,45+,3,Pre-Update
+2565,2024-02-07,Web,Instagram,Tier-3,18-24,2,Pre-Update
+2566,2024-05-05,Android,Organic,Tier-2,35-44,5,Post-Update
+2567,2024-06-16,iOS,Google Ads,Tier-1,35-44,6,Post-Update
+2568,2024-05-13,Android,Instagram,Tier-3,35-44,5,Post-Update
+2569,2024-02-08,Web,Google Ads,Tier-2,18-24,2,Pre-Update
+2570,2024-06-26,Android,Instagram,Tier-2,35-44,6,Post-Update
+2571,2024-04-28,iOS,Instagram,Tier-2,45+,4,Post-Update
+2572,2024-03-27,Android,Instagram,Tier-3,35-44,3,Post-Update
+2573,2024-01-17,iOS,YouTube,Tier-1,35-44,1,Pre-Update
+2574,2024-05-11,Android,Google Ads,Tier-2,18-24,5,Post-Update
+2575,2024-05-18,Android,Google Ads,Tier-3,25-34,5,Post-Update
+2576,2024-02-18,iOS,Google Ads,Tier-2,25-34,2,Pre-Update
+2577,2024-01-05,Android,YouTube,Tier-2,18-24,1,Pre-Update
+2578,2024-05-28,iOS,YouTube,Tier-2,18-24,5,Post-Update
+2579,2024-04-12,Android,Google Ads,Tier-3,35-44,4,Post-Update
+2580,2024-04-11,Android,YouTube,Tier-1,18-24,4,Post-Update
+2581,2024-06-04,Android,Instagram,Tier-3,25-34,6,Post-Update
+2582,2024-04-22,iOS,Instagram,Tier-3,18-24,4,Post-Update
+2583,2024-04-12,Web,Google Ads,Tier-2,35-44,4,Post-Update
+2584,2024-04-21,iOS,Instagram,Tier-2,45+,4,Post-Update
+2585,2024-02-20,iOS,Google Ads,Tier-2,25-34,2,Pre-Update
+2586,2024-04-30,iOS,YouTube,Tier-2,25-34,4,Post-Update
+2587,2024-02-26,Android,Instagram,Tier-3,35-44,2,Pre-Update
+2588,2024-02-01,Android,Instagram,Tier-3,45+,2,Pre-Update
+2589,2024-01-23,Web,Organic,Tier-2,18-24,1,Pre-Update
+2590,2024-04-28,Android,Instagram,Tier-2,45+,4,Post-Update
+2591,2024-04-24,iOS,YouTube,Tier-2,18-24,4,Post-Update
+2592,2024-02-15,Android,Organic,Tier-1,18-24,2,Pre-Update
+2593,2024-02-25,Web,Instagram,Tier-2,25-34,2,Pre-Update
+2594,2024-04-19,iOS,Organic,Tier-1,18-24,4,Post-Update
+2595,2024-01-05,Web,Instagram,Tier-3,25-34,1,Pre-Update
+2596,2024-04-13,Web,YouTube,Tier-3,35-44,4,Post-Update
+2597,2024-01-11,Web,Instagram,Tier-2,25-34,1,Pre-Update
+2598,2024-05-28,Web,Organic,Tier-1,18-24,5,Post-Update
+2599,2024-03-16,Web,Google Ads,Tier-2,25-34,3,Post-Update
+2600,2024-06-04,Web,YouTube,Tier-2,45+,6,Post-Update
+2601,2024-01-02,Web,YouTube,Tier-2,18-24,1,Pre-Update
+2602,2024-01-08,Android,Organic,Tier-3,18-24,1,Pre-Update
+2603,2024-03-27,Android,Google Ads,Tier-1,18-24,3,Post-Update
+2604,2024-06-01,iOS,Google Ads,Tier-1,25-34,6,Post-Update
+2605,2024-06-21,Web,Organic,Tier-1,25-34,6,Post-Update
+2606,2024-02-23,iOS,Instagram,Tier-2,45+,2,Pre-Update
+2607,2024-03-18,Web,Organic,Tier-1,35-44,3,Post-Update
+2608,2024-03-10,Android,Instagram,Tier-3,35-44,3,Pre-Update
+2609,2024-02-08,Web,Instagram,Tier-3,25-34,2,Pre-Update
+2610,2024-03-01,Android,Organic,Tier-3,45+,3,Pre-Update
+2611,2024-01-15,Web,Instagram,Tier-2,45+,1,Pre-Update
+2612,2024-04-08,Web,YouTube,Tier-3,25-34,4,Post-Update
+2613,2024-01-27,iOS,Google Ads,Tier-1,35-44,1,Pre-Update
+2614,2024-06-24,Web,Instagram,Tier-2,25-34,6,Post-Update
+2615,2024-06-14,iOS,YouTube,Tier-3,25-34,6,Post-Update
+2616,2024-02-14,iOS,YouTube,Tier-2,45+,2,Pre-Update
+2617,2024-01-11,iOS,YouTube,Tier-3,45+,1,Pre-Update
+2618,2024-01-23,Web,Google Ads,Tier-2,18-24,1,Pre-Update
+2619,2024-03-30,Android,Google Ads,Tier-1,35-44,3,Post-Update
+2620,2024-01-22,iOS,Instagram,Tier-1,35-44,1,Pre-Update
+2621,2024-05-17,iOS,Google Ads,Tier-1,18-24,5,Post-Update
+2622,2024-06-22,iOS,Organic,Tier-2,25-34,6,Post-Update
+2623,2024-06-22,iOS,Instagram,Tier-3,35-44,6,Post-Update
+2624,2024-06-11,Web,Instagram,Tier-1,18-24,6,Post-Update
+2625,2024-02-03,iOS,Organic,Tier-3,25-34,2,Pre-Update
+2626,2024-05-27,iOS,YouTube,Tier-2,25-34,5,Post-Update
+2627,2024-01-12,Android,Google Ads,Tier-1,25-34,1,Pre-Update
+2628,2024-03-28,Android,YouTube,Tier-3,25-34,3,Post-Update
+2629,2024-02-14,Web,YouTube,Tier-3,25-34,2,Pre-Update
+2630,2024-05-10,Web,Instagram,Tier-1,35-44,5,Post-Update
+2631,2024-06-18,iOS,Google Ads,Tier-1,25-34,6,Post-Update
+2632,2024-05-14,Android,YouTube,Tier-1,18-24,5,Post-Update
+2633,2024-02-15,Android,Instagram,Tier-1,35-44,2,Pre-Update
+2634,2024-01-29,Web,Organic,Tier-2,45+,1,Pre-Update
+2635,2024-02-29,Android,YouTube,Tier-2,35-44,2,Pre-Update
+2636,2024-06-18,iOS,YouTube,Tier-1,18-24,6,Post-Update
+2637,2024-03-22,iOS,YouTube,Tier-3,35-44,3,Post-Update
+2638,2024-04-03,Android,Organic,Tier-1,35-44,4,Post-Update
+2639,2024-01-17,Android,YouTube,Tier-3,35-44,1,Pre-Update
+2640,2024-04-30,iOS,Organic,Tier-2,25-34,4,Post-Update
+2641,2024-06-07,Android,Google Ads,Tier-1,45+,6,Post-Update
+2642,2024-04-28,iOS,Organic,Tier-2,25-34,4,Post-Update
+2643,2024-05-30,Web,Google Ads,Tier-2,45+,5,Post-Update
+2644,2024-02-26,iOS,YouTube,Tier-2,35-44,2,Pre-Update
+2645,2024-05-22,iOS,YouTube,Tier-2,18-24,5,Post-Update
+2646,2024-02-27,Android,Instagram,Tier-1,45+,2,Pre-Update
+2647,2024-05-05,Web,Organic,Tier-2,18-24,5,Post-Update
+2648,2024-04-21,iOS,Instagram,Tier-3,25-34,4,Post-Update
+2649,2024-06-23,iOS,YouTube,Tier-3,25-34,6,Post-Update
+2650,2024-04-24,Android,Organic,Tier-1,18-24,4,Post-Update
+2651,2024-02-07,Android,YouTube,Tier-1,18-24,2,Pre-Update
+2652,2024-05-11,Web,Google Ads,Tier-2,35-44,5,Post-Update
+2653,2024-01-13,iOS,YouTube,Tier-3,25-34,1,Pre-Update
+2654,2024-04-18,Web,Google Ads,Tier-3,35-44,4,Post-Update
+2655,2024-03-08,iOS,Organic,Tier-1,18-24,3,Pre-Update
+2656,2024-05-15,Android,Instagram,Tier-1,25-34,5,Post-Update
+2657,2024-03-29,Web,Organic,Tier-1,25-34,3,Post-Update
+2658,2024-01-16,Web,Organic,Tier-2,45+,1,Pre-Update
+2659,2024-01-10,Web,YouTube,Tier-1,35-44,1,Pre-Update
+2660,2024-04-25,Web,Instagram,Tier-2,18-24,4,Post-Update
+2661,2024-01-25,Web,Google Ads,Tier-3,35-44,1,Pre-Update
+2662,2024-05-25,Android,Google Ads,Tier-1,25-34,5,Post-Update
+2663,2024-04-17,Android,Organic,Tier-3,45+,4,Post-Update
+2664,2024-04-07,Android,Instagram,Tier-3,25-34,4,Post-Update
+2665,2024-02-29,iOS,Organic,Tier-3,35-44,2,Pre-Update
+2666,2024-06-05,iOS,Instagram,Tier-3,35-44,6,Post-Update
+2667,2024-05-09,iOS,Organic,Tier-1,18-24,5,Post-Update
+2668,2024-04-13,Web,Instagram,Tier-3,45+,4,Post-Update
+2669,2024-01-08,Web,Google Ads,Tier-2,25-34,1,Pre-Update
+2670,2024-06-10,Android,Google Ads,Tier-1,18-24,6,Post-Update
+2671,2024-01-20,Android,Organic,Tier-2,45+,1,Pre-Update
+2672,2024-02-26,iOS,YouTube,Tier-2,25-34,2,Pre-Update
+2673,2024-02-17,Web,Google Ads,Tier-3,45+,2,Pre-Update
+2674,2024-03-28,iOS,YouTube,Tier-1,18-24,3,Post-Update
+2675,2024-05-12,iOS,Google Ads,Tier-1,25-34,5,Post-Update
+2676,2024-05-26,Android,Google Ads,Tier-2,18-24,5,Post-Update
+2677,2024-01-05,iOS,Organic,Tier-3,25-34,1,Pre-Update
+2678,2024-02-14,iOS,YouTube,Tier-2,18-24,2,Pre-Update
+2679,2024-01-06,Android,YouTube,Tier-3,25-34,1,Pre-Update
+2680,2024-04-11,iOS,Instagram,Tier-1,18-24,4,Post-Update
+2681,2024-01-23,Android,Google Ads,Tier-1,45+,1,Pre-Update
+2682,2024-05-10,Android,Google Ads,Tier-2,45+,5,Post-Update
+2683,2024-04-23,Android,YouTube,Tier-1,45+,4,Post-Update
+2684,2024-03-17,Android,Google Ads,Tier-2,25-34,3,Post-Update
+2685,2024-06-15,iOS,Instagram,Tier-3,25-34,6,Post-Update
+2686,2024-02-01,Android,Google Ads,Tier-3,18-24,2,Pre-Update
+2687,2024-02-07,Web,YouTube,Tier-1,45+,2,Pre-Update
+2688,2024-03-18,iOS,Organic,Tier-1,45+,3,Post-Update
+2689,2024-06-22,Android,Instagram,Tier-3,35-44,6,Post-Update
+2690,2024-04-03,iOS,YouTube,Tier-2,25-34,4,Post-Update
+2691,2024-03-27,Android,Google Ads,Tier-1,45+,3,Post-Update
+2692,2024-04-28,iOS,Organic,Tier-3,25-34,4,Post-Update
+2693,2024-01-23,Android,YouTube,Tier-1,25-34,1,Pre-Update
+2694,2024-01-12,Web,YouTube,Tier-2,25-34,1,Pre-Update
+2695,2024-05-16,iOS,Instagram,Tier-1,35-44,5,Post-Update
+2696,2024-04-16,iOS,Instagram,Tier-1,18-24,4,Post-Update
+2697,2024-04-08,Web,Organic,Tier-3,25-34,4,Post-Update
+2698,2024-04-11,iOS,Instagram,Tier-1,45+,4,Post-Update
+2699,2024-06-03,Android,Organic,Tier-1,25-34,6,Post-Update
+2700,2024-05-17,Web,Instagram,Tier-2,25-34,5,Post-Update
+2701,2024-05-02,iOS,Instagram,Tier-1,18-24,5,Post-Update
+2702,2024-05-03,Android,YouTube,Tier-2,18-24,5,Post-Update
+2703,2024-01-20,iOS,Google Ads,Tier-2,18-24,1,Pre-Update
+2704,2024-03-05,Android,Organic,Tier-3,18-24,3,Pre-Update
+2705,2024-05-13,iOS,Organic,Tier-3,35-44,5,Post-Update
+2706,2024-02-10,iOS,Organic,Tier-1,45+,2,Pre-Update
+2707,2024-06-27,iOS,YouTube,Tier-2,25-34,6,Post-Update
+2708,2024-03-14,iOS,Google Ads,Tier-3,45+,3,Pre-Update
+2709,2024-05-29,Android,YouTube,Tier-1,18-24,5,Post-Update
+2710,2024-06-04,iOS,Organic,Tier-2,25-34,6,Post-Update
+2711,2024-06-14,Android,Instagram,Tier-2,45+,6,Post-Update
+2712,2024-03-09,Web,Google Ads,Tier-2,18-24,3,Pre-Update
+2713,2024-05-17,Android,Google Ads,Tier-3,18-24,5,Post-Update
+2714,2024-05-07,Android,Instagram,Tier-3,18-24,5,Post-Update
+2715,2024-02-02,iOS,Google Ads,Tier-1,25-34,2,Pre-Update
+2716,2024-02-13,Android,Organic,Tier-2,45+,2,Pre-Update
+2717,2024-03-06,Android,Organic,Tier-3,35-44,3,Pre-Update
+2718,2024-06-21,Web,Instagram,Tier-1,45+,6,Post-Update
+2719,2024-01-22,Android,Google Ads,Tier-3,18-24,1,Pre-Update
+2720,2024-05-25,Web,Google Ads,Tier-1,25-34,5,Post-Update
+2721,2024-03-24,iOS,YouTube,Tier-1,25-34,3,Post-Update
+2722,2024-06-16,iOS,Instagram,Tier-2,18-24,6,Post-Update
+2723,2024-01-14,iOS,Google Ads,Tier-3,18-24,1,Pre-Update
+2724,2024-05-18,Web,Google Ads,Tier-1,25-34,5,Post-Update
+2725,2024-06-06,iOS,Organic,Tier-3,35-44,6,Post-Update
+2726,2024-06-08,Android,Google Ads,Tier-2,25-34,6,Post-Update
+2727,2024-05-07,iOS,YouTube,Tier-1,18-24,5,Post-Update
+2728,2024-05-17,Android,Organic,Tier-1,35-44,5,Post-Update
+2729,2024-06-03,Web,Instagram,Tier-1,18-24,6,Post-Update
+2730,2024-05-07,Android,YouTube,Tier-1,18-24,5,Post-Update
+2731,2024-01-13,Android,Instagram,Tier-1,18-24,1,Pre-Update
+2732,2024-02-05,Android,Google Ads,Tier-2,18-24,2,Pre-Update
+2733,2024-04-24,iOS,Instagram,Tier-2,18-24,4,Post-Update
+2734,2024-03-15,iOS,Google Ads,Tier-1,25-34,3,Post-Update
+2735,2024-01-16,iOS,Google Ads,Tier-2,25-34,1,Pre-Update
+2736,2024-05-05,iOS,YouTube,Tier-3,45+,5,Post-Update
+2737,2024-01-26,Web,Organic,Tier-2,35-44,1,Pre-Update
+2738,2024-06-12,iOS,YouTube,Tier-2,45+,6,Post-Update
+2739,2024-03-24,Android,YouTube,Tier-3,25-34,3,Post-Update
+2740,2024-04-26,Web,YouTube,Tier-2,18-24,4,Post-Update
+2741,2024-04-11,Web,YouTube,Tier-1,25-34,4,Post-Update
+2742,2024-05-24,Web,Google Ads,Tier-1,18-24,5,Post-Update
+2743,2024-02-28,iOS,YouTube,Tier-3,25-34,2,Pre-Update
+2744,2024-01-29,iOS,Google Ads,Tier-2,18-24,1,Pre-Update
+2745,2024-06-26,Web,Google Ads,Tier-1,25-34,6,Post-Update
+2746,2024-01-28,Android,Instagram,Tier-3,45+,1,Pre-Update
+2747,2024-02-21,Web,YouTube,Tier-2,45+,2,Pre-Update
+2748,2024-06-28,Web,Google Ads,Tier-3,18-24,6,Post-Update
+2749,2024-01-10,Web,Instagram,Tier-3,35-44,1,Pre-Update
+2750,2024-02-10,Android,Google Ads,Tier-3,35-44,2,Pre-Update
+2751,2024-05-23,Web,Organic,Tier-2,25-34,5,Post-Update
+2752,2024-01-26,Android,YouTube,Tier-1,18-24,1,Pre-Update
+2753,2024-01-19,iOS,Google Ads,Tier-3,35-44,1,Pre-Update
+2754,2024-05-10,iOS,Google Ads,Tier-1,35-44,5,Post-Update
+2755,2024-04-07,Android,Instagram,Tier-2,45+,4,Post-Update
+2756,2024-04-22,Web,YouTube,Tier-3,18-24,4,Post-Update
+2757,2024-04-25,Web,Organic,Tier-1,45+,4,Post-Update
+2758,2024-06-02,iOS,Instagram,Tier-1,45+,6,Post-Update
+2759,2024-01-26,Android,Organic,Tier-2,45+,1,Pre-Update
+2760,2024-05-16,Web,Google Ads,Tier-3,18-24,5,Post-Update
+2761,2024-06-20,iOS,Google Ads,Tier-3,18-24,6,Post-Update
+2762,2024-02-21,iOS,Google Ads,Tier-1,18-24,2,Pre-Update
+2763,2024-05-11,Web,Google Ads,Tier-2,18-24,5,Post-Update
+2764,2024-03-20,Web,Google Ads,Tier-2,18-24,3,Post-Update
+2765,2024-02-09,iOS,Organic,Tier-2,18-24,2,Pre-Update
+2766,2024-01-20,Web,Instagram,Tier-2,18-24,1,Pre-Update
+2767,2024-02-21,Web,YouTube,Tier-2,18-24,2,Pre-Update
+2768,2024-03-18,Web,Instagram,Tier-2,18-24,3,Post-Update
+2769,2024-04-08,Android,Instagram,Tier-2,35-44,4,Post-Update
+2770,2024-02-23,Web,Google Ads,Tier-1,35-44,2,Pre-Update
+2771,2024-01-10,Android,YouTube,Tier-2,25-34,1,Pre-Update
+2772,2024-05-19,Android,Google Ads,Tier-2,45+,5,Post-Update
+2773,2024-02-09,Android,Organic,Tier-2,45+,2,Pre-Update
+2774,2024-04-03,Android,Google Ads,Tier-1,25-34,4,Post-Update
+2775,2024-03-01,iOS,YouTube,Tier-1,25-34,3,Pre-Update
+2776,2024-04-14,iOS,Organic,Tier-3,25-34,4,Post-Update
+2777,2024-05-07,iOS,YouTube,Tier-2,18-24,5,Post-Update
+2778,2024-03-31,iOS,Organic,Tier-2,25-34,3,Post-Update
+2779,2024-01-07,iOS,Instagram,Tier-3,25-34,1,Pre-Update
+2780,2024-01-18,iOS,Instagram,Tier-2,18-24,1,Pre-Update
+2781,2024-03-11,Web,Google Ads,Tier-3,18-24,3,Pre-Update
+2782,2024-05-26,Android,Google Ads,Tier-2,45+,5,Post-Update
+2783,2024-03-03,Android,YouTube,Tier-2,18-24,3,Pre-Update
+2784,2024-05-10,Android,YouTube,Tier-3,18-24,5,Post-Update
+2785,2024-05-26,Web,Organic,Tier-2,25-34,5,Post-Update
+2786,2024-05-27,iOS,Organic,Tier-3,45+,5,Post-Update
+2787,2024-02-24,iOS,Organic,Tier-2,25-34,2,Pre-Update
+2788,2024-04-18,Android,Organic,Tier-3,25-34,4,Post-Update
+2789,2024-02-13,Web,YouTube,Tier-1,18-24,2,Pre-Update
+2790,2024-06-22,iOS,YouTube,Tier-1,18-24,6,Post-Update
+2791,2024-03-05,Web,Organic,Tier-2,18-24,3,Pre-Update
+2792,2024-03-12,iOS,YouTube,Tier-1,18-24,3,Pre-Update
+2793,2024-03-26,iOS,Instagram,Tier-3,25-34,3,Post-Update
+2794,2024-05-31,Web,YouTube,Tier-3,18-24,5,Post-Update
+2795,2024-04-20,Android,YouTube,Tier-2,18-24,4,Post-Update
+2796,2024-01-12,Android,Google Ads,Tier-2,45+,1,Pre-Update
+2797,2024-03-28,Web,Google Ads,Tier-2,18-24,3,Post-Update
+2798,2024-01-11,Android,Google Ads,Tier-1,35-44,1,Pre-Update
+2799,2024-06-21,Android,Instagram,Tier-1,18-24,6,Post-Update
+2800,2024-05-18,Android,Organic,Tier-2,18-24,5,Post-Update
+2801,2024-01-02,Android,Instagram,Tier-2,45+,1,Pre-Update
+2802,2024-05-12,Android,Google Ads,Tier-3,18-24,5,Post-Update
+2803,2024-05-20,iOS,Organic,Tier-1,35-44,5,Post-Update
+2804,2024-03-09,iOS,Google Ads,Tier-2,35-44,3,Pre-Update
+2805,2024-06-29,Web,Instagram,Tier-1,25-34,6,Post-Update
+2806,2024-02-25,iOS,Google Ads,Tier-3,18-24,2,Pre-Update
+2807,2024-02-05,Android,Instagram,Tier-3,18-24,2,Pre-Update
+2808,2024-03-21,Android,YouTube,Tier-2,45+,3,Post-Update
+2809,2024-01-04,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+2810,2024-05-03,Android,Organic,Tier-3,18-24,5,Post-Update
+2811,2024-03-15,Android,Organic,Tier-3,25-34,3,Post-Update
+2812,2024-05-09,Web,Instagram,Tier-2,18-24,5,Post-Update
+2813,2024-01-20,Android,Instagram,Tier-2,45+,1,Pre-Update
+2814,2024-05-20,iOS,Google Ads,Tier-1,25-34,5,Post-Update
+2815,2024-01-04,Web,Organic,Tier-1,45+,1,Pre-Update
+2816,2024-06-26,iOS,Google Ads,Tier-1,18-24,6,Post-Update
+2817,2024-05-21,Android,Instagram,Tier-3,18-24,5,Post-Update
+2818,2024-05-02,iOS,Organic,Tier-2,45+,5,Post-Update
+2819,2024-06-01,Web,YouTube,Tier-1,25-34,6,Post-Update
+2820,2024-03-18,Web,Google Ads,Tier-3,25-34,3,Post-Update
+2821,2024-05-14,iOS,Google Ads,Tier-3,18-24,5,Post-Update
+2822,2024-05-05,Android,Instagram,Tier-1,18-24,5,Post-Update
+2823,2024-05-10,Android,Google Ads,Tier-2,18-24,5,Post-Update
+2824,2024-06-23,iOS,YouTube,Tier-2,25-34,6,Post-Update
+2825,2024-06-15,Android,Google Ads,Tier-2,25-34,6,Post-Update
+2826,2024-06-21,iOS,Organic,Tier-2,25-34,6,Post-Update
+2827,2024-02-17,Android,Instagram,Tier-2,45+,2,Pre-Update
+2828,2024-05-31,iOS,Google Ads,Tier-3,18-24,5,Post-Update
+2829,2024-04-05,iOS,Google Ads,Tier-2,45+,4,Post-Update
+2830,2024-01-18,iOS,Instagram,Tier-2,25-34,1,Pre-Update
+2831,2024-05-10,Web,Google Ads,Tier-3,25-34,5,Post-Update
+2832,2024-02-06,Android,Organic,Tier-1,45+,2,Pre-Update
+2833,2024-04-08,iOS,YouTube,Tier-1,35-44,4,Post-Update
+2834,2024-02-13,Web,Organic,Tier-3,18-24,2,Pre-Update
+2835,2024-01-16,Android,Organic,Tier-3,45+,1,Pre-Update
+2836,2024-02-27,iOS,Instagram,Tier-1,45+,2,Pre-Update
+2837,2024-04-26,Web,Organic,Tier-2,45+,4,Post-Update
+2838,2024-02-25,iOS,Google Ads,Tier-1,18-24,2,Pre-Update
+2839,2024-01-28,Web,Organic,Tier-2,45+,1,Pre-Update
+2840,2024-03-05,Web,Instagram,Tier-2,25-34,3,Pre-Update
+2841,2024-06-08,Android,Instagram,Tier-1,45+,6,Post-Update
+2842,2024-06-17,iOS,Instagram,Tier-2,18-24,6,Post-Update
+2843,2024-01-15,iOS,Organic,Tier-3,25-34,1,Pre-Update
+2844,2024-03-22,Web,Google Ads,Tier-2,35-44,3,Post-Update
+2845,2024-01-06,iOS,Instagram,Tier-3,18-24,1,Pre-Update
+2846,2024-06-28,Android,YouTube,Tier-3,25-34,6,Post-Update
+2847,2024-03-13,Android,Organic,Tier-3,18-24,3,Pre-Update
+2848,2024-01-19,iOS,Google Ads,Tier-2,35-44,1,Pre-Update
+2849,2024-03-02,iOS,Instagram,Tier-2,45+,3,Pre-Update
+2850,2024-05-20,Android,Google Ads,Tier-1,25-34,5,Post-Update
+2851,2024-02-28,Android,Google Ads,Tier-1,35-44,2,Pre-Update
+2852,2024-01-13,iOS,Instagram,Tier-2,45+,1,Pre-Update
+2853,2024-01-11,Web,Instagram,Tier-3,18-24,1,Pre-Update
+2854,2024-06-06,Android,Google Ads,Tier-3,25-34,6,Post-Update
+2855,2024-04-30,Web,YouTube,Tier-2,18-24,4,Post-Update
+2856,2024-06-25,iOS,YouTube,Tier-2,35-44,6,Post-Update
+2857,2024-05-04,Web,Instagram,Tier-1,25-34,5,Post-Update
+2858,2024-03-20,Web,Organic,Tier-1,25-34,3,Post-Update
+2859,2024-06-26,Android,Organic,Tier-1,18-24,6,Post-Update
+2860,2024-05-24,iOS,Instagram,Tier-3,18-24,5,Post-Update
+2861,2024-05-23,Web,YouTube,Tier-2,18-24,5,Post-Update
+2862,2024-02-24,Web,YouTube,Tier-1,25-34,2,Pre-Update
+2863,2024-03-30,iOS,Google Ads,Tier-2,35-44,3,Post-Update
+2864,2024-06-03,Android,YouTube,Tier-1,45+,6,Post-Update
+2865,2024-02-15,Web,YouTube,Tier-3,25-34,2,Pre-Update
+2866,2024-01-27,iOS,Organic,Tier-2,18-24,1,Pre-Update
+2867,2024-05-29,iOS,Instagram,Tier-1,45+,5,Post-Update
+2868,2024-01-24,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+2869,2024-06-29,Android,Google Ads,Tier-3,35-44,6,Post-Update
+2870,2024-06-05,Web,YouTube,Tier-3,45+,6,Post-Update
+2871,2024-05-28,Android,YouTube,Tier-2,18-24,5,Post-Update
+2872,2024-01-30,iOS,Instagram,Tier-3,25-34,1,Pre-Update
+2873,2024-02-04,Android,Google Ads,Tier-1,25-34,2,Pre-Update
+2874,2024-03-04,Android,Google Ads,Tier-2,18-24,3,Pre-Update
+2875,2024-04-09,Android,Google Ads,Tier-2,18-24,4,Post-Update
+2876,2024-06-17,iOS,Google Ads,Tier-2,18-24,6,Post-Update
+2877,2024-03-13,Android,YouTube,Tier-2,25-34,3,Pre-Update
+2878,2024-05-16,Web,Instagram,Tier-3,45+,5,Post-Update
+2879,2024-01-12,Android,Google Ads,Tier-2,25-34,1,Pre-Update
+2880,2024-02-20,iOS,YouTube,Tier-1,35-44,2,Pre-Update
+2881,2024-05-01,Android,Instagram,Tier-2,35-44,5,Post-Update
+2882,2024-04-04,Android,Organic,Tier-1,45+,4,Post-Update
+2883,2024-05-02,iOS,Google Ads,Tier-3,25-34,5,Post-Update
+2884,2024-02-02,Web,Instagram,Tier-3,35-44,2,Pre-Update
+2885,2024-03-06,Web,YouTube,Tier-3,25-34,3,Pre-Update
+2886,2024-01-20,iOS,Google Ads,Tier-3,25-34,1,Pre-Update
+2887,2024-02-24,iOS,Organic,Tier-2,18-24,2,Pre-Update
+2888,2024-02-14,iOS,YouTube,Tier-1,18-24,2,Pre-Update
+2889,2024-01-02,iOS,Instagram,Tier-2,18-24,1,Pre-Update
+2890,2024-05-13,Android,Instagram,Tier-2,45+,5,Post-Update
+2891,2024-02-02,Android,Google Ads,Tier-2,18-24,2,Pre-Update
+2892,2024-06-13,Web,YouTube,Tier-3,18-24,6,Post-Update
+2893,2024-01-30,Android,Google Ads,Tier-1,35-44,1,Pre-Update
+2894,2024-04-14,iOS,Organic,Tier-1,25-34,4,Post-Update
+2895,2024-01-03,Android,YouTube,Tier-3,18-24,1,Pre-Update
+2896,2024-01-11,iOS,YouTube,Tier-1,25-34,1,Pre-Update
+2897,2024-05-11,Android,YouTube,Tier-3,35-44,5,Post-Update
+2898,2024-04-19,iOS,Google Ads,Tier-3,35-44,4,Post-Update
+2899,2024-01-27,Web,Instagram,Tier-3,25-34,1,Pre-Update
+2900,2024-02-21,Android,YouTube,Tier-2,25-34,2,Pre-Update
+2901,2024-05-21,Web,Instagram,Tier-3,25-34,5,Post-Update
+2902,2024-02-05,Android,Google Ads,Tier-3,25-34,2,Pre-Update
+2903,2024-05-27,Android,YouTube,Tier-2,35-44,5,Post-Update
+2904,2024-02-10,Android,Instagram,Tier-3,35-44,2,Pre-Update
+2905,2024-05-27,Android,YouTube,Tier-2,45+,5,Post-Update
+2906,2024-06-13,iOS,Google Ads,Tier-1,18-24,6,Post-Update
+2907,2024-04-02,Web,Google Ads,Tier-3,25-34,4,Post-Update
+2908,2024-03-05,Android,YouTube,Tier-3,18-24,3,Pre-Update
+2909,2024-06-27,iOS,Instagram,Tier-3,35-44,6,Post-Update
+2910,2024-01-07,iOS,YouTube,Tier-3,25-34,1,Pre-Update
+2911,2024-03-06,Android,Instagram,Tier-2,35-44,3,Pre-Update
+2912,2024-06-04,iOS,YouTube,Tier-1,45+,6,Post-Update
+2913,2024-06-24,iOS,Organic,Tier-1,18-24,6,Post-Update
+2914,2024-05-23,iOS,YouTube,Tier-3,25-34,5,Post-Update
+2915,2024-01-11,iOS,Instagram,Tier-1,25-34,1,Pre-Update
+2916,2024-05-22,Web,YouTube,Tier-3,25-34,5,Post-Update
+2917,2024-01-15,iOS,Organic,Tier-1,25-34,1,Pre-Update
+2918,2024-05-22,iOS,Google Ads,Tier-1,25-34,5,Post-Update
+2919,2024-06-16,Web,Google Ads,Tier-2,35-44,6,Post-Update
+2920,2024-03-26,iOS,Google Ads,Tier-2,18-24,3,Post-Update
+2921,2024-04-05,Android,Instagram,Tier-2,18-24,4,Post-Update
+2922,2024-06-17,Android,Organic,Tier-1,18-24,6,Post-Update
+2923,2024-02-12,iOS,YouTube,Tier-3,25-34,2,Pre-Update
+2924,2024-04-09,iOS,Instagram,Tier-2,25-34,4,Post-Update
+2925,2024-06-17,iOS,Organic,Tier-3,18-24,6,Post-Update
+2926,2024-03-19,Web,Organic,Tier-2,25-34,3,Post-Update
+2927,2024-04-10,Web,Instagram,Tier-2,18-24,4,Post-Update
+2928,2024-01-12,iOS,Instagram,Tier-1,35-44,1,Pre-Update
+2929,2024-02-05,Android,Google Ads,Tier-1,25-34,2,Pre-Update
+2930,2024-06-11,Android,YouTube,Tier-3,25-34,6,Post-Update
+2931,2024-02-23,Android,Google Ads,Tier-2,25-34,2,Pre-Update
+2932,2024-03-14,Android,YouTube,Tier-1,18-24,3,Pre-Update
+2933,2024-01-06,Web,Instagram,Tier-2,18-24,1,Pre-Update
+2934,2024-02-18,Web,Google Ads,Tier-1,18-24,2,Pre-Update
+2935,2024-02-29,Android,YouTube,Tier-3,25-34,2,Pre-Update
+2936,2024-01-27,iOS,YouTube,Tier-3,45+,1,Pre-Update
+2937,2024-02-01,Web,Organic,Tier-1,35-44,2,Pre-Update
+2938,2024-06-26,Web,Google Ads,Tier-1,45+,6,Post-Update
+2939,2024-04-30,Android,Google Ads,Tier-2,18-24,4,Post-Update
+2940,2024-02-06,Android,YouTube,Tier-1,25-34,2,Pre-Update
+2941,2024-02-14,Web,YouTube,Tier-3,45+,2,Pre-Update
+2942,2024-02-03,iOS,YouTube,Tier-1,45+,2,Pre-Update
+2943,2024-01-22,iOS,Google Ads,Tier-3,18-24,1,Pre-Update
+2944,2024-04-01,Web,Google Ads,Tier-2,18-24,4,Post-Update
+2945,2024-05-12,Android,YouTube,Tier-2,25-34,5,Post-Update
+2946,2024-04-26,Android,Organic,Tier-1,25-34,4,Post-Update
+2947,2024-03-31,Android,Organic,Tier-1,45+,3,Post-Update
+2948,2024-03-01,iOS,Google Ads,Tier-3,45+,3,Pre-Update
+2949,2024-02-17,Web,Instagram,Tier-2,45+,2,Pre-Update
+2950,2024-02-18,Web,Google Ads,Tier-1,18-24,2,Pre-Update
+2951,2024-04-11,iOS,Instagram,Tier-2,25-34,4,Post-Update
+2952,2024-03-23,Android,Google Ads,Tier-2,18-24,3,Post-Update
+2953,2024-03-03,iOS,YouTube,Tier-1,25-34,3,Pre-Update
+2954,2024-05-02,Android,Instagram,Tier-3,18-24,5,Post-Update
+2955,2024-06-05,Android,Google Ads,Tier-1,45+,6,Post-Update
+2956,2024-04-08,iOS,YouTube,Tier-2,35-44,4,Post-Update
+2957,2024-03-08,iOS,Instagram,Tier-1,18-24,3,Pre-Update
+2958,2024-05-19,Android,Google Ads,Tier-2,35-44,5,Post-Update
+2959,2024-01-15,Web,YouTube,Tier-2,18-24,1,Pre-Update
+2960,2024-03-13,iOS,Google Ads,Tier-3,18-24,3,Pre-Update
+2961,2024-02-20,iOS,Google Ads,Tier-1,25-34,2,Pre-Update
+2962,2024-02-03,Android,Google Ads,Tier-1,18-24,2,Pre-Update
+2963,2024-03-13,Web,Instagram,Tier-3,18-24,3,Pre-Update
+2964,2024-04-11,iOS,Organic,Tier-2,45+,4,Post-Update
+2965,2024-03-06,Android,Instagram,Tier-3,25-34,3,Pre-Update
+2966,2024-01-18,Android,Google Ads,Tier-2,18-24,1,Pre-Update
+2967,2024-05-03,Web,YouTube,Tier-3,35-44,5,Post-Update
+2968,2024-05-09,Android,YouTube,Tier-2,25-34,5,Post-Update
+2969,2024-03-27,iOS,YouTube,Tier-1,35-44,3,Post-Update
+2970,2024-01-24,Android,YouTube,Tier-3,25-34,1,Pre-Update
+2971,2024-02-02,Android,YouTube,Tier-3,35-44,2,Pre-Update
+2972,2024-06-08,iOS,Google Ads,Tier-3,25-34,6,Post-Update
+2973,2024-06-15,Web,Instagram,Tier-2,45+,6,Post-Update
+2974,2024-05-20,iOS,YouTube,Tier-1,45+,5,Post-Update
+2975,2024-05-18,Android,Instagram,Tier-2,45+,5,Post-Update
+2976,2024-06-04,Web,YouTube,Tier-2,25-34,6,Post-Update
+2977,2024-04-22,iOS,Organic,Tier-2,18-24,4,Post-Update
+2978,2024-02-15,iOS,YouTube,Tier-2,35-44,2,Pre-Update
+2979,2024-01-26,Android,Organic,Tier-2,35-44,1,Pre-Update
+2980,2024-05-17,iOS,YouTube,Tier-2,25-34,5,Post-Update
+2981,2024-06-27,Android,Google Ads,Tier-3,45+,6,Post-Update
+2982,2024-01-23,iOS,Instagram,Tier-3,35-44,1,Pre-Update
+2983,2024-02-18,iOS,Instagram,Tier-3,25-34,2,Pre-Update
+2984,2024-05-26,Android,Instagram,Tier-2,25-34,5,Post-Update
+2985,2024-03-23,Android,Organic,Tier-1,45+,3,Post-Update
+2986,2024-04-08,iOS,Organic,Tier-1,25-34,4,Post-Update
+2987,2024-02-22,iOS,Instagram,Tier-2,45+,2,Pre-Update
+2988,2024-05-13,iOS,YouTube,Tier-1,25-34,5,Post-Update
+2989,2024-05-13,Android,Instagram,Tier-2,18-24,5,Post-Update
+2990,2024-06-27,iOS,Google Ads,Tier-3,35-44,6,Post-Update
+2991,2024-02-15,Web,Google Ads,Tier-1,25-34,2,Pre-Update
+2992,2024-06-26,Android,Instagram,Tier-1,25-34,6,Post-Update
+2993,2024-02-22,iOS,YouTube,Tier-1,25-34,2,Pre-Update
+2994,2024-01-17,Web,Organic,Tier-2,25-34,1,Pre-Update
+2995,2024-01-24,Web,YouTube,Tier-2,25-34,1,Pre-Update
+2996,2024-05-29,Web,Organic,Tier-1,18-24,5,Post-Update
+2997,2024-01-22,Web,Organic,Tier-1,25-34,1,Pre-Update
+2998,2024-06-19,iOS,Organic,Tier-3,25-34,6,Post-Update
+2999,2024-02-18,Android,Organic,Tier-2,35-44,2,Pre-Update
+3000,2024-03-29,Android,Instagram,Tier-1,25-34,3,Post-Update
